@@ -12,6 +12,10 @@ This is the native Linux version, written in **Rust** with a **Qt 6 / QML** inte
 
 *The weekly Gazette covers the league, and the sidebar gets you to everything else.*
 
+![League standings and recent results](docs/league.png)
+
+*League standings by division, with recent results from around the league.*
+
 ## Features
 
 - Pick a state (California, Texas, Florida or Pennsylvania) and a town from a dealt league of 12 clubs in 3 divisions, with a map of where everyone is

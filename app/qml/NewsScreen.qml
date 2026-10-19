@@ -56,7 +56,6 @@ Item {
             RowLayout {
                 Layout.fillWidth: true
                 spacing: 12
-                Helmet { slug: root.vm.helmet || ""; size: 56 }
                 ColumnLayout {
                     spacing: 0
                     ScreenTitle { text: (root.vm.region || "") + " Gazette" }
