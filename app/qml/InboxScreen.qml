@@ -148,6 +148,13 @@ Item {
                         color: Theme.inkFaint; font.pixelSize: 11; wrapMode: Text.WordWrap; Layout.fillWidth: true
                     }
                     PrimaryButton {
+                        readonly property var tabFor: ({ "Sponsor": "Sponsors", "Bank": "Loan", "Council": "Council", "Promo": "Tickets" })
+                        visible: tabFor[modelData.kind] !== undefined
+                        text: modelData.kind === "Sponsor" ? "See sponsor offers" : (modelData.kind === "Bank" ? "Open loan" : (modelData.kind === "Council" ? "Open council" : "Open tickets and promos"))
+                        implicitHeight: 32
+                        onClicked: Store.openFinanceTab(tabFor[modelData.kind])
+                    }
+                    PrimaryButton {
                         visible: modelData.playerId !== null && modelData.playerId !== undefined
                         text: "View player"; ghost: true; implicitHeight: 32
                         onClicked: Store.openPlayer(modelData.playerId)

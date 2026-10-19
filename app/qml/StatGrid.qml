@@ -30,6 +30,7 @@ Item {
     Text { visible: root.sorted.length === 0; text: root.empty; color: Theme.inkSubtle; font.pixelSize: 13; anchors.left: parent.left; anchors.top: parent.top; anchors.topMargin: 8 }
 
     Flickable {
+        id: flick
         visible: root.sorted.length > 0
         anchors.fill: parent
         anchors.bottomMargin: root.sorted.length > root.shown ? 44 : 0
@@ -41,7 +42,7 @@ Item {
         boundsBehavior: Flickable.StopAtBounds
         ColumnLayout {
             id: col
-            width: parent.contentWidth
+            width: flick.contentWidth   // (parent is the content item, which has no contentWidth: the rows had zero width and nothing to tap)
             spacing: 0
             // header
             Rectangle {

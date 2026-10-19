@@ -141,7 +141,7 @@ Item {
                 FreeAgentsScreen {}
                 LeagueScreen {}
                 InboxScreen {}
-                FinancesScreen {}
+                FinancesScreen { id: financesScreen }
                 StrategyScreen {}
                 DepthScreen {}
                 TradesScreen {}
@@ -160,13 +160,14 @@ Item {
             else if (res.phaseAfter === "Complete" && JSON.parse(Store.game.storyJson("champion")).name) Store.openStory("champion");
         }
     }
-    PlayerDialog { id: playerDlg; parent: Overlay.overlay }
-    NegotiationDialog { id: negDlg; parent: Overlay.overlay }
+    PlayerDialog { id: playerDlg; parent: Overlay.overlay; z: 10 }
+    NegotiationDialog { id: negDlg; parent: Overlay.overlay; z: 11 }
     BoxScoreDialog { id: boxDlg; parent: Overlay.overlay }
     StoryOverlay { id: storyDlg }
     TutorialOverlay { id: tutorial; onClosed: Store.game.setSetting("tutorialSeen", "true") }
     Connections {
         target: Store
+        function onFinanceTabRequested(tab) { financesScreen.tab = tab; shell.page = 6; }
         function onPlayerRequested(id) { playerDlg.show(id); }
         function onNegotiateRequested(id) { negDlg.show(id); }
         function onBoxRequested(i) { boxDlg.show(i); }

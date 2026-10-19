@@ -10,11 +10,13 @@ QtObject {
 
     // Screens ask the shell to open dialogs.
     signal playerRequested(int id)
+    signal financeTabRequested(string tab)
     signal negotiateRequested(int id)
     signal storyRequested(string kind)
     function openStory(k) { storyRequested(k); }
     signal boxRequested(int index)
     function openBox(i) { boxRequested(i); }
     function openPlayer(id) { playerRequested(id); }
+    function openFinanceTab(tab) { financeTabRequested(tab); }
     function openNegotiation(id) { negotiateRequested(id); }
 }
