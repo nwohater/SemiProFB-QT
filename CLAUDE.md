@@ -38,3 +38,6 @@ TODO: (no trophy animation: the team photo replaces it) depth-chart drag + forma
 - Starting rosters: Dart never passed `nearbyTowns` to `TeamGenerator.generate`, so every starting player was a local (the 55% local split was dead code). Port passes the other division towns, giving ~55% local.
 - Slider handles still use the default black Basic style (theme later).
 - QML gotchas: an `id: gc` fails qmlcachegen (masks the global gc()); small PrimaryButtons need explicit leftPadding/rightPadding or the label collapses; Basic-style CheckBox/Slider are unthemed -> use Check.qml / Slide.qml.
+
+## License
+Code: MIT (`LICENSE`). Art, music, names and branding: all rights reserved (`LICENSE-ASSETS.md`).
