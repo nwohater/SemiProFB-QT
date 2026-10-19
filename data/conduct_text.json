@@ -1,0 +1,385 @@
+{
+ "asks": [
+  "You can pay {amt} and it goes away, or he sits {gm} and gets to think about it.",
+  "The Accountant says {amt} would settle it quietly. If not, he is out {gm}.",
+  "Pay {amt} and he plays this week. Or let him face it and he misses {gm}.",
+  "Settling costs {amt}. Not settling costs you {gm} of his time."
+ ],
+ "incidents": [
+  {
+   "tier": 0,
+   "title": "speeding ticket",
+   "body": "{p} was clocked at 74 in a 35 outside {town} in a borrowed pickup. The officer recognized the jersey and wrote it anyway."
+  },
+  {
+   "tier": 0,
+   "title": "tow truck",
+   "body": "{p} parked in the fire lane at the {town} courthouse to \"just run in.\" The tow truck beat him back. So did the clerk."
+  },
+  {
+   "tier": 0,
+   "title": "bar tab",
+   "body": "{p} left a bar tab, a borrowed guitar and a lot of questions at the Silver Spur. The owner still has the guitar."
+  },
+  {
+   "tier": 0,
+   "title": "disturbing the peace",
+   "body": "{p} explained a zone defense, loudly and with a ketchup bottle, to the entire Dairy Barn at 1 a.m."
+  },
+  {
+   "tier": 0,
+   "title": "Country Boy drive-thru",
+   "body": "{p} sat at the Country Boy drive-thru speaker for forty minutes trying to decide between two kinds of fries. Eleven cars, one manager and a very long line made the decision for him."
+  },
+  {
+   "tier": 0,
+   "title": "parade waving",
+   "body": "{p} was asked to wave from the {town} parade float. He waved. He also threw a full bag of candy, hard, at a heckler. The heckler was a retired judge."
+  },
+  {
+   "tier": 0,
+   "title": "library fine",
+   "body": "{p} returned a library book eleven years late. It was a cookbook. It had notes in it. The librarian wants you to know she has a long memory."
+  },
+  {
+   "tier": 0,
+   "title": "karate lesson",
+   "body": "{p} signed up for a free karate lesson, then \"demonstrated\" the last move on the instructor. The instructor is fine. The wall is not."
+  },
+  {
+   "tier": 0,
+   "title": "wrong parade route",
+   "body": "{p} drove the team trailer down the {town} parade route an hour before the parade. Nobody had the heart to stop him. The council did, afterward."
+  },
+  {
+   "tier": 0,
+   "title": "group chat leak",
+   "body": "{p} meant to send a joke to the group chat. He sent it to the Town Council, the booster club and his grandmother. Grandma replied first."
+  },
+  {
+   "tier": 0,
+   "title": "mascot dispute",
+   "body": "{p} challenged the {town} mascot to a dance-off at halftime of a youth game. The mascot has not forgiven him. Neither have the kids."
+  },
+  {
+   "tier": 0,
+   "title": "karaoke night",
+   "body": "{p} sang the same song four times at karaoke night, the last time through the owner's office door. The owner wants it known he is not a fan."
+  },
+  {
+   "tier": 0,
+   "title": "shopping cart",
+   "body": "{p} rode a shopping cart down the hill behind the {town} grocery store. The cart is fine. The parked minivan is not."
+  },
+  {
+   "tier": 0,
+   "title": "pizza order",
+   "body": "{p} ordered eleven pizzas to the visiting team's hotel, as a \"joke.\" The visitors ate every one and sent a thank-you card. The pizza place sent a bill."
+  },
+  {
+   "tier": 0,
+   "title": "borrowed golf cart",
+   "body": "{p} borrowed a golf cart from the country club. It is now in the pond on the seventh hole. So is his phone."
+  },
+  {
+   "tier": 0,
+   "title": "inflatable santa",
+   "body": "{p} \"rescued\" a six-foot inflatable Santa from a {town} front lawn in July. Santa is fine. The lawn's owner has a camera and a long list of questions."
+  },
+  {
+   "tier": 0,
+   "title": "corn maze",
+   "body": "{p} got lost in the {town} corn maze and called 911 from inside it. Twice. The second time the dispatcher stayed on the line just to enjoy it."
+  },
+  {
+   "tier": 0,
+   "title": "sprinkler system",
+   "body": "{p} set off the sprinklers at a {town} wedding reception while \"demonstrating a tackle\" on the groom's uncle. The cake took it hardest."
+  },
+  {
+   "tier": 0,
+   "title": "trophy case",
+   "body": "{p} was caught at the {town} high school at midnight, \"just looking\" at his old trophy case. He had a crowbar. He says it was for emotional support."
+  },
+  {
+   "tier": 0,
+   "title": "leaf blower",
+   "body": "{p} ran a leaf blower at the {town} Little League game \"to help the umpire see.\" The umpire could see fine. The infield dirt is now in the parking lot."
+  },
+  {
+   "tier": 0,
+   "title": "drive-thru confusion",
+   "body": "{p} paid for the car behind him at the drive-thru, then the car behind that, then eleven more. The line did not move for an hour. Neither did the manager's smile."
+  },
+  {
+   "tier": 0,
+   "title": "lost dog flyers",
+   "body": "{p} put up \"LOST DOG\" flyers all over {town} for a dog he does not own. The dog was found. The dog's owner has a flyer of his own about {p}."
+  },
+  {
+   "tier": 0,
+   "title": "sample table",
+   "body": "{p} ate every free sample at the {town} grocery store, then came back in a different hat. The sample lady has a long memory and a short list."
+  },
+  {
+   "tier": 0,
+   "title": "jersey on the statue",
+   "body": "{p} dressed the {town} founder's statue in a team jersey at 2 a.m. The jersey fits. The city says the statue never asked."
+  },
+  {
+   "tier": 0,
+   "title": "loud muffler",
+   "body": "{p} installed a \"performance\" muffler on his {job} truck. It can be heard from the next county. It woke the sheriff's baby. Twice."
+  },
+  {
+   "tier": 1,
+   "title": "fish tank",
+   "body": "{p} thought the fish tank was a toilet at the local Basque restaurant. The fish are fine. The tank, the carpet and the owner's evening are not."
+  },
+  {
+   "tier": 1,
+   "title": "bachelor party",
+   "body": "{p} was the best man at a bachelor party that ended with a rented donkey, a locked storage unit and the groom missing for a day. The groom is back. The donkey is not."
+  },
+  {
+   "tier": 1,
+   "title": "ladder incident",
+   "body": "{p} borrowed the neighbor's ladder to \"check the roof\" at 3 a.m. after a bad night. He did not check the roof. He did check the neighbor's satellite dish, now in the yard."
+  },
+  {
+   "tier": 1,
+   "title": "church raffle",
+   "body": "{p} bought every ticket in the church raffle, won everything, and then demanded a recount when the prize was a pie. The pastor has asked that this stay out of the sermon."
+  },
+  {
+   "tier": 1,
+   "title": "borrowed horse",
+   "body": "{p} rode a horse into the {town} courthouse to \"make a point.\" The point was made. The horse left a few of its own."
+  },
+  {
+   "tier": 1,
+   "title": "fantasy league feud",
+   "body": "{p} accused a coworker of cheating in the office fantasy league and followed him to the parking lot to say so. The {job} supervisor was not amused. Neither was the coworker's truck."
+  },
+  {
+   "tier": 1,
+   "title": "borrowed boat",
+   "body": "{p} took a buddy's fishing boat out \"for ten minutes.\" It spent two days on a sandbar and came back with a hole and a very confused goose."
+  },
+  {
+   "tier": 1,
+   "title": "bad business deal",
+   "body": "{p} invested his signing money in a hot-sauce company run by a man named Slick. There is no hot sauce. There is a lawsuit."
+  },
+  {
+   "tier": 1,
+   "title": "pet escape",
+   "body": "{p}'s pet python got loose in the apartment building. The python is fine. The neighbors want to be paid for therapy and for the python's rent."
+  },
+  {
+   "tier": 1,
+   "title": "lawn dispute",
+   "body": "{p} and his neighbor have been fighting over a hedge for three years. It ended when {p} took the hedge, the fence and part of the neighbor's porch with a borrowed tractor."
+  },
+  {
+   "tier": 1,
+   "title": "angry girlfriend",
+   "body": "{p} was caught cheating. His girlfriend found out about the other girlfriend, the one in the next county. She has his truck keys, his dog and a cousin who is a lawyer."
+  },
+  {
+   "tier": 1,
+   "title": "bar fight",
+   "body": "{p} and a man in a feed cap disagreed about last week's game. The man's dentist now has opinions, and so does his brother."
+  },
+  {
+   "tier": 1,
+   "title": "trailer incident",
+   "body": "{p} backed the equipment trailer into the front of the Methodist church. The sign now reads \"GOD IS WA CHING.\""
+  },
+  {
+   "tier": 1,
+   "title": "ex-wedding scene",
+   "body": "{p} showed up at his ex's wedding \"to wish her well.\" The cake did not survive the toast."
+  },
+  {
+   "tier": 1,
+   "title": "car vs. mailboxes",
+   "body": "{p} took out eleven mailboxes on Maple Street in one pass. The mail carrier says it was the best the street ever looked."
+  },
+  {
+   "tier": 1,
+   "title": "goat rental",
+   "body": "{p} rented eleven goats to \"clear the lot behind the stadium.\" The goats cleared the lot, the concession stand and the visiting team's bus seats. Nobody asked where he got the goats."
+  },
+  {
+   "tier": 1,
+   "title": "crop duster",
+   "body": "{p} bet a buddy he could \"just sit in\" a crop duster for one photo. He turned a key. The photo is now Exhibit B."
+  },
+  {
+   "tier": 1,
+   "title": "chili cook-off",
+   "body": "{p} was disqualified from the {town} chili cook-off for \"extra ingredients.\" The judges would like to talk about the ingredients. So would the health department."
+  },
+  {
+   "tier": 1,
+   "title": "Lemon Chicken",
+   "body": "{p} walked into Kong's Chinese, asked for the Lemon Chicken and was told it was not on the menu this week. He asked three more times, louder each time. Chairs were involved. So was a fish tank, a lazy Susan and Mrs. Kong's favorite ladle. Everyone is fine. The Lemon Chicken is still not on the menu."
+  },
+  {
+   "tier": 1,
+   "title": "tailgate takeover",
+   "body": "{p} claimed the best parking spot at the {town} stadium for the whole season by chaining a grill to it. The grill is still there. So is the chain. The groundskeeper is out of patience and bolt cutters."
+  },
+  {
+   "tier": 1,
+   "title": "spelling bee",
+   "body": "{p} showed up to cheer at his niece's spelling bee and disputed a ruling, with feeling. The judge was a retired principal. The retired principal remembers him."
+  },
+  {
+   "tier": 1,
+   "title": "haunted house",
+   "body": "{p} took a job as a \"scare actor\" at the {town} haunted house and scared a man so badly he ran through a plywood wall. The man is fine. The wall is not. The haunted house would like some distance."
+  },
+  {
+   "tier": 1,
+   "title": "underwear wrestling league",
+   "body": "{p} tried to start an underwear wrestling league with some guys in the parking lot of Bill Lee's Restaurant. He had a ring made of folding chairs, a bell and a sign-up sheet. The dinner crowd had phones. Bill Lee had a word with the sheriff."
+  },
+  {
+   "tier": 1,
+   "title": "drone incident",
+   "body": "{p} flew a drone over the {town} high school to \"scout\" a rival's practice. It lost the fight with the goalpost and then the fight with the principal's car."
+  },
+  {
+   "tier": 1,
+   "title": "reply-all",
+   "body": "{p} replied-all to the entire {town} booster list with his opinion of the coach. Then again with a correction. Then again with an apology that made it worse."
+  },
+  {
+   "tier": 1,
+   "title": "minigolf tournament",
+   "body": "{p} was thrown out of the {town} minigolf tournament for \"creative scoring\" and a windmill he now owns. The windmill is in his truck."
+  },
+  {
+   "tier": 2,
+   "title": "wrong house",
+   "body": "{p} came home, found someone sitting in his chair, and handled it. It was not his house. It was a former mayor's, and the former mayor kept a nice record of events."
+  },
+  {
+   "tier": 2,
+   "title": "cow on the highway",
+   "body": "{p} hauled a neighbor's cow home in a pickup bed, lost it on the highway and delayed the 5 p.m. freight for an hour. The cow is safe. The railroad is not forgiving."
+  },
+  {
+   "tier": 2,
+   "title": "fireworks",
+   "body": "{p} lit \"just a few\" fireworks in the stadium lot. They were not a few. They were also not legal. The grass was dry. The fire department knows his name now."
+  },
+  {
+   "tier": 2,
+   "title": "tow yard escape",
+   "body": "{p} climbed the fence at the tow yard to \"get his truck back.\" He got his truck back. He also got three other trucks out and a guard dog onto a golf cart."
+  },
+  {
+   "tier": 2,
+   "title": "diner tab",
+   "body": "{p} told a diner he was \"good for it\" and then ate there for a year. The tab is now a framed poster on the wall. The owner has a lawyer who likes posters."
+  },
+  {
+   "tier": 2,
+   "title": "sheriff and his mother",
+   "body": "{p} did something that the sheriff and his own mother both want to discuss. The sheriff is the calmer of the two. Neither is leaving."
+  },
+  {
+   "tier": 2,
+   "title": "stolen bulldozer",
+   "body": "{p} took a bulldozer from a construction site \"to fix the parking lot.\" The parking lot is fixed. So are the neighbor's fence, a duck pond and a small hill."
+  },
+  {
+   "tier": 2,
+   "title": "street race",
+   "body": "{p} raced a man in a rented limousine down Main Street at 2 a.m. Nobody was hurt. The limousine company would like its limousine back, in the same condition."
+  },
+  {
+   "tier": 2,
+   "title": "fake news interview",
+   "body": "{p} told a reporter the owner \"has never met a football.\" The reporter printed it, the paper ran it on the front page, and the owner has a very long memory."
+  },
+  {
+   "tier": 2,
+   "title": "bridal shop",
+   "body": "{p} drove his truck through the front window of the bridal shop to \"get a better look.\" Four dresses were damaged. One is on the hood."
+  },
+  {
+   "tier": 2,
+   "title": "bad tattoo",
+   "body": "{p} got a tattoo of the team logo, misspelled, across his back, and then took the tattoo artist to court over it. He lost. The artist now wants costs."
+  },
+  {
+   "tier": 2,
+   "title": "assault",
+   "body": "{p} put a man through the window of Rick's Rim Shop over a parking spot. The man is fine. The window is not. His lawyer would like a word."
+  },
+  {
+   "tier": 2,
+   "title": "husband came home early",
+   "body": "{p} was found, shall we say, away from his own address by a husband who came home early. Nobody was seriously hurt. The husband is the sheriff's brother-in-law."
+  },
+  {
+   "tier": 2,
+   "title": "gambling debt",
+   "body": "{p} owes a man named Tiny a great deal of money. Tiny is not tiny. Tiny has been to the practice field twice."
+  },
+  {
+   "tier": 2,
+   "title": "smashed truck",
+   "body": "{p} threw a cooler through the windshield of a pickup after a bad night at the lanes. It was the wrong pickup. It belongs to a county commissioner."
+  },
+  {
+   "tier": 2,
+   "title": "UFO and the helicopter",
+   "body": "{p} saw something in the night sky over {town} and was sure it was a UFO. He threw a rock at it. It was a police helicopter. The rock hit the tail rotor housing, and the pilot has questions."
+  },
+  {
+   "tier": 2,
+   "title": "parade float fire",
+   "body": "{p} lit a \"ceremonial\" flare on the {town} parade float for the finale. The float was made of crepe paper and hope. It is now neither."
+  },
+  {
+   "tier": 2,
+   "title": "swan incident",
+   "body": "{p} chased a swan out of the {town} park pond with a lawn chair, then the park ranger, then the ranger's truck. The swan was fine. The pond, the chair and the truck are not."
+  },
+  {
+   "tier": 2,
+   "title": "borrowed ambulance",
+   "body": "{p} moved a buddy's couch in a borrowed ambulance, lights on, \"to save time.\" The couch arrived. So did the highway patrol and a very annoyed county dispatcher."
+  },
+  {
+   "tier": 2,
+   "title": "duck pond demolition",
+   "body": "{p} drove the lawnmower into the {town} duck pond to \"prove it floats.\" It does not. The ducks have filed a complaint through the parks department, and the parks department has filed one with you."
+  },
+  {
+   "tier": 2,
+   "title": "water tower",
+   "body": "{p} climbed the {town} water tower to paint the team logo on it. He got the logo up and the town's water off for a day. The paint job is, to be fair, excellent."
+  },
+  {
+   "tier": 2,
+   "title": "tractor pull",
+   "body": "{p} entered the county tractor pull in a pickup he had \"modified.\" It pulled. So did the fence, the announcer's booth and a lot of local attention."
+  },
+  {
+   "tier": 2,
+   "title": "fake emergency",
+   "body": "{p} called in a fake emergency at the {town} water park to \"see how fast they would come.\" They came fast. Eleven vehicles. The water park wants the bill, the sheriff wants a word."
+  },
+  {
+   "tier": 2,
+   "title": "borrowed fire truck",
+   "body": "{p} drove the {town} fire truck around the block \"to see how it handled\" while the crew ate lunch. It handled. The crew came out to find an empty bay and a very long siren."
+  }
+ ]
+}

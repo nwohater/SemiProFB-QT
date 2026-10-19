@@ -1,0 +1,442 @@
+{
+ "sponsorClauses": [
+  {
+   "id": "hat",
+   "text": "Mascot wears our logo hat. At all times.",
+   "payMult": 1.0,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.0,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "nephew",
+   "text": "Field is renamed after the owner's nephew.",
+   "payMult": 1.1,
+   "minWinPct": 0.0,
+   "fanPerGame": -0.3,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "tire",
+   "text": "Halftime \"Spin the Tire\" contest, players must participate.",
+   "payMult": 1.15,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.0,
+   "attMult": 1.0,
+   "costPerGame": 50,
+   "winBonus": 0
+  },
+  {
+   "id": "smile",
+   "text": "Players must smile in the team photo.",
+   "payMult": 0.92,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.2,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "jersey",
+   "text": "Our banner goes across every jersey.",
+   "payMult": 1.22,
+   "minWinPct": 0.0,
+   "fanPerGame": -0.4,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "timeout",
+   "text": "Every timeout is \"brought to you by\" us, over the PA.",
+   "payMult": 1.12,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.0,
+   "attMult": 0.97,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "sample",
+   "text": "Free sample table at the gate, staffed by you.",
+   "payMult": 0.9,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.0,
+   "attMult": 1.03,
+   "costPerGame": 80,
+   "winBonus": 0
+  },
+  {
+   "id": "tailgate",
+   "text": "We take over the tailgate lot with a giant grill.",
+   "payMult": 1.05,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.3,
+   "attMult": 1.0,
+   "costPerGame": 60,
+   "winBonus": 0
+  },
+  {
+   "id": "giveaway",
+   "text": "Fan appreciation giveaways every home game.",
+   "payMult": 0.85,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.5,
+   "attMult": 1.02,
+   "costPerGame": 100,
+   "winBonus": 0
+  },
+  {
+   "id": "perwin",
+   "text": "Low base pay, but we like winners.",
+   "payMult": 0.8,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.0,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 160
+  },
+  {
+   "id": "bigwin",
+   "text": "Hefty bonus for every victory, thin base otherwise.",
+   "payMult": 0.7,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.0,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 260
+  },
+  {
+   "id": "win30",
+   "text": "A modest premium if you win at least 30% of games.",
+   "payMult": 1.18,
+   "minWinPct": 0.3,
+   "fanPerGame": 0.0,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "win40",
+   "text": "A premium if you win at least 40% of games.",
+   "payMult": 1.3,
+   "minWinPct": 0.4,
+   "fanPerGame": 0.0,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "win55",
+   "text": "A big premium if you win at least 55% of games.",
+   "payMult": 1.55,
+   "minWinPct": 0.55,
+   "fanPerGame": 0.0,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "win70",
+   "text": "Title-chase money, but only for a 70% winner.",
+   "payMult": 1.85,
+   "minWinPct": 0.7,
+   "fanPerGame": 0.0,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "loud",
+   "text": "Our air horn goes off after every score.",
+   "payMult": 1.18,
+   "minWinPct": 0.0,
+   "fanPerGame": -0.2,
+   "attMult": 0.98,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "kids",
+   "text": "Kids club in the end zone, with our cereal.",
+   "payMult": 0.95,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.3,
+   "attMult": 1.02,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "cam",
+   "text": "A kiss cam, sponsored by us. Mind the awkward ones.",
+   "payMult": 1.08,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.2,
+   "attMult": 1.0,
+   "costPerGame": 40,
+   "winBonus": 0
+  },
+  {
+   "id": "coin",
+   "text": "Our owner does the coin toss, in a cape.",
+   "payMult": 1.06,
+   "minWinPct": 0.0,
+   "fanPerGame": -0.1,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "scoreboard",
+   "text": "Every score is announced as a \"Touchdown, brought to you by us\".",
+   "payMult": 1.14,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.0,
+   "attMult": 0.98,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "blimp",
+   "text": "A small blimp with our name circles the field. It drifts.",
+   "payMult": 1.2,
+   "minWinPct": 0.0,
+   "fanPerGame": -0.2,
+   "attMult": 1.0,
+   "costPerGame": 70,
+   "winBonus": 0
+  },
+  {
+   "id": "seat",
+   "text": "Our name on every bleacher seat, in permanent marker.",
+   "payMult": 1.1,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.0,
+   "attMult": 0.99,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "raffle",
+   "text": "Halftime raffle, one lucky fan wins our grand prize.",
+   "payMult": 0.92,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.3,
+   "attMult": 1.02,
+   "costPerGame": 60,
+   "winBonus": 0
+  },
+  {
+   "id": "ambush",
+   "text": "Our rep roams the stands handing out coupons. Players sign them too.",
+   "payMult": 1.04,
+   "minWinPct": 0.0,
+   "fanPerGame": -0.1,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "homewin",
+   "text": "Pay bump after every home win, nothing extra on the road.",
+   "payMult": 0.88,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.0,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 120
+  },
+  {
+   "id": "win50",
+   "text": "Steady premium if you win at least half your games.",
+   "payMult": 1.42,
+   "minWinPct": 0.5,
+   "fanPerGame": 0.0,
+   "attMult": 1.0,
+   "costPerGame": 0,
+   "winBonus": 0
+  },
+  {
+   "id": "clinic",
+   "text": "Youth clinic before kickoff. You supply the cones.",
+   "payMult": 0.93,
+   "minWinPct": 0.0,
+   "fanPerGame": 0.4,
+   "attMult": 1.0,
+   "costPerGame": 90,
+   "winBonus": 0
+  }
+ ],
+ "promos": [
+  {
+   "id": "dollar_dog",
+   "name": "Dollar Dog Night",
+   "baseCost": 400,
+   "attendanceMult": 1.18,
+   "perCapMult": 0.8,
+   "merchMult": 1.0,
+   "riskChance": 0.08,
+   "riskText": "Ran out of buns by the second quarter.",
+   "mishapAttMult": 0.88,
+   "mishapFineMult": 0.0
+  },
+  {
+   "id": "kids_free",
+   "name": "Kids Eat Free",
+   "baseCost": 300,
+   "attendanceMult": 1.1,
+   "perCapMult": 1.1,
+   "merchMult": 1.0,
+   "riskChance": 0.05,
+   "riskText": "A kid ate nine hot dogs. Free means free.",
+   "mishapAttMult": 0.88,
+   "mishapFineMult": 0.0
+  },
+  {
+   "id": "bobblehead",
+   "name": "Mascot Bobblehead Night",
+   "baseCost": 900,
+   "attendanceMult": 1.22,
+   "perCapMult": 1.0,
+   "merchMult": 1.6,
+   "riskChance": 0.1,
+   "riskText": "The bobbleheads came out with the wrong mascot.",
+   "mishapAttMult": 0.88,
+   "mishapFineMult": 0.0
+  },
+  {
+   "id": "fireworks",
+   "name": "Fireworks Night",
+   "baseCost": 1500,
+   "attendanceMult": 1.35,
+   "perCapMult": 1.0,
+   "merchMult": 1.0,
+   "riskChance": 0.15,
+   "riskText": "A small brush fire. Nobody is talking about it.",
+   "mishapAttMult": 0.88,
+   "mishapFineMult": 0.0
+  },
+  {
+   "id": "beer",
+   "name": "$2 Beer Night",
+   "baseCost": 800,
+   "attendanceMult": 1.5,
+   "perCapMult": 1.4,
+   "merchMult": 1.0,
+   "riskChance": 0.3,
+   "riskText": "A fan climbed the goalpost. Security, cleanup and a fine from the league.",
+   "mishapAttMult": 0.75,
+   "mishapFineMult": 3.0
+  },
+  {
+   "id": "chili",
+   "name": "Chili Cook-Off",
+   "baseCost": 500,
+   "attendanceMult": 1.12,
+   "perCapMult": 1.15,
+   "merchMult": 1.0,
+   "riskChance": 0.1,
+   "riskText": "The judge is still in the restroom.",
+   "mishapAttMult": 0.88,
+   "mishapFineMult": 0.0
+  }
+ ],
+ "facilities": [
+  {
+   "key": "seating",
+   "name": "Bleachers",
+   "baseCost": 18000,
+   "maxLevel": 4,
+   "upkeepPerLevel": 30,
+   "effect": "+400 seats per level"
+  },
+  {
+   "key": "concessions",
+   "name": "Concession stand",
+   "baseCost": 9000,
+   "maxLevel": 3,
+   "upkeepPerLevel": 15,
+   "effect": "+8% spent per fan per level"
+  },
+  {
+   "key": "scoreboard",
+   "name": "Scoreboard",
+   "baseCost": 12000,
+   "maxLevel": 3,
+   "upkeepPerLevel": 10,
+   "effect": "+6% sponsor pay per level"
+  },
+  {
+   "key": "lights",
+   "name": "Stadium lights",
+   "baseCost": 20000,
+   "maxLevel": 2,
+   "upkeepPerLevel": 40,
+   "effect": "+6% attendance per level"
+  },
+  {
+   "key": "training",
+   "name": "Training facility",
+   "baseCost": 60000,
+   "maxLevel": 3,
+   "upkeepPerLevel": 75,
+   "effect": "Players develop +10% faster per level"
+  }
+ ],
+ "sponsorNames": [
+  "Gus's Tire & Muffler",
+  "Valley Feed & Seed",
+  "Big Don Insurance",
+  "Pete's Pawn & Loan",
+  "Sunrise Dental",
+  "Delta Bail Bonds",
+  "Dolores Discount Mattress",
+  "Rick's Rim Shop",
+  "The Taco Truck by the Overpass",
+  "Hank's Hardware & Bait",
+  "Marge's Muffler Shack",
+  "Two Rivers Septic Service",
+  "Honest Abe Used Cars",
+  "Lucky Strike Lanes",
+  "Cornerstone Chiropractic",
+  "Bubba's Boat & RV",
+  "Plainview Plumbing",
+  "Golden Spur Steakhouse",
+  "Fast Eddie Check Cashing",
+  "Mountain Air Heating & Cooling",
+  "Tri-County Tractor Supply",
+  "Sal's Pizza Barn",
+  "Ace Trophy & Engraving",
+  "Prairie Rose Florist",
+  "Lone Pine Lumber",
+  "Quick Lube Larry",
+  "Harvest Moon Diner",
+  "Dusty Boots Western Wear",
+  "Bright Smile Orthodontics",
+  "Capitol City Carpet Outlet",
+  "Wanda's Wig & Wax Emporium",
+  "Old Mill Brewing Company",
+  "Blue Heron Realty",
+  "Jimbo's Jerky Jungle",
+  "Eagle Eye Optical",
+  "Redwood Tax & Notary",
+  "Maple Street Meat Market",
+  "A-1 Pest Patrol",
+  "Big Sky Self Storage",
+  "Corner Pocket Billiards",
+  "Brother Tuck Tackle Shop",
+  "River Bend Auto Salvage",
+  "Dottie's Donut Depot",
+  "Greenway Lawn & Landscape",
+  "Crossroads Credit Union",
+  "Bob's Bait & Ammo",
+  "Silver Dollar Laundromat",
+  "Hometown Hearing Aids",
+  "Thunder Road Tattoo",
+  "Sunset Mobile Home Park"
+ ]
+}

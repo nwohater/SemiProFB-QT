@@ -1,0 +1,35 @@
+# Maintainer: Brandon Lackey <bslackey@gmail.com>
+# Builds from the local checkout (this file lives in packaging/linux/arch/).
+# Build + install: makepkg -si
+pkgname=semi-pro-football
+pkgver=0.1.0
+pkgrel=1
+pkgdesc='Semi-Pro Football: a small-town football management sim (Qt 6 / Rust)'
+arch=(x86_64)
+license=(custom)
+depends=(qt6-base qt6-declarative qt6-multimedia qt6-multimedia-ffmpeg)
+makedepends=(cargo qt6-tools imagemagick)
+options=(!debug !lto)
+
+_root="$startdir/../../.."
+
+build() {
+  cd "$_root"
+  cargo build --release -p semi-pro-football
+}
+
+package() {
+  install -Dm755 "$_root/target/release/semi-pro-football" "$pkgdir/usr/bin/semi-pro-football"
+
+  # Art, music and help text. The game looks in /usr/share/semi-pro-football/assets.
+  install -d "$pkgdir/usr/share/$pkgname"
+  cp -r "$_root/assets" "$pkgdir/usr/share/$pkgname/assets"
+
+  install -Dm644 "$startdir/$pkgname.desktop" "$pkgdir/usr/share/applications/$pkgname.desktop"
+
+  local icon="$_root/assets/artwork/semi-pro-football-app-icon.png"
+  for s in 128 256 512; do
+    install -d "$pkgdir/usr/share/icons/hicolor/${s}x${s}/apps"
+    magick "$icon" -resize ${s}x${s} "$pkgdir/usr/share/icons/hicolor/${s}x${s}/apps/$pkgname.png"
+  done
+}

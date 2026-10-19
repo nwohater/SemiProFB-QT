@@ -1,0 +1,2110 @@
+{
+ "ca": {
+  "id": "ca",
+  "name": "California",
+  "divisions": [
+   "North",
+   "Coastal",
+   "South"
+  ],
+  "coastal": "Coastal",
+  "cold": false,
+  "starting": [
+   {
+    "id": "fresno",
+    "name": "Fresno",
+    "division": "North",
+    "population": 540000,
+    "wealth": 4,
+    "turnout": 4,
+    "loyalty": 6,
+    "culture": 7,
+    "biz": 7,
+    "capacity": 4500,
+    "nickname": "",
+    "mascot": "Big Rozz",
+    "quirk": "Valley Heat"
+   },
+   {
+    "id": "visalia",
+    "name": "Visalia",
+    "division": "North",
+    "population": 140000,
+    "wealth": 4,
+    "turnout": 6,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 5,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Zesty",
+    "quirk": "Ag Season"
+   },
+   {
+    "id": "stockton",
+    "name": "Stockton",
+    "division": "North",
+    "population": 320000,
+    "wealth": 3,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 5,
+    "capacity": 4000,
+    "nickname": "",
+    "mascot": "Gus",
+    "quirk": "Delta Fog"
+   },
+   {
+    "id": "chico",
+    "name": "Chico",
+    "division": "North",
+    "population": 100000,
+    "wealth": 5,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 5,
+    "biz": 4,
+    "capacity": 2800,
+    "nickname": "",
+    "mascot": "Professor Crack",
+    "quirk": "College Town"
+   },
+   {
+    "id": "slo",
+    "name": "San Luis Obispo",
+    "division": "Coastal",
+    "population": 47000,
+    "wealth": 7,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 4,
+    "biz": 4,
+    "capacity": 1800,
+    "nickname": "",
+    "mascot": "Taco",
+    "quirk": "SLO Pace"
+   },
+   {
+    "id": "monterey",
+    "name": "Monterey",
+    "division": "Coastal",
+    "population": 28000,
+    "wealth": 8,
+    "turnout": 3,
+    "loyalty": 4,
+    "culture": 3,
+    "biz": 5,
+    "capacity": 1200,
+    "nickname": "",
+    "mascot": "Otto",
+    "quirk": "Tourist Season"
+   },
+   {
+    "id": "thousand_oaks",
+    "name": "Thousand Oaks",
+    "division": "Coastal",
+    "population": 125000,
+    "wealth": 9,
+    "turnout": 5,
+    "loyalty": 4,
+    "culture": 5,
+    "biz": 8,
+    "capacity": 3200,
+    "nickname": "",
+    "mascot": "Big Nut",
+    "quirk": "Wealthy Suburb"
+   },
+   {
+    "id": "paso_robles",
+    "name": "Paso Robles",
+    "division": "Coastal",
+    "population": 31000,
+    "wealth": 7,
+    "turnout": 4,
+    "loyalty": 7,
+    "culture": 5,
+    "biz": 4,
+    "capacity": 1500,
+    "nickname": "",
+    "mascot": "Merlot",
+    "quirk": "Wine Weekends"
+   },
+   {
+    "id": "bakersfield",
+    "name": "Bakersfield",
+    "division": "South",
+    "population": 410000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 8,
+    "culture": 8,
+    "biz": 7,
+    "capacity": 5500,
+    "nickname": "",
+    "mascot": "Rigby",
+    "quirk": "Oil Money"
+   },
+   {
+    "id": "rancho_cucamonga",
+    "name": "Rancho Cucamonga",
+    "division": "South",
+    "population": 175000,
+    "wealth": 6,
+    "turnout": 5,
+    "loyalty": 5,
+    "culture": 6,
+    "biz": 7,
+    "capacity": 3600,
+    "nickname": "",
+    "mascot": "Stompy",
+    "quirk": "Name Fatigue"
+   },
+   {
+    "id": "pasadena",
+    "name": "Pasadena",
+    "division": "South",
+    "population": 135000,
+    "wealth": 8,
+    "turnout": 5,
+    "loyalty": 5,
+    "culture": 8,
+    "biz": 8,
+    "capacity": 4200,
+    "nickname": "",
+    "mascot": "Floatie",
+    "quirk": "Big Stage Syndrome"
+   },
+   {
+    "id": "san_bernardino",
+    "name": "San Bernardino",
+    "division": "South",
+    "population": 220000,
+    "wealth": 3,
+    "turnout": 4,
+    "loyalty": 7,
+    "culture": 6,
+    "biz": 4,
+    "capacity": 3800,
+    "nickname": "",
+    "mascot": "Mother Rodney",
+    "quirk": "Inland Heat & Smog"
+   }
+  ],
+  "replacement": [
+   {
+    "id": "modesto",
+    "name": "Modesto",
+    "division": "North",
+    "population": 220000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 5,
+    "capacity": 3400,
+    "nickname": "",
+    "mascot": "Cluck Norris",
+    "quirk": "Graffiti Night"
+   },
+   {
+    "id": "redding",
+    "name": "Redding",
+    "division": "North",
+    "population": 95000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 5,
+    "biz": 3,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Sal",
+    "quirk": "Wildfire Smoke"
+   },
+   {
+    "id": "merced",
+    "name": "Merced",
+    "division": "North",
+    "population": 90000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 5,
+    "biz": 3,
+    "capacity": 2200,
+    "nickname": "",
+    "mascot": "Gatey",
+    "quirk": "Gateway Town"
+   },
+   {
+    "id": "yuba_city",
+    "name": "Yuba City",
+    "division": "North",
+    "population": 70000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 5,
+    "biz": 3,
+    "capacity": 2000,
+    "nickname": "",
+    "mascot": "Dr. Regular",
+    "quirk": "Prune Festival"
+   },
+   {
+    "id": "lodi",
+    "name": "Lodi",
+    "division": "North",
+    "population": 67000,
+    "wealth": 5,
+    "turnout": 4,
+    "loyalty": 6,
+    "culture": 4,
+    "biz": 4,
+    "capacity": 1800,
+    "nickname": "",
+    "mascot": "Old Vine",
+    "quirk": "Wine Country Lite"
+   },
+   {
+    "id": "santa_maria",
+    "name": "Santa Maria",
+    "division": "Coastal",
+    "population": 110000,
+    "wealth": 5,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 5,
+    "biz": 5,
+    "capacity": 2600,
+    "nickname": "",
+    "mascot": "Smokey Joe",
+    "quirk": "BBQ Fridays"
+   },
+   {
+    "id": "santa_barbara",
+    "name": "Santa Barbara",
+    "division": "Coastal",
+    "population": 88000,
+    "wealth": 9,
+    "turnout": 3,
+    "loyalty": 3,
+    "culture": 3,
+    "biz": 6,
+    "capacity": 2000,
+    "nickname": "",
+    "mascot": "Tilly",
+    "quirk": "Too Chill"
+   },
+   {
+    "id": "salinas",
+    "name": "Salinas",
+    "division": "Coastal",
+    "population": 160000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 4,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Crunch",
+    "quirk": "Salad Bowl"
+   },
+   {
+    "id": "ventura",
+    "name": "Ventura",
+    "division": "Coastal",
+    "population": 110000,
+    "wealth": 7,
+    "turnout": 4,
+    "loyalty": 4,
+    "culture": 4,
+    "biz": 5,
+    "capacity": 2600,
+    "nickname": "",
+    "mascot": "Pier-Rick",
+    "quirk": "Beach Day Conflict"
+   },
+   {
+    "id": "oxnard",
+    "name": "Oxnard",
+    "division": "Coastal",
+    "population": 200000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 5,
+    "capacity": 3400,
+    "nickname": "",
+    "mascot": "Berry Sanders",
+    "quirk": "Strawberry Festival"
+   },
+   {
+    "id": "riverside",
+    "name": "Riverside",
+    "division": "South",
+    "population": 320000,
+    "wealth": 5,
+    "turnout": 5,
+    "loyalty": 5,
+    "culture": 6,
+    "biz": 6,
+    "capacity": 4200,
+    "nickname": "",
+    "mascot": "Bellhop Bob",
+    "quirk": "Orange Groves Lost"
+   },
+   {
+    "id": "lancaster",
+    "name": "Lancaster",
+    "division": "South",
+    "population": 170000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 6,
+    "biz": 4,
+    "capacity": 3200,
+    "nickname": "",
+    "mascot": "Mach",
+    "quirk": "Desert Winds"
+   },
+   {
+    "id": "palmdale",
+    "name": "Palmdale",
+    "division": "South",
+    "population": 170000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 5,
+    "biz": 4,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Spike",
+    "quirk": "Aerospace Day Jobs"
+   },
+   {
+    "id": "santa_clarita",
+    "name": "Santa Clarita",
+    "division": "South",
+    "population": 230000,
+    "wealth": 8,
+    "turnout": 5,
+    "loyalty": 4,
+    "culture": 5,
+    "biz": 7,
+    "capacity": 3800,
+    "nickname": "",
+    "mascot": "Cougar Dave",
+    "quirk": "Cul-de-sac Fans"
+   },
+   {
+    "id": "victorville",
+    "name": "Victorville",
+    "division": "South",
+    "population": 135000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 5,
+    "biz": 3,
+    "capacity": 2800,
+    "nickname": "",
+    "mascot": "Cap'n Rig",
+    "quirk": "Route 66 Revival"
+   }
+  ],
+  "rivalries": [
+   [
+    "fresno",
+    "visalia"
+   ],
+   [
+    "fresno",
+    "bakersfield"
+   ],
+   [
+    "pasadena",
+    "rancho_cucamonga"
+   ],
+   [
+    "san_bernardino",
+    "rancho_cucamonga"
+   ],
+   [
+    "slo",
+    "paso_robles"
+   ],
+   [
+    "monterey",
+    "slo"
+   ],
+   [
+    "stockton",
+    "chico"
+   ],
+   [
+    "thousand_oaks",
+    "pasadena"
+   ],
+   [
+    "modesto",
+    "stockton"
+   ],
+   [
+    "lodi",
+    "stockton"
+   ],
+   [
+    "merced",
+    "fresno"
+   ],
+   [
+    "merced",
+    "modesto"
+   ],
+   [
+    "redding",
+    "chico"
+   ],
+   [
+    "yuba_city",
+    "chico"
+   ],
+   [
+    "santa_maria",
+    "slo"
+   ],
+   [
+    "santa_barbara",
+    "ventura"
+   ],
+   [
+    "salinas",
+    "monterey"
+   ],
+   [
+    "ventura",
+    "oxnard"
+   ],
+   [
+    "oxnard",
+    "thousand_oaks"
+   ],
+   [
+    "ventura",
+    "thousand_oaks"
+   ],
+   [
+    "riverside",
+    "san_bernardino"
+   ],
+   [
+    "lancaster",
+    "palmdale"
+   ],
+   [
+    "santa_clarita",
+    "pasadena"
+   ],
+   [
+    "victorville",
+    "san_bernardino"
+   ],
+   [
+    "riverside",
+    "rancho_cucamonga"
+   ]
+  ]
+ },
+ "tx": {
+  "id": "tx",
+  "name": "Texas",
+  "divisions": [
+   "Plains",
+   "Gulf",
+   "Central"
+  ],
+  "coastal": "Gulf",
+  "cold": false,
+  "starting": [
+   {
+    "id": "lubbock",
+    "name": "Lubbock",
+    "division": "Plains",
+    "population": 260000,
+    "wealth": 5,
+    "turnout": 6,
+    "loyalty": 8,
+    "culture": 9,
+    "biz": 6,
+    "capacity": 5500,
+    "nickname": "",
+    "mascot": "Dusty Dan",
+    "quirk": "Dust Storm Season"
+   },
+   {
+    "id": "amarillo",
+    "name": "Amarillo",
+    "division": "Plains",
+    "population": 200000,
+    "wealth": 4,
+    "turnout": 6,
+    "loyalty": 8,
+    "culture": 8,
+    "biz": 5,
+    "capacity": 4800,
+    "nickname": "",
+    "mascot": "Steak Steve",
+    "quirk": "Big Steak Challenge"
+   },
+   {
+    "id": "abilene",
+    "name": "Abilene",
+    "division": "Plains",
+    "population": 125000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 8,
+    "biz": 4,
+    "capacity": 3400,
+    "nickname": "",
+    "mascot": "Grady",
+    "quirk": "Friday Night Faithful"
+   },
+   {
+    "id": "wichita_falls",
+    "name": "Wichita Falls",
+    "division": "Plains",
+    "population": 105000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 7,
+    "biz": 4,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Falls Fred",
+    "quirk": "Tornado Alley"
+   },
+   {
+    "id": "corpus_christi",
+    "name": "Corpus Christi",
+    "division": "Gulf",
+    "population": 320000,
+    "wealth": 5,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 6,
+    "biz": 6,
+    "capacity": 4200,
+    "nickname": "",
+    "mascot": "Sandy",
+    "quirk": "Hurricane Watch"
+   },
+   {
+    "id": "beaumont",
+    "name": "Beaumont",
+    "division": "Gulf",
+    "population": 115000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 5,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Spindle",
+    "quirk": "Refinery Smell"
+   },
+   {
+    "id": "galveston",
+    "name": "Galveston",
+    "division": "Gulf",
+    "population": 53000,
+    "wealth": 6,
+    "turnout": 3,
+    "loyalty": 5,
+    "culture": 4,
+    "biz": 4,
+    "capacity": 1800,
+    "nickname": "",
+    "mascot": "Seawall Sam",
+    "quirk": "Cruise Ship Weekends"
+   },
+   {
+    "id": "victoria",
+    "name": "Victoria",
+    "division": "Gulf",
+    "population": 67000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 7,
+    "biz": 4,
+    "capacity": 2200,
+    "nickname": "",
+    "mascot": "Vic",
+    "quirk": "Crossroads Pride"
+   },
+   {
+    "id": "waco",
+    "name": "Waco",
+    "division": "Central",
+    "population": 140000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 8,
+    "biz": 6,
+    "capacity": 3800,
+    "nickname": "",
+    "mascot": "Magnolia Mike",
+    "quirk": "Renovation Shows"
+   },
+   {
+    "id": "killeen",
+    "name": "Killeen",
+    "division": "Central",
+    "population": 155000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 6,
+    "biz": 4,
+    "capacity": 3200,
+    "nickname": "",
+    "mascot": "Sarge",
+    "quirk": "Base Town"
+   },
+   {
+    "id": "college_station",
+    "name": "College Station",
+    "division": "Central",
+    "population": 120000,
+    "wealth": 6,
+    "turnout": 6,
+    "loyalty": 8,
+    "culture": 9,
+    "biz": 6,
+    "capacity": 3600,
+    "nickname": "",
+    "mascot": "Corps Carl",
+    "quirk": "Game Day Gridlock"
+   },
+   {
+    "id": "tyler",
+    "name": "Tyler",
+    "division": "Central",
+    "population": 110000,
+    "wealth": 6,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 6,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Rosie",
+    "quirk": "Rose Festival"
+   }
+  ],
+  "replacement": [
+   {
+    "id": "midland",
+    "name": "Midland",
+    "division": "Plains",
+    "population": 140000,
+    "wealth": 8,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 8,
+    "biz": 7,
+    "capacity": 3600,
+    "nickname": "",
+    "mascot": "Gusher Gus",
+    "quirk": "Oil Boom"
+   },
+   {
+    "id": "odessa",
+    "name": "Odessa",
+    "division": "Plains",
+    "population": 120000,
+    "wealth": 5,
+    "turnout": 6,
+    "loyalty": 8,
+    "culture": 9,
+    "biz": 5,
+    "capacity": 3800,
+    "nickname": "",
+    "mascot": "Jackalope Jim",
+    "quirk": "Friday Night Pressure"
+   },
+   {
+    "id": "san_angelo",
+    "name": "San Angelo",
+    "division": "Plains",
+    "population": 100000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 4,
+    "capacity": 2600,
+    "nickname": "",
+    "mascot": "Concho",
+    "quirk": "Goat Cook-Off"
+   },
+   {
+    "id": "el_paso",
+    "name": "El Paso",
+    "division": "Plains",
+    "population": 680000,
+    "wealth": 3,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 6,
+    "biz": 5,
+    "capacity": 5000,
+    "nickname": "",
+    "mascot": "Chuy",
+    "quirk": "Border Traffic"
+   },
+   {
+    "id": "denton",
+    "name": "Denton",
+    "division": "Plains",
+    "population": 140000,
+    "wealth": 5,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 5,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Hippie Hank",
+    "quirk": "College Town"
+   },
+   {
+    "id": "port_arthur",
+    "name": "Port Arthur",
+    "division": "Gulf",
+    "population": 56000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 3,
+    "capacity": 2000,
+    "nickname": "",
+    "mascot": "Gator Gary",
+    "quirk": "Crawfish Boil"
+   },
+   {
+    "id": "brownsville",
+    "name": "Brownsville",
+    "division": "Gulf",
+    "population": 190000,
+    "wealth": 2,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 4,
+    "capacity": 3400,
+    "nickname": "",
+    "mascot": "Rio",
+    "quirk": "Border Heat"
+   },
+   {
+    "id": "texas_city",
+    "name": "Texas City",
+    "division": "Gulf",
+    "population": 52000,
+    "wealth": 4,
+    "turnout": 4,
+    "loyalty": 6,
+    "culture": 5,
+    "biz": 4,
+    "capacity": 1800,
+    "nickname": "",
+    "mascot": "Flare",
+    "quirk": "Plant Whistle"
+   },
+   {
+    "id": "baytown",
+    "name": "Baytown",
+    "division": "Gulf",
+    "population": 83000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 5,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Tunnel Tom",
+    "quirk": "Bridge Traffic"
+   },
+   {
+    "id": "lake_jackson",
+    "name": "Lake Jackson",
+    "division": "Gulf",
+    "population": 27000,
+    "wealth": 6,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 3,
+    "capacity": 1400,
+    "nickname": "",
+    "mascot": "Brazos Brad",
+    "quirk": "Mosquito Season"
+   },
+   {
+    "id": "temple",
+    "name": "Temple",
+    "division": "Central",
+    "population": 82000,
+    "wealth": 5,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 5,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Templeton",
+    "quirk": "Medical Center Shifts"
+   },
+   {
+    "id": "round_rock",
+    "name": "Round Rock",
+    "division": "Central",
+    "population": 120000,
+    "wealth": 8,
+    "turnout": 4,
+    "loyalty": 4,
+    "culture": 5,
+    "biz": 7,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Rocky Rick",
+    "quirk": "Tech Commuters"
+   },
+   {
+    "id": "san_marcos",
+    "name": "San Marcos",
+    "division": "Central",
+    "population": 70000,
+    "wealth": 4,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 4,
+    "capacity": 2200,
+    "nickname": "",
+    "mascot": "Bubbles",
+    "quirk": "Tubing Season"
+   },
+   {
+    "id": "longview",
+    "name": "Longview",
+    "division": "Central",
+    "population": 82000,
+    "wealth": 5,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 5,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Gregg Greg",
+    "quirk": "Balloon Race"
+   },
+   {
+    "id": "georgetown",
+    "name": "Georgetown",
+    "division": "Central",
+    "population": 80000,
+    "wealth": 8,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 5,
+    "capacity": 2200,
+    "nickname": "",
+    "mascot": "Pecan Pete",
+    "quirk": "Retiree Rowdies"
+   }
+  ],
+  "rivalries": [
+   [
+    "lubbock",
+    "amarillo"
+   ],
+   [
+    "abilene",
+    "wichita_falls"
+   ],
+   [
+    "lubbock",
+    "abilene"
+   ],
+   [
+    "amarillo",
+    "wichita_falls"
+   ],
+   [
+    "corpus_christi",
+    "victoria"
+   ],
+   [
+    "beaumont",
+    "galveston"
+   ],
+   [
+    "galveston",
+    "corpus_christi"
+   ],
+   [
+    "beaumont",
+    "victoria"
+   ],
+   [
+    "waco",
+    "killeen"
+   ],
+   [
+    "waco",
+    "college_station"
+   ],
+   [
+    "tyler",
+    "waco"
+   ],
+   [
+    "killeen",
+    "college_station"
+   ],
+   [
+    "midland",
+    "odessa"
+   ],
+   [
+    "midland",
+    "lubbock"
+   ],
+   [
+    "odessa",
+    "san_angelo"
+   ],
+   [
+    "denton",
+    "wichita_falls"
+   ],
+   [
+    "el_paso",
+    "odessa"
+   ],
+   [
+    "port_arthur",
+    "beaumont"
+   ],
+   [
+    "texas_city",
+    "galveston"
+   ],
+   [
+    "baytown",
+    "texas_city"
+   ],
+   [
+    "lake_jackson",
+    "victoria"
+   ],
+   [
+    "brownsville",
+    "corpus_christi"
+   ],
+   [
+    "temple",
+    "waco"
+   ],
+   [
+    "temple",
+    "killeen"
+   ],
+   [
+    "round_rock",
+    "georgetown"
+   ],
+   [
+    "san_marcos",
+    "round_rock"
+   ],
+   [
+    "longview",
+    "tyler"
+   ],
+   [
+    "georgetown",
+    "temple"
+   ]
+  ]
+ },
+ "fl": {
+  "id": "fl",
+  "name": "Florida",
+  "divisions": [
+   "North",
+   "Gulf",
+   "Atlantic"
+  ],
+  "coastal": "Gulf",
+  "cold": false,
+  "starting": [
+   {
+    "id": "tallahassee",
+    "name": "Tallahassee",
+    "division": "North",
+    "population": 200000,
+    "wealth": 5,
+    "turnout": 6,
+    "loyalty": 8,
+    "culture": 9,
+    "biz": 5,
+    "capacity": 4500,
+    "nickname": "",
+    "mascot": "Capitol Cal",
+    "quirk": "Legislative Recess"
+   },
+   {
+    "id": "gainesville",
+    "name": "Gainesville",
+    "division": "North",
+    "population": 145000,
+    "wealth": 5,
+    "turnout": 6,
+    "loyalty": 8,
+    "culture": 9,
+    "biz": 5,
+    "capacity": 4200,
+    "nickname": "",
+    "mascot": "Swamp Sam",
+    "quirk": "College Town"
+   },
+   {
+    "id": "pensacola",
+    "name": "Pensacola",
+    "division": "North",
+    "population": 55000,
+    "wealth": 4,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 6,
+    "biz": 3,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Flyover Fred",
+    "quirk": "Flyover Fridays"
+   },
+   {
+    "id": "ocala",
+    "name": "Ocala",
+    "division": "North",
+    "population": 65000,
+    "wealth": 3,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 6,
+    "biz": 3,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Horse Hank",
+    "quirk": "Horse Country"
+   },
+   {
+    "id": "sarasota",
+    "name": "Sarasota",
+    "division": "Gulf",
+    "population": 55000,
+    "wealth": 6,
+    "turnout": 3,
+    "loyalty": 4,
+    "culture": 4,
+    "biz": 4,
+    "capacity": 2200,
+    "nickname": "",
+    "mascot": "Circus Cal",
+    "quirk": "Snowbird Season"
+   },
+   {
+    "id": "fort_myers",
+    "name": "Fort Myers",
+    "division": "Gulf",
+    "population": 95000,
+    "wealth": 5,
+    "turnout": 3,
+    "loyalty": 4,
+    "culture": 4,
+    "biz": 4,
+    "capacity": 2600,
+    "nickname": "",
+    "mascot": "Edison Ed",
+    "quirk": "Spring Training Squatters"
+   },
+   {
+    "id": "clearwater",
+    "name": "Clearwater",
+    "division": "Gulf",
+    "population": 118000,
+    "wealth": 5,
+    "turnout": 3,
+    "loyalty": 4,
+    "culture": 4,
+    "biz": 4,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Beach Bill",
+    "quirk": "Beach Traffic"
+   },
+   {
+    "id": "lakeland",
+    "name": "Lakeland",
+    "division": "Gulf",
+    "population": 115000,
+    "wealth": 4,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 4,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Swan Sid",
+    "quirk": "Citrus Belt"
+   },
+   {
+    "id": "fort_lauderdale",
+    "name": "Fort Lauderdale",
+    "division": "Atlantic",
+    "population": 180000,
+    "wealth": 7,
+    "turnout": 4,
+    "loyalty": 4,
+    "culture": 5,
+    "biz": 7,
+    "capacity": 3800,
+    "nickname": "",
+    "mascot": "Yacht Yan",
+    "quirk": "Spring Break Memories"
+   },
+   {
+    "id": "west_palm_beach",
+    "name": "West Palm Beach",
+    "division": "Atlantic",
+    "population": 120000,
+    "wealth": 8,
+    "turnout": 4,
+    "loyalty": 4,
+    "culture": 5,
+    "biz": 7,
+    "capacity": 3400,
+    "nickname": "",
+    "mascot": "Palm Pete",
+    "quirk": "Gala Season"
+   },
+   {
+    "id": "daytona_beach",
+    "name": "Daytona Beach",
+    "division": "Atlantic",
+    "population": 78000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 5,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Speedy",
+    "quirk": "Race Week"
+   },
+   {
+    "id": "melbourne",
+    "name": "Melbourne",
+    "division": "Atlantic",
+    "population": 85000,
+    "wealth": 5,
+    "turnout": 3,
+    "loyalty": 4,
+    "culture": 4,
+    "biz": 4,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Rocket Ron",
+    "quirk": "Launch Delays"
+   }
+  ],
+  "replacement": [
+   {
+    "id": "panama_city",
+    "name": "Panama City",
+    "division": "North",
+    "population": 37000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 3,
+    "capacity": 2000,
+    "nickname": "",
+    "mascot": "Spring Break Steve",
+    "quirk": "Spring Break Spillover"
+   },
+   {
+    "id": "st_augustine",
+    "name": "St. Augustine",
+    "division": "North",
+    "population": 15000,
+    "wealth": 6,
+    "turnout": 4,
+    "loyalty": 4,
+    "culture": 4,
+    "biz": 4,
+    "capacity": 1400,
+    "nickname": "",
+    "mascot": "Old Juan",
+    "quirk": "Oldest City Pride"
+   },
+   {
+    "id": "lake_city",
+    "name": "Lake City",
+    "division": "North",
+    "population": 12000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 2,
+    "capacity": 1500,
+    "nickname": "",
+    "mascot": "Lakey",
+    "quirk": "Small Town Fridays"
+   },
+   {
+    "id": "palm_coast",
+    "name": "Palm Coast",
+    "division": "North",
+    "population": 90000,
+    "wealth": 6,
+    "turnout": 4,
+    "loyalty": 4,
+    "culture": 4,
+    "biz": 4,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Retiree Randy",
+    "quirk": "Golf Cart Parade"
+   },
+   {
+    "id": "fort_walton_beach",
+    "name": "Fort Walton Beach",
+    "division": "North",
+    "population": 20000,
+    "wealth": 5,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 4,
+    "capacity": 1700,
+    "nickname": "",
+    "mascot": "Sugar Sand Sam",
+    "quirk": "Emerald Coast Crowds"
+   },
+   {
+    "id": "naples",
+    "name": "Naples",
+    "division": "Gulf",
+    "population": 20000,
+    "wealth": 10,
+    "turnout": 3,
+    "loyalty": 3,
+    "culture": 3,
+    "biz": 6,
+    "capacity": 1500,
+    "nickname": "",
+    "mascot": "Tux Tom",
+    "quirk": "Country Club Crowd"
+   },
+   {
+    "id": "bradenton",
+    "name": "Bradenton",
+    "division": "Gulf",
+    "population": 56000,
+    "wealth": 5,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 4,
+    "capacity": 2000,
+    "nickname": "",
+    "mascot": "Manny Tee",
+    "quirk": "Manatee Crossing"
+   },
+   {
+    "id": "cape_coral",
+    "name": "Cape Coral",
+    "division": "Gulf",
+    "population": 195000,
+    "wealth": 5,
+    "turnout": 4,
+    "loyalty": 4,
+    "culture": 4,
+    "biz": 5,
+    "capacity": 3400,
+    "nickname": "",
+    "mascot": "Canal Carl",
+    "quirk": "More Canals Than Venice"
+   },
+   {
+    "id": "largo",
+    "name": "Largo",
+    "division": "Gulf",
+    "population": 85000,
+    "wealth": 4,
+    "turnout": 4,
+    "loyalty": 4,
+    "culture": 4,
+    "biz": 4,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Shuffleboard Sid",
+    "quirk": "Shuffleboard Rivalry"
+   },
+   {
+    "id": "punta_gorda",
+    "name": "Punta Gorda",
+    "division": "Gulf",
+    "population": 19000,
+    "wealth": 6,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 3,
+    "capacity": 1500,
+    "nickname": "",
+    "mascot": "Tarpon Tim",
+    "quirk": "Hurricane Rebuild"
+   },
+   {
+    "id": "hialeah",
+    "name": "Hialeah",
+    "division": "Atlantic",
+    "population": 225000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 5,
+    "capacity": 3800,
+    "nickname": "",
+    "mascot": "Sandwich Sal",
+    "quirk": "Domino Tournament"
+   },
+   {
+    "id": "port_st_lucie",
+    "name": "Port St. Lucie",
+    "division": "Atlantic",
+    "population": 230000,
+    "wealth": 5,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 5,
+    "capacity": 3600,
+    "nickname": "",
+    "mascot": "Lucie",
+    "quirk": "Transplanted Fans"
+   },
+   {
+    "id": "kissimmee",
+    "name": "Kissimmee",
+    "division": "Atlantic",
+    "population": 80000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 5,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Cattle Call",
+    "quirk": "Rodeo Weekend"
+   },
+   {
+    "id": "boynton_beach",
+    "name": "Boynton Beach",
+    "division": "Atlantic",
+    "population": 80000,
+    "wealth": 6,
+    "turnout": 4,
+    "loyalty": 4,
+    "culture": 4,
+    "biz": 4,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Bingo Bob",
+    "quirk": "Bingo Night"
+   },
+   {
+    "id": "deltona",
+    "name": "Deltona",
+    "division": "Atlantic",
+    "population": 95000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 3,
+    "capacity": 2600,
+    "nickname": "",
+    "mascot": "Commuter Carl",
+    "quirk": "Bedroom Community"
+   }
+  ],
+  "rivalries": [
+   [
+    "tallahassee",
+    "gainesville"
+   ],
+   [
+    "tallahassee",
+    "pensacola"
+   ],
+   [
+    "gainesville",
+    "ocala"
+   ],
+   [
+    "pensacola",
+    "fort_walton_beach"
+   ],
+   [
+    "sarasota",
+    "fort_myers"
+   ],
+   [
+    "clearwater",
+    "lakeland"
+   ],
+   [
+    "sarasota",
+    "clearwater"
+   ],
+   [
+    "lakeland",
+    "fort_myers"
+   ],
+   [
+    "fort_lauderdale",
+    "west_palm_beach"
+   ],
+   [
+    "daytona_beach",
+    "melbourne"
+   ],
+   [
+    "west_palm_beach",
+    "melbourne"
+   ],
+   [
+    "fort_lauderdale",
+    "daytona_beach"
+   ],
+   [
+    "panama_city",
+    "pensacola"
+   ],
+   [
+    "st_augustine",
+    "palm_coast"
+   ],
+   [
+    "lake_city",
+    "gainesville"
+   ],
+   [
+    "palm_coast",
+    "daytona_beach"
+   ],
+   [
+    "largo",
+    "clearwater"
+   ],
+   [
+    "naples",
+    "fort_myers"
+   ],
+   [
+    "bradenton",
+    "sarasota"
+   ],
+   [
+    "cape_coral",
+    "fort_myers"
+   ],
+   [
+    "punta_gorda",
+    "fort_myers"
+   ],
+   [
+    "hialeah",
+    "fort_lauderdale"
+   ],
+   [
+    "port_st_lucie",
+    "west_palm_beach"
+   ],
+   [
+    "kissimmee",
+    "lakeland"
+   ],
+   [
+    "boynton_beach",
+    "west_palm_beach"
+   ],
+   [
+    "deltona",
+    "daytona_beach"
+   ]
+  ]
+ },
+ "pa": {
+  "id": "pa",
+  "name": "Pennsylvania",
+  "divisions": [
+   "West",
+   "Central",
+   "East"
+  ],
+  "coastal": "",
+  "cold": true,
+  "starting": [
+   {
+    "id": "erie",
+    "name": "Erie",
+    "division": "West",
+    "population": 95000,
+    "wealth": 4,
+    "turnout": 6,
+    "loyalty": 8,
+    "culture": 8,
+    "biz": 5,
+    "capacity": 4000,
+    "nickname": "",
+    "mascot": "Lake Effect Larry",
+    "quirk": "Lake Effect Snow"
+   },
+   {
+    "id": "johnstown",
+    "name": "Johnstown",
+    "division": "West",
+    "population": 18000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 9,
+    "culture": 8,
+    "biz": 3,
+    "capacity": 2200,
+    "nickname": "",
+    "mascot": "Flood Fred",
+    "quirk": "Flood City Grit"
+   },
+   {
+    "id": "altoona",
+    "name": "Altoona",
+    "division": "West",
+    "population": 43000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 8,
+    "culture": 8,
+    "biz": 4,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Railroad Rex",
+    "quirk": "Horseshoe Curve Delays"
+   },
+   {
+    "id": "state_college",
+    "name": "State College",
+    "division": "West",
+    "population": 40000,
+    "wealth": 6,
+    "turnout": 7,
+    "loyalty": 8,
+    "culture": 9,
+    "biz": 5,
+    "capacity": 4500,
+    "nickname": "",
+    "mascot": "Happy Valley Hal",
+    "quirk": "Game Day Gridlock"
+   },
+   {
+    "id": "harrisburg",
+    "name": "Harrisburg",
+    "division": "Central",
+    "population": 50000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 6,
+    "capacity": 3200,
+    "nickname": "",
+    "mascot": "Capitol Carl",
+    "quirk": "Budget Impasse"
+   },
+   {
+    "id": "williamsport",
+    "name": "Williamsport",
+    "division": "Central",
+    "population": 28000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 8,
+    "biz": 4,
+    "capacity": 2400,
+    "nickname": "",
+    "mascot": "Little Leaguer Lou",
+    "quirk": "Little League Takeover"
+   },
+   {
+    "id": "york",
+    "name": "York",
+    "division": "Central",
+    "population": 44000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 5,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Peppermint Pete",
+    "quirk": "Factory Whistle"
+   },
+   {
+    "id": "gettysburg",
+    "name": "Gettysburg",
+    "division": "Central",
+    "population": 8000,
+    "wealth": 5,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 3,
+    "capacity": 1500,
+    "nickname": "",
+    "mascot": "Reenactor Rob",
+    "quirk": "Reenactor Weekend"
+   },
+   {
+    "id": "scranton",
+    "name": "Scranton",
+    "division": "East",
+    "population": 76000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 5,
+    "capacity": 3800,
+    "nickname": "",
+    "mascot": "Anthracite Andy",
+    "quirk": "Paper Trail"
+   },
+   {
+    "id": "wilkes_barre",
+    "name": "Wilkes-Barre",
+    "division": "East",
+    "population": 44000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 4,
+    "capacity": 3000,
+    "nickname": "",
+    "mascot": "Coal Cracker",
+    "quirk": "Coal Region Pride"
+   },
+   {
+    "id": "allentown",
+    "name": "Allentown",
+    "division": "East",
+    "population": 125000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 6,
+    "capacity": 4200,
+    "nickname": "",
+    "mascot": "Fair Frank",
+    "quirk": "Fairgrounds Festival"
+   },
+   {
+    "id": "reading",
+    "name": "Reading",
+    "division": "East",
+    "population": 95000,
+    "wealth": 2,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 5,
+    "capacity": 3600,
+    "nickname": "",
+    "mascot": "Pagoda Pete",
+    "quirk": "Outlet Shoppers"
+   }
+  ],
+  "replacement": [
+   {
+    "id": "new_castle",
+    "name": "New Castle",
+    "division": "West",
+    "population": 22000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 3,
+    "capacity": 2000,
+    "nickname": "",
+    "mascot": "Fireworks Fran",
+    "quirk": "Fireworks Capital"
+   },
+   {
+    "id": "butler",
+    "name": "Butler",
+    "division": "West",
+    "population": 13000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 3,
+    "capacity": 1600,
+    "nickname": "",
+    "mascot": "Jeep Joe",
+    "quirk": "Jeep Parade"
+   },
+   {
+    "id": "greensburg",
+    "name": "Greensburg",
+    "division": "West",
+    "population": 14000,
+    "wealth": 5,
+    "turnout": 4,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 4,
+    "capacity": 1600,
+    "nickname": "",
+    "mascot": "Westmoreland Walt",
+    "quirk": "County Seat Pride"
+   },
+   {
+    "id": "washington",
+    "name": "Washington",
+    "division": "West",
+    "population": 13000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 3,
+    "capacity": 1600,
+    "nickname": "",
+    "mascot": "Whiskey Will",
+    "quirk": "Whiskey Rebellion Reenactment"
+   },
+   {
+    "id": "meadville",
+    "name": "Meadville",
+    "division": "West",
+    "population": 13000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 3,
+    "capacity": 1500,
+    "nickname": "",
+    "mascot": "Zipper Zeke",
+    "quirk": "Zipper Town"
+   },
+   {
+    "id": "lebanon",
+    "name": "Lebanon",
+    "division": "Central",
+    "population": 26000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 6,
+    "biz": 4,
+    "capacity": 1900,
+    "nickname": "",
+    "mascot": "Bologna Bill",
+    "quirk": "Bologna Festival"
+   },
+   {
+    "id": "chambersburg",
+    "name": "Chambersburg",
+    "division": "Central",
+    "population": 21000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 4,
+    "capacity": 1800,
+    "nickname": "",
+    "mascot": "Orchard Ollie",
+    "quirk": "Apple Harvest"
+   },
+   {
+    "id": "carlisle",
+    "name": "Carlisle",
+    "division": "Central",
+    "population": 20000,
+    "wealth": 5,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 5,
+    "capacity": 1800,
+    "nickname": "",
+    "mascot": "Car Show Cal",
+    "quirk": "Car Show Weekend"
+   },
+   {
+    "id": "sunbury",
+    "name": "Sunbury",
+    "division": "Central",
+    "population": 10000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 3,
+    "capacity": 1400,
+    "nickname": "",
+    "mascot": "River Rat Ron",
+    "quirk": "Susquehanna Flooding"
+   },
+   {
+    "id": "lock_haven",
+    "name": "Lock Haven",
+    "division": "Central",
+    "population": 9000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 2,
+    "capacity": 1300,
+    "nickname": "",
+    "mascot": "Lumber Lou",
+    "quirk": "Lumber Town"
+   },
+   {
+    "id": "bethlehem",
+    "name": "Bethlehem",
+    "division": "East",
+    "population": 76000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 6,
+    "capacity": 3400,
+    "nickname": "",
+    "mascot": "Steel Stack Stan",
+    "quirk": "Steel Stack Memories"
+   },
+   {
+    "id": "hazleton",
+    "name": "Hazleton",
+    "division": "East",
+    "population": 25000,
+    "wealth": 2,
+    "turnout": 5,
+    "loyalty": 7,
+    "culture": 7,
+    "biz": 3,
+    "capacity": 1900,
+    "nickname": "",
+    "mascot": "Pierogi Pete",
+    "quirk": "Pierogi Friday"
+   },
+   {
+    "id": "pottsville",
+    "name": "Pottsville",
+    "division": "East",
+    "population": 13000,
+    "wealth": 3,
+    "turnout": 5,
+    "loyalty": 8,
+    "culture": 8,
+    "biz": 3,
+    "capacity": 1700,
+    "nickname": "",
+    "mascot": "Porter Pat",
+    "quirk": "Brewery Town"
+   },
+   {
+    "id": "easton",
+    "name": "Easton",
+    "division": "East",
+    "population": 28000,
+    "wealth": 4,
+    "turnout": 5,
+    "loyalty": 6,
+    "culture": 6,
+    "biz": 4,
+    "capacity": 2000,
+    "nickname": "",
+    "mascot": "Crayon Cal",
+    "quirk": "Crayon Fumes"
+   },
+   {
+    "id": "stroudsburg",
+    "name": "Stroudsburg",
+    "division": "East",
+    "population": 10000,
+    "wealth": 5,
+    "turnout": 4,
+    "loyalty": 5,
+    "culture": 5,
+    "biz": 4,
+    "capacity": 1400,
+    "nickname": "",
+    "mascot": "Poconos Pete",
+    "quirk": "Resort Traffic"
+   }
+  ],
+  "rivalries": [
+   [
+    "erie",
+    "meadville"
+   ],
+   [
+    "johnstown",
+    "altoona"
+   ],
+   [
+    "altoona",
+    "state_college"
+   ],
+   [
+    "erie",
+    "johnstown"
+   ],
+   [
+    "harrisburg",
+    "york"
+   ],
+   [
+    "york",
+    "gettysburg"
+   ],
+   [
+    "gettysburg",
+    "chambersburg"
+   ],
+   [
+    "williamsport",
+    "harrisburg"
+   ],
+   [
+    "scranton",
+    "wilkes_barre"
+   ],
+   [
+    "allentown",
+    "reading"
+   ],
+   [
+    "scranton",
+    "allentown"
+   ],
+   [
+    "wilkes_barre",
+    "reading"
+   ],
+   [
+    "new_castle",
+    "butler"
+   ],
+   [
+    "butler",
+    "greensburg"
+   ],
+   [
+    "washington",
+    "greensburg"
+   ],
+   [
+    "meadville",
+    "new_castle"
+   ],
+   [
+    "lebanon",
+    "harrisburg"
+   ],
+   [
+    "chambersburg",
+    "carlisle"
+   ],
+   [
+    "carlisle",
+    "harrisburg"
+   ],
+   [
+    "sunbury",
+    "williamsport"
+   ],
+   [
+    "lock_haven",
+    "williamsport"
+   ],
+   [
+    "bethlehem",
+    "allentown"
+   ],
+   [
+    "easton",
+    "bethlehem"
+   ],
+   [
+    "hazleton",
+    "wilkes_barre"
+   ],
+   [
+    "pottsville",
+    "reading"
+   ],
+   [
+    "stroudsburg",
+    "easton"
+   ]
+  ]
+ }
+}

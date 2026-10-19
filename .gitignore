@@ -1,0 +1,5 @@
+target/
+*.pkg.tar.zst
+packaging/linux/arch/src/
+packaging/linux/arch/pkg/
+GazetteStory

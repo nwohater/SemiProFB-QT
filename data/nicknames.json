@@ -1,0 +1,190 @@
+{
+ "nicknames": [
+  "Turf Goblins",
+  "Neon Yetis",
+  "Regulators",
+  "Renegades",
+  "Thunderbolts",
+  "Black Bears",
+  "Mad Dogs",
+  "Heatwave",
+  "Stalkers",
+  "Roid Rage",
+  "Bombers",
+  "Firehawks",
+  "Sequoias",
+  "Jackrabbits",
+  "Buckaroos",
+  "River Rats",
+  "Maulers",
+  "Rebels",
+  "Drillers",
+  "Roughnecks",
+  "Desperados",
+  "Coyotes",
+  "Condors",
+  "Blitz Crew",
+  "Gold Rush",
+  "Shady Surfers",
+  "Roadrunners",
+  "Blades",
+  "Probers",
+  "Wood Apes",
+  "Pink Panthers",
+  "Steelmen",
+  "Iron",
+  "Liberty",
+  "Forge",
+  "Foundrymen",
+  "Cigar Rollers",
+  "Oilmen",
+  "Gatormen",
+  "Snowbirds",
+  "Feral Hogs",
+  "Hobos",
+  "Invaders",
+  "Lot Lizards",
+  "Mafia",
+  "Brew Crew",
+  "Dumpster Fire",
+  "Bull Riders",
+  "Rodeo Clowns",
+  "Swamp Apes"
+ ],
+ "regions": {
+  "Black Bears": [
+   "ca"
+  ],
+  "Sequoias": [
+   "ca"
+  ],
+  "Shady Surfers": [
+   "ca",
+   "fl"
+  ],
+  "Condors": [
+   "ca"
+  ],
+  "Gold Rush": [
+   "ca"
+  ],
+  "Heatwave": [
+   "ca",
+   "tx",
+   "fl"
+  ],
+  "Firehawks": [
+   "ca",
+   "tx"
+  ],
+  "Jackrabbits": [
+   "ca",
+   "tx"
+  ],
+  "Buckaroos": [
+   "ca",
+   "tx"
+  ],
+  "Desperados": [
+   "tx"
+  ],
+  "Coyotes": [
+   "ca",
+   "tx"
+  ],
+  "Roadrunners": [
+   "ca",
+   "tx"
+  ],
+  "Roughnecks": [
+   "ca",
+   "tx"
+  ],
+  "Drillers": [
+   "ca",
+   "tx",
+   "pa"
+  ],
+  "Rebels": [
+   "tx",
+   "fl"
+  ],
+  "Steelmen": [
+   "pa"
+  ],
+  "Iron": [
+   "pa"
+  ],
+  "Liberty": [
+   "pa"
+  ],
+  "Forge": [
+   "pa"
+  ],
+  "Foundrymen": [
+   "pa"
+  ],
+  "Cigar Rollers": [
+   "fl"
+  ],
+  "Oilmen": [
+   "tx"
+  ],
+  "Gatormen": [
+   "fl"
+  ],
+  "Snowbirds": [
+   "fl"
+  ],
+  "Feral Hogs": [
+   "tx"
+  ],
+  "Hobos": [
+   "ca"
+  ],
+  "Invaders": [
+   "tx"
+  ],
+  "Lot Lizards": [
+   "fl"
+  ],
+  "Mafia": [
+   "pa"
+  ],
+  "Bull Riders": [
+   "tx"
+  ],
+  "Rodeo Clowns": [
+   "tx"
+  ],
+  "Swamp Apes": [
+   "fl"
+  ]
+ },
+ "mascots": [
+  "Sasquatch Steve",
+  "Tumble",
+  "Jack A. Lope",
+  "Beep-Beep",
+  "Buzz Kilgore",
+  "Wren Gonzales",
+  "Mudcat Mike",
+  "Medium Bear",
+  "Dusty",
+  "Rattlesnake Randy",
+  "Pelly",
+  "Paul the Lumberjack",
+  "Nugget",
+  "Steely",
+  "Crabby",
+  "Wrangler Rick",
+  "King Apple",
+  "Smokey Jr.",
+  "Hay Bale Hank",
+  "Sprinkles",
+  "Foxy",
+  "Wile",
+  "Hoot",
+  "Overpass Oscar"
+ ]
+}

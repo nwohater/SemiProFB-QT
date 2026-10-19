@@ -1,0 +1,204 @@
+{
+ "chances": {
+  "100000": 0.15,
+  "200000": 0.25,
+  "300000": 0.35,
+  "400000": 0.45
+ },
+ "firstWeek": 5,
+ "minShare": 0.2,
+ "roundTo": 100,
+ "welfareChance": 0.15,
+ "welfare": [
+  {
+   "title": "League relief payment",
+   "body": "The league office noticed your bank balance and then noticed the {poor} balance, and decided the two should meet. {amt} has been moved to the {poor} to keep their lights on. Everyone agrees this is \"revenue sharing.\" Nobody asked you."
+  },
+  {
+   "title": "Mandatory revenue sharing",
+   "body": "Commissioner's orders: clubs with cash share with clubs without. You were chosen, the {poor} were chosen to receive it, and {amt} changed hands before lunch."
+  },
+  {
+   "title": "Assessment for the league welfare fund",
+   "body": "A new rule says the club with the most cash helps the club with the least. That makes you the donor and the {poor} the lucky recipient. {amt} has been sent, with the league's thanks and no receipt."
+  },
+  {
+   "title": "Keeping the {poor} afloat",
+   "body": "The league cannot afford to lose another franchise, so it is making you pay for the one in the worst shape. {amt} to the {poor}. A thank-you note may or may not follow."
+  }
+ ],
+ "bills": [
+  {
+   "title": "Back taxes",
+   "body": "The county found a form from three years ago that nobody filed. They also found a calculator. You owe {amt}, already paid out of the account."
+  },
+  {
+   "title": "Property reassessment",
+   "body": "The assessor drove past the stadium, looked at the new paint, and reassessed it. {amt} came out of the account."
+  },
+  {
+   "title": "Amusement tax audit",
+   "body": "The state audit says \"football\" counts as \"amusement.\" {amt} has been withdrawn, with a thank-you card."
+  },
+  {
+   "title": "Business license \"renewal\"",
+   "body": "Your license was never really expired, but it is now. The fee for fixing it was {amt}."
+  },
+  {
+   "title": "Payroll tax mix-up",
+   "body": "The Accountant swears this was not their fault. The state disagrees, to the tune of {amt}."
+  },
+  {
+   "title": "Environmental fee",
+   "body": "Someone measured the runoff behind the concession stand. It is legally a creek now. {amt} to the water board."
+  },
+  {
+   "title": "Slip-and-fall lawsuit",
+   "body": "A fan slipped on a nacho cheese puddle near gate 3 and has a very persuasive lawyer. Settled for {amt}."
+  },
+  {
+   "title": "Naming-rights dispute",
+   "body": "A man named Dale claims the {team} stole his idea for a field name. Mediation was short and expensive: {amt}."
+  },
+  {
+   "title": "Mascot injury claim",
+   "body": "The mascot costume company says the mascot was \"used beyond its rated hug capacity.\" Settlement: {amt}."
+  },
+  {
+   "title": "Neighbor noise complaint",
+   "body": "The {town} homeowners' association won its case about the post-game fireworks. You paid {amt} and promised quieter fireworks."
+  },
+  {
+   "title": "Trademark letter",
+   "body": "A restaurant in another state owns \"Gridiron Grill\" and would like a word. Then {amt}."
+  },
+  {
+   "title": "Former employee suit",
+   "body": "A part-time ticket taker says he was promised a free hot dog every game, in writing, on a napkin. The napkin held up. {amt}."
+  },
+  {
+   "title": "Photographer's claim",
+   "body": "A photo of the mascot from 2019 is somehow worth {amt} in court. The photographer is thrilled."
+  },
+  {
+   "title": "Contract misunderstanding",
+   "body": "A vendor says a handshake in the parking lot was a contract. The judge agreed with the handshake. {amt}."
+  },
+  {
+   "title": "Bleachers inspection failed",
+   "body": "The inspector bounced on the bleachers once and then did not bounce again. Repairs and re-inspection: {amt}."
+  },
+  {
+   "title": "Stadium lights",
+   "body": "Half the lights went out during a night game that was not a night game. Electrician, parts and a bigger ladder: {amt}."
+  },
+  {
+   "title": "Field drainage",
+   "body": "The sprinkler pipes and the drain pipes turned out to be the same pipe. The fix cost {amt}."
+  },
+  {
+   "title": "Scoreboard meltdown",
+   "body": "The scoreboard has been reading \"HOME 8 GUEST 8\" since June. The replacement cost {amt}."
+  },
+  {
+   "title": "Roof leak at the clubhouse",
+   "body": "It rained indoors. It rained near the equipment. Repairs: {amt}."
+  },
+  {
+   "title": "Parking lot repaving",
+   "body": "A sinkhole swallowed the VIP spot. It had a sign on it. Paving and a new sign: {amt}."
+  },
+  {
+   "title": "Team bus breakdown",
+   "body": "The team bus finally gave out on a hill outside {town}. A new transmission (and a new attitude) cost {amt}."
+  },
+  {
+   "title": "Locker room plumbing",
+   "body": "Nobody wants to talk about what the plumber found. The bill for finding it was {amt}."
+  },
+  {
+   "title": "Health department fine",
+   "body": "The inspector found a hot dog that predates the current owner. Fine and cleanup: {amt}."
+  },
+  {
+   "title": "Fire code citation",
+   "body": "The fire marshal counted the exits, then counted them again, and then wrote you a ticket for {amt}."
+  },
+  {
+   "title": "League fine",
+   "body": "The league fined the {team} {amt} for \"conduct unbecoming\" after the halftime parade float incident. The float is fine."
+  },
+  {
+   "title": "Noise permit",
+   "body": "It turns out the band needs a permit for \"percussion after 9 p.m.\" {amt}, plus a stern letter to the drummer."
+  },
+  {
+   "title": "Sign ordinance violation",
+   "body": "The billboard on the highway was two feet over the legal size. The city is taking {amt} and two feet."
+  },
+  {
+   "title": "Equipment recall",
+   "body": "The helmet manufacturer recalled a batch of straps. Replacements and shipping: {amt}."
+  },
+  {
+   "title": "Turf company invoice",
+   "body": "The field supplier found an old invoice from before your time. Interest included, it is {amt}."
+  },
+  {
+   "title": "Ticketing system crash",
+   "body": "The online ticketing system sold every seat to three people each. Refunds, apologies and a consultant: {amt}."
+  },
+  {
+   "title": "Insurance premium jump",
+   "body": "The insurer noticed the club is doing well and decided the {team} should pay for it. Premium increase: {amt}."
+  },
+  {
+   "title": "Uniform order mistake",
+   "body": "The shipment of jerseys arrived in a color nobody ordered, a size nobody wears, and with a name nobody recognizes. Reorder: {amt}."
+  },
+  {
+   "title": "Concession supplier price hike",
+   "body": "Hot dog prices are up and so is the supplier's confidence. Contract adjustment: {amt}."
+  },
+  {
+   "title": "Town festival \"donation\"",
+   "body": "The {town} festival committee knew you had it and asked nicely. A donation of {amt} went out before you could say no."
+  },
+  {
+   "title": "Alumni dinner",
+   "body": "A booster dinner you were not planning to host was, apparently, yours. Catering, the venue and a very long toast: {amt}."
+  },
+  {
+   "title": "Parade float disaster",
+   "body": "The {team} float lost a wheel, a banner and the band. Repairs, a tow and apologies to three storefronts: {amt}."
+  },
+  {
+   "title": "Goat on the field",
+   "body": "A goat got onto the field during practice. The goat is fine. The owner of the goat wanted {amt} and a signed ball."
+  },
+  {
+   "title": "Charity gala embarrassment",
+   "body": "The silent auction ended up louder than planned. Thanks to a clerical mistake the club \"won\" the trip for twelve, {amt}."
+  },
+  {
+   "title": "Owner's cousin's consulting",
+   "body": "A cousin of someone important sent an invoice labeled \"strategy.\" Nobody saw any strategy. You paid {amt} anyway."
+  },
+  {
+   "title": "Storm damage",
+   "body": "A storm took the tent, the banners and half the practice field with it. Cleanup and replacement: {amt}."
+  },
+  {
+   "title": "Software license",
+   "body": "The scouting software subscription auto-renewed at a price that has to be a typo. It was not: {amt}."
+  },
+  {
+   "title": "Medical bills pile-up",
+   "body": "A few emergency room visits from last season finally found their way to the front office. Total: {amt}."
+  },
+  {
+   "title": "Bank error, in the bank's favor",
+   "body": "The bank is very sorry about the error. It is not returning the {amt}."
+  }
+ ]
+}

@@ -1,0 +1,546 @@
+{
+ "abbreviations": {
+  "fresno": "FRE",
+  "visalia": "VIS",
+  "stockton": "STK",
+  "chico": "CHI",
+  "slo": "SL",
+  "monterey": "MON",
+  "thousand_oaks": "TO",
+  "paso_robles": "PR",
+  "bakersfield": "BAK",
+  "rancho_cucamonga": "RC",
+  "pasadena": "PAS",
+  "san_bernardino": "SB",
+  "modesto": "MOD",
+  "redding": "RED",
+  "merced": "MER",
+  "yuba_city": "YC",
+  "lodi": "LOD",
+  "santa_maria": "SM",
+  "santa_barbara": "SBA",
+  "salinas": "SAL",
+  "ventura": "VEN",
+  "oxnard": "OXN",
+  "riverside": "RIV",
+  "lancaster": "LAN",
+  "palmdale": "PAL",
+  "santa_clarita": "SC",
+  "victorville": "VV",
+  "lubbock": "LUB",
+  "amarillo": "AMA",
+  "abilene": "ABI",
+  "wichita_falls": "WF",
+  "corpus_christi": "CC",
+  "beaumont": "BMT",
+  "galveston": "GAL",
+  "victoria": "VIC",
+  "waco": "WAC",
+  "killeen": "KIL",
+  "college_station": "CS",
+  "tyler": "TYL",
+  "midland": "MID",
+  "odessa": "ODE",
+  "san_angelo": "SA",
+  "el_paso": "EP",
+  "denton": "DEN",
+  "port_arthur": "PA",
+  "brownsville": "BRO",
+  "texas_city": "TC",
+  "baytown": "BAY",
+  "lake_jackson": "LJ",
+  "temple": "TEM",
+  "round_rock": "RR",
+  "san_marcos": "SMA",
+  "longview": "LV",
+  "georgetown": "GT",
+  "tallahassee": "TLH",
+  "gainesville": "GNV",
+  "pensacola": "PNS",
+  "sarasota": "SAR",
+  "fort_myers": "FM",
+  "fort_lauderdale": "FLL",
+  "west_palm_beach": "WPB",
+  "panama_city": "PNC",
+  "ocala": "OCA",
+  "st_augustine": "STA",
+  "lake_city": "LCI",
+  "palm_coast": "PCO",
+  "clearwater": "CLW",
+  "lakeland": "LKL",
+  "naples": "NAP",
+  "bradenton": "BRD",
+  "cape_coral": "CAP",
+  "hialeah": "HIA",
+  "daytona_beach": "DAY",
+  "melbourne": "MEL",
+  "port_st_lucie": "PSL",
+  "kissimmee": "KIS",
+  "fort_walton_beach": "FWB",
+  "largo": "LGO",
+  "punta_gorda": "PG",
+  "boynton_beach": "BOY",
+  "deltona": "DEL",
+  "erie": "ERI",
+  "johnstown": "JTN",
+  "altoona": "ALT",
+  "state_college": "STC",
+  "harrisburg": "HBG",
+  "williamsport": "WMP",
+  "york": "YRK",
+  "gettysburg": "GET",
+  "scranton": "SCR",
+  "wilkes_barre": "WB",
+  "allentown": "ALN",
+  "reading": "RDG",
+  "new_castle": "NC",
+  "butler": "BUT",
+  "greensburg": "GRB",
+  "washington": "WAS",
+  "meadville": "MEA",
+  "lebanon": "LEB",
+  "chambersburg": "CHA",
+  "carlisle": "CAR",
+  "sunbury": "SUN",
+  "lock_haven": "LH",
+  "bethlehem": "BET",
+  "hazleton": "HAZ",
+  "pottsville": "POT",
+  "easton": "EAS",
+  "stroudsburg": "STR"
+ },
+ "coords": {
+  "fresno": [
+   36.74,
+   -119.79
+  ],
+  "visalia": [
+   36.33,
+   -119.29
+  ],
+  "stockton": [
+   37.96,
+   -121.29
+  ],
+  "chico": [
+   39.73,
+   -121.84
+  ],
+  "san luis obispo": [
+   35.28,
+   -120.66
+  ],
+  "monterey": [
+   36.6,
+   -121.89
+  ],
+  "thousand oaks": [
+   34.17,
+   -118.84
+  ],
+  "paso robles": [
+   35.63,
+   -120.69
+  ],
+  "bakersfield": [
+   35.37,
+   -119.02
+  ],
+  "rancho cucamonga": [
+   34.11,
+   -117.59
+  ],
+  "pasadena": [
+   34.15,
+   -118.14
+  ],
+  "san bernardino": [
+   34.11,
+   -117.29
+  ],
+  "modesto": [
+   37.64,
+   -121.0
+  ],
+  "redding": [
+   40.59,
+   -122.39
+  ],
+  "merced": [
+   37.3,
+   -120.48
+  ],
+  "yuba city": [
+   39.14,
+   -121.62
+  ],
+  "lodi": [
+   38.13,
+   -121.27
+  ],
+  "santa maria": [
+   34.95,
+   -120.44
+  ],
+  "santa barbara": [
+   34.42,
+   -119.7
+  ],
+  "salinas": [
+   36.68,
+   -121.66
+  ],
+  "ventura": [
+   34.27,
+   -119.23
+  ],
+  "oxnard": [
+   34.2,
+   -119.18
+  ],
+  "riverside": [
+   33.95,
+   -117.4
+  ],
+  "lancaster": [
+   34.7,
+   -118.14
+  ],
+  "palmdale": [
+   34.58,
+   -118.12
+  ],
+  "santa clarita": [
+   34.39,
+   -118.54
+  ],
+  "victorville": [
+   34.54,
+   -117.29
+  ],
+  "lubbock": [
+   33.58,
+   -101.86
+  ],
+  "amarillo": [
+   35.22,
+   -101.83
+  ],
+  "abilene": [
+   32.45,
+   -99.73
+  ],
+  "wichita falls": [
+   33.91,
+   -98.49
+  ],
+  "corpus christi": [
+   27.8,
+   -97.4
+  ],
+  "beaumont": [
+   30.08,
+   -94.13
+  ],
+  "galveston": [
+   29.3,
+   -94.8
+  ],
+  "victoria": [
+   28.81,
+   -97.0
+  ],
+  "waco": [
+   31.55,
+   -97.15
+  ],
+  "killeen": [
+   31.12,
+   -97.73
+  ],
+  "college station": [
+   30.63,
+   -96.33
+  ],
+  "tyler": [
+   32.35,
+   -95.3
+  ],
+  "midland": [
+   32.0,
+   -102.08
+  ],
+  "odessa": [
+   31.85,
+   -102.37
+  ],
+  "san angelo": [
+   31.46,
+   -100.44
+  ],
+  "el paso": [
+   31.76,
+   -106.49
+  ],
+  "denton": [
+   33.21,
+   -97.13
+  ],
+  "port arthur": [
+   29.9,
+   -93.93
+  ],
+  "brownsville": [
+   25.9,
+   -97.5
+  ],
+  "texas city": [
+   29.38,
+   -94.9
+  ],
+  "baytown": [
+   29.74,
+   -94.98
+  ],
+  "lake jackson": [
+   29.03,
+   -95.43
+  ],
+  "temple": [
+   31.1,
+   -97.34
+  ],
+  "round rock": [
+   30.51,
+   -97.68
+  ],
+  "san marcos": [
+   29.88,
+   -97.94
+  ],
+  "longview": [
+   32.5,
+   -94.74
+  ],
+  "georgetown": [
+   30.63,
+   -97.68
+  ],
+  "tallahassee": [
+   30.44,
+   -84.28
+  ],
+  "gainesville": [
+   29.65,
+   -82.32
+  ],
+  "pensacola": [
+   30.42,
+   -87.22
+  ],
+  "sarasota": [
+   27.34,
+   -82.53
+  ],
+  "fort myers": [
+   26.64,
+   -81.87
+  ],
+  "fort lauderdale": [
+   26.12,
+   -80.14
+  ],
+  "west palm beach": [
+   26.72,
+   -80.05
+  ],
+  "panama city": [
+   30.16,
+   -85.66
+  ],
+  "ocala": [
+   29.19,
+   -82.14
+  ],
+  "st. augustine": [
+   29.9,
+   -81.31
+  ],
+  "lake city": [
+   30.19,
+   -82.64
+  ],
+  "palm coast": [
+   29.58,
+   -81.21
+  ],
+  "clearwater": [
+   27.97,
+   -82.8
+  ],
+  "lakeland": [
+   28.04,
+   -81.95
+  ],
+  "naples": [
+   26.14,
+   -81.79
+  ],
+  "bradenton": [
+   27.5,
+   -82.57
+  ],
+  "cape coral": [
+   26.56,
+   -81.95
+  ],
+  "hialeah": [
+   25.86,
+   -80.28
+  ],
+  "daytona beach": [
+   29.21,
+   -81.02
+  ],
+  "melbourne": [
+   28.08,
+   -80.61
+  ],
+  "port st. lucie": [
+   27.27,
+   -80.35
+  ],
+  "kissimmee": [
+   28.29,
+   -81.41
+  ],
+  "fort walton beach": [
+   30.42,
+   -86.62
+  ],
+  "largo": [
+   27.91,
+   -82.79
+  ],
+  "punta gorda": [
+   26.93,
+   -82.05
+  ],
+  "boynton beach": [
+   26.53,
+   -80.07
+  ],
+  "deltona": [
+   28.9,
+   -81.26
+  ],
+  "erie": [
+   42.13,
+   -80.09
+  ],
+  "johnstown": [
+   40.33,
+   -78.92
+  ],
+  "altoona": [
+   40.52,
+   -78.39
+  ],
+  "state college": [
+   40.79,
+   -77.86
+  ],
+  "harrisburg": [
+   40.27,
+   -76.88
+  ],
+  "williamsport": [
+   41.24,
+   -77.0
+  ],
+  "york": [
+   39.96,
+   -76.73
+  ],
+  "gettysburg": [
+   39.83,
+   -77.23
+  ],
+  "scranton": [
+   41.41,
+   -75.66
+  ],
+  "wilkes-barre": [
+   41.25,
+   -75.88
+  ],
+  "allentown": [
+   40.6,
+   -75.47
+  ],
+  "reading": [
+   40.34,
+   -75.93
+  ],
+  "new castle": [
+   41.0,
+   -80.35
+  ],
+  "butler": [
+   40.86,
+   -79.9
+  ],
+  "greensburg": [
+   40.3,
+   -79.54
+  ],
+  "washington": [
+   40.17,
+   -80.25
+  ],
+  "meadville": [
+   41.64,
+   -80.15
+  ],
+  "lebanon": [
+   40.34,
+   -76.41
+  ],
+  "chambersburg": [
+   39.94,
+   -77.66
+  ],
+  "carlisle": [
+   40.2,
+   -77.19
+  ],
+  "sunbury": [
+   40.86,
+   -76.79
+  ],
+  "lock haven": [
+   41.14,
+   -77.45
+  ],
+  "bethlehem": [
+   40.63,
+   -75.37
+  ],
+  "hazleton": [
+   40.96,
+   -75.97
+  ],
+  "pottsville": [
+   40.69,
+   -76.2
+  ],
+  "easton": [
+   40.69,
+   -75.22
+  ],
+  "stroudsburg": [
+   40.99,
+   -75.19
+  ]
+ }
+}

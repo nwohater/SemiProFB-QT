@@ -1,0 +1,156 @@
+Job,InjuryRisk,TravelRisk
+Accountant,4,8
+Administrative Assistant,3,7
+Architect,8,18
+Auto Mechanic,37,12
+Barber,9,6
+Bartender,18,16
+Baker,19,12
+Bank Teller,5,8
+Bus Driver,16,62
+Butcher,39,12
+Car Salesperson,9,20
+Carpenter,52,24
+Cashier,8,8
+Chef,31,18
+Childcare Worker,21,9
+Chiropractor,16,10
+Civil Engineer,14,29
+Construction Laborer,70,36
+Corrections Officer,64,19
+Courier,29,76
+Crane Operator,59,29
+Customer Service Representative,4,5
+Data Analyst,3,6
+Delivery Driver,30,79
+Dental Assistant,10,8
+Dentist,9,8
+Diesel Mechanic,47,18
+Dishwasher,15,9
+Dog Groomer,32,13
+Electrician,53,32
+EMT,67,63
+Factory Worker,39,16
+Farmer,64,30
+Firefighter,86,49
+Fitness Trainer,30,15
+Flight Attendant,22,96
+Florist,11,18
+Forklift Operator,40,19
+Freelance Writer,2,12
+Furniture Mover,65,52
+Gas Station Clerk,17,12
+Graphic Designer,3,7
+Grocery Stocker,26,9
+Groundskeeper,37,22
+Hair Stylist,11,7
+Handyman,48,48
+Heavy Equipment Operator,67,38
+High School Teacher,14,9
+Home Health Aide,32,43
+Hotel Clerk,8,10
+HVAC Technician,52,49
+Insurance Agent,5,25
+IT Support Technician,8,25
+Janitor,25,15
+Landscaper,48,29
+Lawyer,5,31
+Librarian,3,5
+Lifeguard,47,11
+Line Cook,27,12
+Logger,94,56
+Machine Operator,50,18
+Mail Carrier,29,70
+Maintenance Technician,43,32
+Massage Therapist,17,13
+Medical Assistant,16,12
+Nurse,33,18
+Office Manager,5,11
+Oil Rig Worker,92,91
+Painter,44,28
+Paramedic,72,66
+Park Ranger,51,57
+Personal Trainer,27,19
+Pest Control Technician,45,67
+Pharmacist,8,12
+Photographer,14,54
+Physical Therapist,24,17
+Pilot,23,98
+Plumber,53,45
+Police Officer,78,55
+Postal Sorter,19,8
+Real Estate Agent,10,59
+Receptionist,4,7
+Restaurant Manager,17,22
+Retail Associate,12,10
+Roofer,83,39
+Sales Representative,8,75
+School Bus Driver,20,61
+Security Guard,37,26
+Server,20,15
+Social Worker,22,51
+Software Developer,3,6
+Solar Panel Installer,67,52
+Steelworker,87,43
+Stockroom Clerk,27,10
+Substitute Teacher,13,36
+Surveyor,39,58
+Taxi Driver,26,88
+Telecom Installer,58,64
+Truck Driver,37,97
+Veterinarian,33,19
+Warehouse Worker,42,18
+Welder,69,37
+Window Cleaner,56,31
+Youth Sports Coach,22,28
+Appliance Repair Technician,39,57
+Arborist,80,42
+Boat Mechanic,46,29
+Bricklayer,67,32
+Cable Technician,55,68
+Commercial Fisherman,96,83
+Concrete Finisher,71,31
+Construction Foreman,51,49
+Court Reporter,4,17
+Dental Hygienist,11,9
+Dispatcher,6,13
+Drywall Installer,61,26
+Elevator Mechanic,68,49
+Event Coordinator,12,65
+Food Truck Owner,28,72
+Geologist,28,74
+Ironworker,89,46
+Laboratory Technician,13,13
+Locksmith,28,61
+Mining Technician,88,79
+Mobile Phone Repair Tech,8,19
+Municipal Water Worker,49,32
+Package Handler,46,14
+Professional Mattress Tester,2,4
+Inflatable Tube Man Wrangler,41,23
+Bigfoot Researcher,66,94
+Competitive Hot Dog Eater,38,72
+Mall Santa,22,18
+Professional Line Stander,15,69
+Ghost Tour Guide,19,53
+Chicken Costume Mascot,44,37
+Doomsday Bunker Salesman,12,83
+Roadkill Removal Specialist,61,87
+Professional Apology Writer,3,9
+Rodeo Clown,95,79
+Alien Abduction Podcaster,7,91
+Professional Couch Potato,2,3
+Carnival Dunk Tank Victim,53,84
+Snake Milker,97,48
+Celebrity Lookalike,15,82
+Haunted House Jump Scare Actor,37,27
+Lawn Flamingo Installer,24,67
+Cheese Wheel Chaser,88,73
+Portable Toilet Inspector,48,81
+Professional Wedding Crasher,26,92
+Sperm Bank Donor,2,8
+Mall Kiosk Guy,6,14
+Hand Puppeteer,4,71
+Vibe Coder,2,5
+Solar Salesman,21,66
+Unemployed,1,1

@@ -1,0 +1,1224 @@
+{
+ "reportWinBig": [
+  "Record crowd, record concessions, record number of fans who asked what a 'blitz' was.",
+  "The scoreboard operator ran out of room for our digits. Fans are calling it a good problem.",
+  "That was a beating. The other team's bus left early and quietly.",
+  "The mascot did a backflip. The mascot is now in the training room.",
+  "The ticket window had a line, which the ticket window found alarming.",
+  "The accountant smiled. Staff are still processing this.",
+  "The {o} asked if we could turn the clock off. We could not.",
+  "Somebody rang the victory bell until the clapper fell out. We are ordering another clapper.",
+  "The PA guy lost his voice yelling the score. He is resting it at the diner, loudly.",
+  "Kids ran the field after the whistle. Security joined them. It was that kind of night.",
+  "A visiting reporter wrote \"rout\" so many times the ink gave up.",
+  "The {t} made it look easy. The film will later prove it was not, but tonight we will not watch the film."
+ ],
+ "reportWin": [
+  "A win. Please enjoy it responsibly.",
+  "The home crowd sang the fight song. Most of the words were right.",
+  "Winners get the good parking spots. We have no good parking spots, but the feeling is there.",
+  "The local paper ran the score on page 6. That is practically the front page.",
+  "A fan hugged a stranger. The stranger was a cop. Everyone is fine.",
+  "A win is worth a few extra hot dogs, statistically.",
+  "The town is whistling again. Nobody knows the tune.",
+  "Town folk can now tell the team from a fart.",
+  "Close enough to feel it, far enough to cash the tickets. The {t} take it.",
+  "The band played the good song, the one they save for when we actually win.",
+  "A dad in section B high-fived his kid so hard he spilled the nachos. Worth it, he said.",
+  "The {o} hung around to shake hands. Sportsmanship, or they could not find the bus keys.",
+  "Coach says \"we found a way.\" The way involved blocking, which is new.",
+  "Somebody already painted the score on a barn outside town. Dry by morning, they swear."
+ ],
+ "reportLoss": [
+  "Fans left muttering. A few left muttering encouragement.",
+  "The team looked tired. The fans looked tired. The hot dogs looked fine.",
+  "A loud fan asked for a refund. The ticket was free. We refunded it anyway.",
+  "The band played us out. Pity may have been involved.",
+  "The coach says it was close. The scoreboard politely disagrees.",
+  "Fans bought snacks to cope. Consider it emotional-support revenue.",
+  "The parking lot emptied at the half. The concession stand did not.",
+  "The {t} had their chances. The chances left town with the {o}.",
+  "A kid asked if we get a do-over. We do not. We checked the rulebook.",
+  "The film session is going to be long. The film session is always long after this kind of game.",
+  "Somebody booed. Somebody else shushed them. Both had a point.",
+  "We were in it until we were not. That is the official summary.",
+  "The {o} made the simple plays. We made the interesting ones. The interesting ones did not work."
+ ],
+ "reportLossBig": [
+  "The visiting fans were louder than ours. Ours were in the parking lot.",
+  "A kid asked if we were the other team's practice squad. We are not. We checked.",
+  "Even the pigeons left early.",
+  "The final score has been sealed in a box and buried behind the stadium.",
+  "Several fans left in the third quarter and took the good seat cushions.",
+  "Some fans depression was cured taking comfort in how bad we are.",
+  "We should keep our day jobs.",
+  "The {o} could have named the score. Kindly, they stopped adding after a while.",
+  "The scoreboard operator asked if he could just write \"a lot\" on our side. Denied.",
+  "Our mascot sat down. The {o} mascot brought him water.",
+  "Talk radio will be unkind. Talk radio is already unkind. This will not help.",
+  "The bus ride home is going to be quiet, except for the one guy who always talks.",
+  "Coach says we will look at the tape. The tape has asked not to be looked at."
+ ],
+ "reportTie": [
+  "Nobody won. Nobody lost. A kid in section C asked for a refund on the feeling.",
+  "A tie is like kissing your cousin. Nobody is sure how to feel.",
+  "A tie: the only result that offends everybody equally.",
+  "The {t} and the {o} played to a draw. The parking lot argument will go to extra time.",
+  "Both teams left with half a win and a full headache.",
+  "The band started the fight song, stopped, started the sad song, stopped, packed up.",
+  "A tie. The league office loves a tie. Nobody else does.",
+  "We could have won. They could have won. The football chose neither.",
+  "Overtime was available. Dignity was not. We shook hands at even.",
+  "The coin for overtime is still in somebody's pocket. We will not speak of it."
+ ],
+ "reportLosing": [
+  "The concession stand ran out of napkins, then ran out of excuses.",
+  "Money out is bigger than money in. The accountant has taken up a hobby: sighing.",
+  "A loss on the books this week. Please do not look at the books.",
+  "Net negative. The accountant would like a word, and a snack.",
+  "In the red this week. The pens in the front office are being rationed.",
+  "Our tax write-offs are going to be lit this year.",
+  "The till is lighter than the crowd. That is not the direction we wanted.",
+  "We paid more to put on a game than the game paid us. The irony is not deductible.",
+  "Cash went out. The crowd did not quite come in. Math is undefeated.",
+  "The books are frowning. The books have a very expressive font this week.",
+  "A week like this is why the safe has a combination and a prayer.",
+  "If enthusiasm were revenue we would be fine. Enthusiasm is not revenue."
+ ],
+ "reportAway": [
+  "Road trip. Somebody left the film reels on the bus.",
+  "Away game. The motel ice machine produced no ice, only a sound.",
+  "We traveled four hours to be booed by strangers. Character building.",
+  "Gas, tolls, and one very expensive diner. Road life.",
+  "The bus was fine. The bus snacks were not.",
+  "Road game: the money goes out the window with the gas.",
+  "Not sure stopping at every strip club on the way was good for the wallet.",
+  "The {o} crowd brought signs. One of them was spelled correctly.",
+  "We slept two to a room and one of them snores. Competitive snoring. We lost that too, maybe.",
+  "The visiting locker room smelled like a wet dog and old tape. Home field, they call it.",
+  "Four hours out, four hours back, and a diner coffee that could strip paint.",
+  "Somebody packed the wrong helmet bag. We made do. We always make do on the road.",
+  "The {t} traveled well. The expense report traveled better, unfortunately."
+ ],
+ "reportNoPromo": [
+  "Fans asked where the giveaway was. I told them we were giving away football. They were not amused.",
+  "Several emails about there being no promo tonight. One was in all caps. I am forwarding the polite ones only.",
+  "The crowd wanted a dollar dog, a bobblehead, anything. We offered a football game. Reviews are mixed.",
+  "A woman at the gate asked if tonight was fireworks. I said no. She said \"then why did I come.\" I did not have a good answer.",
+  "No promo, and the fans noticed. The suggestion box has three copies of the word \"promo\" and one drawing of a hot dog.",
+  "Quiet night on the promotions side. The fans were louder about that than about the score.",
+  "People keep asking when the next giveaway is. \"Next\" implies there was a last one. There was not.",
+  "A season-ticket guy said Saturdays without a promo feel like church without donuts. I have added that to the file.",
+  "The kids in section C waited for a mascot toss that never came. Their parents waited for a refund that also never came.",
+  "I fielded six complaints about \"nothing going on.\" The game was going on. That did not count, apparently.",
+  "No promo tonight. The hardware store had a raffle and we lost a few fans to a cordless drill.",
+  "Fans complained there was no promo. I wrote it down. Writing it down is my promo."
+ ],
+ "reportPromoMishap": [
+  "{promo} went bad. {why} I have filed it under \"learning,\" which is accountant for \"expensive.\"",
+  "{promo} did not survive contact with the public. {why} Please see the attached sigh.",
+  "We ran {promo}. It ran us. {why} The receipts have mustard on them and I am not cleaning that.",
+  "{promo} hit its risk. {why} I will need a bigger envelope for the invoices.",
+  "About {promo}: the fun stopped early. {why} Finance would like a quieter hobby.",
+  "{promo} is why we have insurance, and why the insurance is nervous. {why}",
+  "I budgeted for {promo}. I did not budget for {why} The variance is... educational.",
+  "Fans will remember {promo}. They will remember the wrong part. {why}",
+  "{promo} went sideways on my watch, which is to say I watched the money leave. {why}",
+  "Note on {promo}: {why} I have moved it from \"crowd driver\" to \"please never again.\""
+ ],
+ "promoGood": [
+  "{promo} was a smash. Three people asked when the next one is, and one of them was a reporter.",
+  "{promo} went great. A kid won something and cried happy tears. We are not crying. You are.",
+  "{promo} brought in the crowd. The mayor showed up and left with a free hat.",
+  "{promo} went off without a hitch. Somebody framed the receipt.",
+  "{promo} was a hit. The crowd was loud, the lines were long, and nobody called the cops.",
+  "{promo} was so good, even the face paralysis guy smiled!",
+  "{promo} packed the lot. A guy sold out of nachos and declared it the best night of his career.",
+  "{promo} worked. Carl from the Council took a photo and said he would \"put it in the minutes.\"",
+  "{promo} had people lining up an hour early. We had not planned for an hour early. We survived.",
+  "{promo} paid for itself in noise alone. The money was a nice bonus.",
+  "{promo} drew families, dates, and one very committed goat. The goat had a ticket. We did not ask.",
+  "{promo} is already being talked about at the hardware store. That is how you know it landed."
+ ],
+ "promoBad": [
+  "{promo} did not go as planned. {why} The insurance guy has stopped returning calls.",
+  "{promo} will be remembered. Not fondly. {why} A local reporter used the word 'chaos'.",
+  "{promo} went off the rails. {why} Someone is still looking for their shoe.",
+  "{promo} went sideways. {why} The cleanup crew asked for hazard pay.",
+  "{promo} had a moment. {why} The league sent a letter. The letter was not nice.",
+  "{promo} was so bad that even Legless Larry walked out.",
+  "{promo} sprung a leak. {why} The mayor left through a side gate and did not wave.",
+  "{promo} is going in the \"never again\" folder. {why} The folder is getting thick.",
+  "{promo} looked good on paper. Paper is a coward. {why}",
+  "{promo} attracted the wrong kind of attention. {why} A cop took notes, then a pretzel.",
+  "{promo} ran long, loud, and slightly illegal. {why} We are calling it \"a learning experience.\"",
+  "{promo} will be discussed at the next Council meeting. {why} Carl has already underlined it."
+ ],
+ "bankLow": [
+  "Dear Owner, your balance is the size of a modest sandwich. Warm regards, your Bank.",
+  "Just checking in about your account. By 'checking in' we mean 'checking on'. - The Bank",
+  "The teller asked if you were doing alright. She looked sincere. That's the part that stung.",
+  "Dear Owner, we noticed your balance. This is a friendly note that is not that friendly. Your Bank.",
+  "Cash is running thin. The vending machine at the stadium has started taking IOUs.",
+  "Hello, this Don down at the bank. You are quickly running out of cash along with our patience.",
+  "Your account is still open. We mention this because it was a close vote. - The Bank",
+  "A courtesy call: your cash on hand would not cover a decent used tractor. Courtesy withdrawn shortly.",
+  "The vault light is on. Your side of it is dim. Please deposit something that is not hope.",
+  "We have seen healthier balances on lemonade stands. This is not a compliment. Your Bank.",
+  "Dear Owner: the number is small. The number is getting smaller. We are watching the number.",
+  "Don at the bank folded a paper football and kicked it at your file. He scored. You have not, financially."
+ ],
+ "bankNegative": [
+  "You are in the red. The bank has circled it. In red, for emphasis.",
+  "Overdraft notice. We have a fee for this. We have a fee for the fee.",
+  "Your account is negative. The bank's tone is also negative.",
+  "Your account is overdrawn. Fix this before game day.... or else.",
+  "The minus sign is not a decoration. Please remove it. Your Bank.",
+  "We covered you this time. We will remember that we covered you this time.",
+  "Overdrawn. The teller practiced saying \"I'm sorry\" in the mirror. She nailed it.",
+  "Your balance went south. South is not a branch we recommend.",
+  "The account is underwater. Unlike a pool, this is not refreshing.",
+  "Dear Owner: you owe us. We owe you a reminder. This is the reminder. Bring money."
+ ],
+ "bankFinal": [
+  "FINAL NOTICE. We tried being nice. This is us not being nice.",
+  "Last warning. The bank has started drawing up paperwork. The paperwork has a lot of pages. It is rude.",
+  "FINAL NOTICE: another overdrawn game day and the bank takes the keys. The letter was printed in red, which seems unnecessary.",
+  "This is the letter we send when the next letter is a locksmith. - The Bank",
+  "FINAL NOTICE. Don has stopped using your first name. That is never a good sign.",
+  "Last call. The repo man has the address. He also has a clipboard and no sense of humor.",
+  "We are done being patient. Patience was a promotional offer and it has expired.",
+  "FINAL NOTICE: the stadium, the bus, and the coffee maker are all on the list. The coffee maker is first.",
+  "If this account stays negative through another Saturday, we take the field. We mean that literally.",
+  "This letter is thick on purpose. The thickness is the point. Pay us. - The Bank"
+ ],
+ "sponsorsWaiting": [
+  "{n} sponsor(s) have sent offers. One sent a fruit basket. The fruit has already turned. See Finances > Sponsors.",
+  "{n} local business(es) want your attention, and perhaps your signature. See Finances > Sponsors.",
+  "Offers are in from {n} sponsor(s). The pens they sent are good pens. Read the contract anyway.",
+  "{n} local businesses want their name on something of yours. One brought a casserole. See Finances > Sponsors.",
+  "{n} sponsor offer(s) waiting. Read the fine print; one of them wants your mascot to \"get more enthusiastic.\"",
+  "{n} sponsors are lining up to make bad offers for everyone equally.",
+  "{n} envelope(s) on the desk. One is stained with barbecue sauce. That one might be honest. See Finances > Sponsors.",
+  "The phone rang {n} time(s) about sponsorship. We counted. See Finances > Sponsors.",
+  "{n} local outfit(s) want a piece of the jersey, the PA, or your soul. The soul is in the appendix. See Finances > Sponsors.",
+  "A stack of {n} offer(s) arrived. The stack is taller than the last trophy. See Finances > Sponsors.",
+  "{n} sponsor(s) left voicemails. Two of them said \"no pressure\" in a way that was all pressure.",
+  "Somebody taped {n} business card(s) to the office door. That is how deals start in this league. See Finances > Sponsors."
+ ],
+ "sponsorOfferNews": [
+  "New sponsor offer from {s} (open until week {w}). See Finances > Sponsors.",
+  "{s} wants in. The offer sits until week {w}. See Finances > Sponsors.",
+  "A mid-season knock: {s} left an offer on the table through week {w}. See Finances > Sponsors.",
+  "{s} called during the film session. They have money and a clause. Offer expires week {w}.",
+  "Somebody from {s} is waiting in the lobby with a pen. The offer lasts until week {w}. See Finances > Sponsors.",
+  "{s} slid an envelope under the door. It is good through week {w}. Read it before the janitor files it.",
+  "Hot off the fax (we still have a fax): {s} will sponsor you if you answer by week {w}. See Finances > Sponsors.",
+  "{s} saw last week and got ideas. Their offer expires week {w}. See Finances > Sponsors."
+ ],
+ "councilWelcome": [
+  "Dear Owner, welcome to {town}. Our goals are modest. The Council would like to remind you that pro football is a privilege, not a right, and that the field has a drainage problem. Cordially, the Council.",
+  "Dear Owner, the {town} Town Council is delighted by your arrival. Our goals this year: keep the lights on, and please do not do anything that makes the Council have to take a vote. Sincerely, Carl, on behalf of the Council.",
+  "Dear Owner, the {town} Town Council welcomes you to professional-ish football. Your goals: 1) Survive. 2) Win a title. 3) Do not make us explain the budget at the next meeting. Warmly, the Council (and Carl).",
+  "Welcome to {town}. The Council has prepared a binder. The binder is mostly photos of potholes and one photo of the field. Please do not add to the pothole section. — The Council",
+  "Dear Owner, {town} is glad you are here. We have a gavel, a thermos, and three goals. Do not lose the thermos. Cordially, the Council.",
+  "The {town} Town Council voted to welcome you. The vote was closer than we would like. Please make us look smart. — Carl",
+  "Dear Owner, you are now part of {town}'s proud tradition of almost making it. We believe in you, with conditions. See the goals. Warmly, the Council.",
+  "Welcome. The {town} field is yours, the bleachers are ours, and the drainage is nobody's. Let us all do our best. — The Council",
+  "Dear Owner, {town} does not get many second chances. This is one. Please do not waste it on a fireworks night without a permit. Sincerely, the Council.",
+  "A key to the stadium is enclosed. It also opens the supply closet. If you find Carl's sandwich, leave it. Welcome to {town}."
+ ],
+ "councilTitle": [
+  "A parade in your honor has been approved in {town}. The route is 3 blocks long and passes the hardware store twice.",
+  "The {town} Town Council has named a sandwich after you. It is mostly mustard. It is an honor.",
+  "Congratulations! The {town} Town Council has voted, 4-3, to declare a day in your honor. The 3 are still sulking.",
+  "{town} is hanging a banner. The banner is slightly too long for Main Street. We consider this a good problem.",
+  "The Council in {town} has authorized confetti. Budget: one bag. Use it slowly.",
+  "Carl cried. He says it was allergies. {town} knows it was the trophy.",
+  "A motion to rename the water tower after the team failed. A motion to wash the water tower passed. {town} celebrates in its own way.",
+  "The {town} fire department has agreed to siren once, briefly, at dusk. Please do not request an encore.",
+  "You brought a title to {town}. The Council has forgiven the parking situation. Temporarily.",
+  "A plaque is being ordered. The plaque shop in {town} is backed up, so enjoy the feeling while the brass is on backorder."
+ ],
+ "councilWarn": [
+  "The {town} Town Council has seen your {rec} record. They would like to 'circle back'. Nobody is sure what that means, but it is not good.",
+  "The {town} Town Council notes the {rec} finish. Carl wants you to know he still believes in you. Carl is alone in this.",
+  "The {town} Town Council notes you finished {rec}. \"We're not mad,\" they write, \"we're just reviewing the parking budget.\"",
+  "{rec} is the kind of record that makes {town} invent extra Council meetings.",
+  "The minutes from {town} include your {rec} and the phrase \"room for improvement,\" underlined until the paper tore.",
+  "Dear Owner: {rec}. The {town} Council has questions, and the questions have follow-ups.",
+  "A citizen in {town} used the word \"rebuild.\" The Council would prefer you rebuild without using that word. Record: {rec}.",
+  "The {town} Town Council has tabled praise and un-tabled concern. You finished {rec}.",
+  "{rec} will be discussed after old business, which in {town} is also you.",
+  "Carl left a sticky note on your {rec}: \"We can still turn this around.\" The note was from last year. He reused it."
+ ],
+ "councilOk": [
+  "The {town} Town Council is pleased with your {rec}. They have approved a small plaque. The plaque is smaller than hoped.",
+  "{rec}, says the {town} Town Council. 'Respectable', they write. Carl underlined it twice.",
+  "The {town} Town Council notes you finished {rec}. A motion to praise you was seconded, then tabled for lunch.",
+  "{town} will take a {rec}. They will not throw a parade, but they will not throw tomatoes either.",
+  "The Council in {town} called {rec} \"solid.\" Solid is their favorite word after \"adjourned.\"",
+  "A polite round of golf claps for {rec}. {town} does not do standing ovations on a school night.",
+  "Your {rec} has been entered into the {town} record as \"fine.\" Fine is a compliment here.",
+  "The {town} Town Council is not mad. They are, in fact, almost proud. {rec}.",
+  "Carl brought donuts to the meeting because of your {rec}. Two of them were left. That is love.",
+  "{rec} keeps the lights on and the letters civil. {town} thanks you for both."
+ ],
+ "councilSeason": [
+  "Season {s} begins. The council has approved new bleacher paint. It is the same color. It cost the same as a different color.",
+  "Season {s} is here. The council reminds you that the stadium lights are on a timer, and the timer is Carl.",
+  "Season {s} begins. The council has gone over the budget and found that it was, indeed, a budget.",
+  "Season {s} begins. The council has repainted the end zone and would like you to know it was expensive.",
+  "Season {s} begins. The council has decided not to name the street the field runs adjacent too after you.",
+  "Season {s} is underway. The Council wishes you luck, hydration, and fewer noise complaints than last year.",
+  "A new year: season {s}. The field was mowed. The mower is still in the end zone. Somebody will move it. Eventually.",
+  "Season {s}. The Council has laminated the goals. Laminating is how they show they care.",
+  "Welcome to season {s}. Please keep the dumpster closed. Raccoons found last year's playbook and were unimpressed.",
+  "Season {s} begins with optimism and a slightly leaky press box. Both are traditional.",
+  "The Council cut a ribbon for season {s}. The ribbon was reused. The scissors were new. Priorities.",
+  "Season {s}: same field, same coffee, new chances. The coffee is still a war crime. The chances are yours."
+ ],
+ "councilGoals": [
+  "The Council asks: {list}. Meet them and the Council finds money for the stadium.",
+  "This year's assignments from the Council: {list}. Hit them and Carl \"finds\" a grant in a drawer.",
+  "Posted on the break-room fridge, in Comic Sans: {list}. Meet them. The stadium thanks you in advance.",
+  "The Council has goals. They always have goals. This season: {list}. Money follows success, slowly.",
+  "A memo, three pages, one staple: {list}. Do these and the Council loosens the purse strings.",
+  "Carl read them out loud: {list}. He wants you to know the grant is real. The hug is optional.",
+  "Season goals, in order of how loudly they were debated: {list}. Meet them and the field gets nicer.",
+  "The Council circled these in red: {list}. Red means important. Also it was the only pen that worked."
+ ],
+ "councilReviewAll": [
+  "{verdict} Carl clapped. Nobody else clapped, but Carl clapped. See the Council tab in Finances for the full report card.",
+  "{verdict} A motion to be proud passed unanimously, then they argued about the wording. See the Council tab in Finances.",
+  "{verdict} The Council brought a cake. The cake said \"GOALS.\" It was store-bought. See the Council tab in Finances.",
+  "{verdict} Somebody actually smiled with their teeth. See the Council tab in Finances for the full report card."
+ ],
+ "councilReviewPartial": [
+  "{verdict} The Council calls this \"progress,\" which is their word for \"not a disaster.\" See the Council tab in Finances.",
+  "{verdict} Half a cheer, half a memo. See the Council tab in Finances for the full report card.",
+  "{verdict} Carl underlined the parts you hit and circled the parts you missed. See the Council tab in Finances.",
+  "{verdict} They will take it. They would have preferred all of it. See the Council tab in Finances."
+ ],
+ "councilReviewNone": [
+  "{verdict} The silence in chambers had its own agenda. See the Council tab in Finances for the full report card.",
+  "{verdict} Carl put a hand on your shoulder. It was not a comforting hand. See the Council tab in Finances.",
+  "{verdict} A motion to \"circle back in the spring\" passed. That is not a compliment. See the Council tab in Finances.",
+  "{verdict} The paint budget is hiding. The goals are not. See the Council tab in Finances."
+ ],
+ "councilReviewEmpty": [
+  "{verdict} See the Council tab in Finances for the full report card.",
+  "{verdict} Even Carl is confused, and Carl is never confused on purpose. See the Council tab in Finances."
+ ],
+ "gameInjuryPlayer": [
+  "Boss, took a hit I did not see coming. Doc says {g} game(s). My {body} has opinions. - {p}",
+  "Coach, my {body} went one way and I went the other. Out {g} game(s). - {p}",
+  "Boss, I tried to be tough. My {body} voted against. {g} game(s). - {p}",
+  "Boss, my {body} is not happy. Doc says {g} game(s). I told him I'd be fine in a week. He laughed. - {p}",
+  "Coach, I got hit by someone who clearly had a lot to prove. Out {g} game(s). I'll be on the sideline looking supportive. - {p}",
+  "Boss, I think I broke something that I didn't know could break. {g} game(s) off. - {p}",
+  "Coach, that was not a legal hit in my heart. The ref disagreed. {body} is toast. {g} game(s). - {p}",
+  "Boss, I heard a sound. The sound was my {body}. Doc wrote {g} on the board. - {p}",
+  "Coach, I landed on a guy, then the ground, then my {body}. Out {g}. Ice me. - {p}",
+  "Boss, they rolled up on my {body}. I rolled up on the trainer. {g} game(s). - {p}",
+  "Coach, I would play. The {body} would like a word, and a sling, and {g} week(s). - {p}",
+  "Boss, tell the backup not to get too cozy. My {body} just needs {g} game(s) to stop yelling. - {p}"
+ ],
+ "gameInjuryMinor": [
+  "Boss, got dinged. It's fine. My {body} is fine. I'm fine. Back soon. - {p}",
+  "Coach, my {body} is sore but I'll be back. Please don't let the backup get comfortable. - {p}",
+  "Boss, a short rest and some ice, and I'm good as new. Maybe new-ish. - {p}",
+  "Boss, just a tweak. Back next week. Do NOT tell my wife I said that. - {p}",
+  "Coach, I'll miss {g} but I'll be there in spirit and also in the whirlpool. - {p}",
+  "Boss, walked it off until the trainer made me stop walking it off. {body} is sulking. Back after {g}. - {p}",
+  "Coach, it looks worse than it is. It also feels exactly as bad as it looks. Short rest. - {p}",
+  "Boss, I can still high-five. The {body} asked me not to. Sit {g} and I'm yours. - {p}",
+  "Coach, tape, ice, and a movie night. Miss {g}. Save me a locker. - {p}",
+  "Boss, I got the wind knocked out of me and also a little pride. {body} wants a day. - {p}",
+  "Coach, the hit was loud. I am loud. We are both fine-ish. Out {g}. - {p}",
+  "Boss, they got my {body} but they did not get my attitude. Attitude plays next week. - {p}"
+ ],
+ "bodyParts": [
+  "knee",
+  "ankle",
+  "shoulder",
+  "hamstring",
+  "thumb",
+  "ribs",
+  "pride",
+  "hip",
+  "wrist",
+  "neck",
+  "lower back",
+  "elbow",
+  "calf",
+  "groin",
+  "ego",
+  "collarbone"
+ ],
+ "returned": [
+  "{p} ({pos}) is back and says the {pos} room has missed him. Nobody else said that.",
+  "{pos} {p} has been cleared. The training room is oddly quiet without him.",
+  "{p} ({pos}) is ready to go. He did a stretch. It was loud.",
+  "{pos} {p} is healthy and cleared to play.",
+  "{p} ({pos}) is back from the shelf. He says he is \"mostly\" better.",
+  "{p} ({pos}) says he is healthy enough to get hurt again.",
+  "{p} ({pos}) has rubbed some dirt on it and is ready to play.",
+  "{pos} {p} got the nod from the trainer, who looked tired of seeing him.",
+  "{p} ({pos}) jogged a lap, declared himself immortal, and was added back to the list.",
+  "{pos} {p} is off the injury report. He brought donuts. Diplomacy.",
+  "{p} ({pos}) says the bruise has \"character\" now. Cleared to play.",
+  "{pos} {p} returned to practice and immediately asked who had his locker."
+ ],
+ "returnedTrip": [
+  "{p} ({pos}) is back from his work trip and available for Saturday.",
+  "{pos} {p} got away from work. He is back at practice and available.",
+  "{p} ({pos}) made it back from his work obligations. His boss let him go, mostly.",
+  "{pos} {p} has wrapped up what kept him at work and is available again.",
+  "{p} ({pos}) clocked out of the {job} grind and clocked in at practice.",
+  "{pos} {p} found a replacement at work, or a lie that worked. He is here.",
+  "{p} ({pos}) got the Saturday off. He says he \"owes a guy.\" We will not ask.",
+  "{pos} {p} is done traveling for the {job} job, at least until the next emergency.",
+  "{p} ({pos}) made it home. The suitcase is still in the truck. He is available.",
+  "{pos} {p} beat the schedule. Work can wait until Monday. Football cannot."
+ ],
+ "returnedConduct": [
+  "{p} ({pos}) has served his time and apologized to everyone, including the dog. He is available.",
+  "{pos} {p} is back from his suspension. He says he has \"learned a lot.\" Management is waiting to see it.",
+  "{p} ({pos}) is cleared to play. He promises to stay away from the Silver Spur and anyone named Tiny.",
+  "{pos} {p} is done sitting. His phone is off and his truck is in the lot. He will be at practice."
+ ],
+ "returnedWorkInjury": [
+  "{p} ({pos}) has recovered from his work injury and is back at practice.",
+  "{pos} {p} is back after getting hurt at work. He promises to be more careful on the job.",
+  "{p} ({pos}) is cleared after his accident at work and is ready to go.",
+  "{pos} {p} says the {job} job is \"fine now\" and so is he. Available this week.",
+  "{p} ({pos}) got the work doctor's note. The note is crumpled. He is playing.",
+  "{pos} {p} taped over whatever happened at the {job} job and showed up anyway.",
+  "{p} ({pos}) is done filing the incident report. Practice is a better use of his time.",
+  "{pos} {p} claims the {job} bruise \"builds character.\" Character is cleared to dress.",
+  "{p} ({pos}) is back from the {job} mishap. Do not ask about the paperwork.",
+  "{pos} {p} survived his day job. The night job (us) gets him again."
+ ],
+ "jobCategories": {
+  "transit": {
+   "keys": [
+    "bus",
+    "taxi",
+    "shuttle"
+   ],
+   "injury": [
+    "Boss, a passenger and a very heavy suitcase met my back. Out {g} game(s). - {p}",
+    "Coach, I slammed the brakes for a squirrel. My neck did not vote for the squirrel. {g} game(s). - {p}",
+    "Boss, the door and my hand had a disagreement on the route. Out {g} game(s). - {p}",
+    "Coach, wrestled the wheel through a pothole the size of a pool. Shoulder lost. {g} game(s). - {p}",
+    "Boss, slipped on the bottom step in the rain. Everyone saw. Out {g}. - {p}",
+    "Coach, ten hours in one seat and my back filed a complaint. {g} game(s). - {p}",
+    "Boss, a mirror, a low branch, and my elbow. The mirror lost too. Out {g}. - {p}",
+    "Coach, a rider tripped on the aisle and I caught him. My knee did not appreciate it. {g} game(s). - {p}"
+   ],
+   "trip": [
+    "Boss, a double route and no relief driver. Miss the game. - {p}",
+    "Coach, dispatch is short a driver and I am the driver. Miss Saturday. - {p}",
+    "Boss, a parade, a detour, and a route map that is mostly vibes. Out this week. - {p}",
+    "Coach, a charter run that was one stop and is now five. I cannot make kickoff. - {p}",
+    "Boss, the vehicle broke down and I am the only one who knows which wire to jiggle. Out. - {p}",
+    "Coach, a big event in town means every rider in the county is mine. Miss the game. - {p}",
+    "Boss, the weekend schedule got swapped and mine is now \"everything.\" Out this week. - {p}",
+    "Coach, an extra run to the airport. Then another one. Then another one. Miss Saturday. - {p}"
+   ]
+  },
+  "driver": {
+   "keys": [
+    "driver",
+    "trucker",
+    "courier",
+    "delivery",
+    "mail carrier",
+    "forklift",
+    "dispatcher",
+    "package",
+    "mover",
+    "postal",
+    "sorter"
+   ],
+   "injury": [
+    "Boss, a forklift and I took a corner too fast. Out {g} game(s). - {p}",
+    "Coach, hurt my back lifting a box labeled 'light'. It was not light. {g} game(s). - {p}",
+    "Boss, backed into a loading dock. The dock won. Out {g} game(s). - {p}",
+    "Coach, a pallet of paper towels got me. I know how that sounds. {g} game(s) off. - {p}",
+    "Boss, the dolly had a mind of its own. My ankle did not. Out {g}. - {p}",
+    "Coach, a strap snapped and so did something in my back. {g} game(s). - {p}",
+    "Boss, I lost a fight with a hand truck at the {job} job. Out {g}. - {p}",
+    "Coach, jumped out of the cab wrong. Gravity is 1-0. {g} game(s). - {p}"
+   ],
+   "trip": [
+    "Boss, a double shift on the route. Back after the weekend. - {p}",
+    "Coach, the truck broke down somewhere between here and nowhere. Miss the game. - {p}",
+    "Boss, stuck in Barstow with a load of gravel. I'll miss the game. Tell them I said hi to the gravel. - {p}",
+    "Coach, the route changed. Now I'm in Tulare. I don't know why. Miss me. - {p}",
+    "Boss, dispatcher put me on a run to Bakersfield that \"wouldn't take long.\" It will. - {p}",
+    "Coach, the load is perishable and so is my availability. Miss Saturday. - {p}",
+    "Boss, detour, construction, and a weigh station. I will not make kickoff. - {p}",
+    "Coach, they need the {job} truck in Nevada. I am the truck, spiritually. Out this week. - {p}",
+    "Boss, the load shifted outside Fresno and so did my weekend. Miss the game. - {p}",
+    "Coach, the other driver called in sick and I inherited his whole route. Miss Saturday. - {p}",
+    "Boss, a rush order that \"can't wait until Monday.\" Neither can the dispatcher. Out. - {p}"
+   ]
+  },
+  "oddball": {
+   "keys": [
+    "professional",
+    "inflatable",
+    "bigfoot",
+    "hot dog",
+    "mall santa",
+    "ghost",
+    "chicken costume",
+    "bunker",
+    "rodeo",
+    "alien",
+    "carnival",
+    "snake",
+    "celebrity",
+    "haunted",
+    "flamingo",
+    "cheese",
+    "portable toilet",
+    "roadkill",
+    "unemployed"
+   ],
+   "injury": [
+    "Boss, the costume has no peripheral vision and the curb has no mercy. Out {g} game(s). - {p}",
+    "Coach, I was demonstrating my talent at the {job} gig and the talent bit back. {g} game(s). - {p}",
+    "Boss, a prop was heavier than it looked. It looked heavy. Out {g}. - {p}",
+    "Coach, a crowd, a stumble, and a very sincere child. {g} game(s). - {p}",
+    "Boss, pulled a muscle holding a pose for the {job} gig. Out {g} game(s). - {p}",
+    "Boss, hot lights, a long shift, and a hamstring that did not sign up. {g} game(s). - {p}",
+    "Coach, I fell off something that was not supposed to move. {g} game(s). - {p}",
+    "Boss, do not ask what a {job} does on a Tuesday. It involved a fall. Out {g}. - {p}"
+   ],
+   "trip": [
+    "Boss, I got booked for a big weekend event. My line of work only has so many weekends. Miss the game. - {p}",
+    "Coach, a local news crew wants me for a \"local color\" segment. Hard to say no to local color. Miss Saturday. - {p}",
+    "Boss, the festival sold out and wants an encore. I am the encore. Out. - {p}",
+    "Coach, a convention for the {job} crowd. We are a small but loyal crowd. Miss the game. - {p}",
+    "Boss, peak season for my line of work. It is a short season. Out this week. - {p}",
+    "Coach, a clip of me went viral and got me a last-minute booking two counties over. Do not watch it. Miss Saturday. - {p}",
+    "Boss, the county fair needs me and only me. Miss the game. - {p}",
+    "Coach, an audition for something very important and mildly embarrassing. Out this week. - {p}",
+    "Boss, a customer asked for me by name. I have never been asked for by name. Out this week. - {p}"
+   ]
+  },
+  "trades": {
+   "keys": [
+    "welder",
+    "plumber",
+    "electrician",
+    "carpenter",
+    "construction",
+    "crane",
+    "mechanic",
+    "hvac",
+    "roofer",
+    "heavy equipment",
+    "handyman",
+    "machine",
+    "factory",
+    "diesel",
+    "logger",
+    "oil rig",
+    "painter",
+    "maintenance",
+    "steel",
+    "iron",
+    "brick",
+    "drywall",
+    "concrete",
+    "solar",
+    "mining",
+    "elevator",
+    "cable",
+    "locksmith",
+    "window",
+    "appliance",
+    "arborist",
+    "fisherman",
+    "warehouse",
+    "installer",
+    "surveyor",
+    "water worker",
+    "telecom",
+    "stockroom",
+    "repair"
+   ],
+   "injury": [
+    "Boss, a power tool had opinions. Out {g} game(s). I have all ten fingers. - {p}",
+    "Coach, a beam and my shoulder met. The beam won. {g} game(s). - {p}",
+    "Boss, a ladder and I had a disagreement. The ladder is fine. Out {g} game(s). - {p}",
+    "Coach, dropped something heavy on something important at the {job} job. {g} game(s). - {p}",
+    "Boss, don't ask. Seriously. It involved a wrench. Out {g}. - {p}",
+    "Coach, a pipe I trusted was not trustworthy. {g} game(s) and a tetanus shot. - {p}",
+    "Boss, sparks, a glove, and a lesson. Out {g} game(s). - {p}",
+    "Coach, the {job} site won today. I will win Saturday after {g}. - {p}"
+   ],
+   "trip": [
+    "Boss, the foreman called an emergency overtime. Miss the game. Sorry. - {p}",
+    "Coach, the job site is flooding. In a bad way. I'm needed. - {p}",
+    "Boss, the {job} job needs me out of town for a rush call. I'll miss the game. - {p}",
+    "Coach, there's a leak. Out of town. I'm sorry. I'm always sorry. - {p}",
+    "Boss, a crane is down and I am the guy who pretends to understand cranes. Miss Saturday. - {p}",
+    "Coach, they flew me to a job that is \"two days, tops.\" Tops is this weekend. - {p}",
+    "Boss, inspection failed. We fix it now or we all get yelled at. I'm the fixer. Out. - {p}",
+    "Coach, the {job} crew is short and I drew the short straw. See you next week. - {p}"
+   ]
+  },
+  "outdoor": {
+   "keys": [
+    "farmer",
+    "landscaper",
+    "groundskeeper",
+    "ranger",
+    "lifeguard",
+    "rancher",
+    "forest",
+    "pest"
+   ],
+   "injury": [
+    "Boss, a gate and I disagreed. The gate won. Out {g} game(s). - {p}",
+    "Coach, a very large wasp. {g} game(s). I'd rather not discuss. - {p}",
+    "Boss, a mower and I disagreed about the hill. Out {g} game(s). - {p}",
+    "Coach, a bull was involved. The bull is also fine. {g} game(s) off. - {p}",
+    "Boss, I wrestled a hose. The hose had backup (gravity). Out {g}. - {p}",
+    "Coach, something bit me that I could not identify. {g} game(s) and a story. - {p}",
+    "Boss, the {job} job and a hidden gopher hole. My ankle found it. Out {g}. - {p}",
+    "Coach, heat, a ditch, and bad boots. {g} game(s) of sitting in the shade. - {p}"
+   ],
+   "trip": [
+    "Boss, storm's coming and the crop's not in. Miss Saturday. - {p}",
+    "Coach, the {job} job won't let me out. Weather. Cows. Both. - {p}",
+    "Boss, the harvest won't wait and neither will the boss. Out for the game. - {p}",
+    "Coach, there is a fence down and a cow in a place a cow should not be. I'll miss Saturday. - {p}",
+    "Boss, irrigation failed at 4 a.m. I am still out there. Miss the game. - {p}",
+    "Coach, frost warning. We cover plants, not football. Out this week. - {p}",
+    "Boss, the {job} crew got called to another county. I am the crew. - {p}",
+    "Coach, a swarm of something and a boss who said \"handle it.\" Handling it. Miss Saturday. - {p}"
+   ]
+  },
+  "food": {
+   "keys": [
+    "cook",
+    "chef",
+    "baker",
+    "bartender",
+    "butcher",
+    "dishwasher",
+    "cashier",
+    "server",
+    "grocery",
+    "restaurant",
+    "gas station",
+    "barista",
+    "food truck"
+   ],
+   "injury": [
+    "Boss, a hot pan and a lack of attention. Out {g} game(s). - {p}",
+    "Coach, a stack of plates and the floor. Out {g} game(s). - {p}",
+    "Boss, burned my hand on the line. Don't laugh. Out {g} game(s). - {p}",
+    "Coach, slipped on something I don't want to talk about. {g} game(s) off. - {p}",
+    "Boss, a slicer and a moment of philosophy. I chose poorly. Out {g}. - {p}",
+    "Coach, the fryer oil and I are no longer friends. {g} game(s). - {p}",
+    "Boss, I caught a keg with my foot. The keg is fine. Out {g}. - {p}",
+    "Coach, closed a cooler on a finger I still need. {g} game(s) of pointing with the other hand. - {p}"
+   ],
+   "trip": [
+    "Boss, a catering order the size of a small country. Miss the game. - {p}",
+    "Coach, the dinner rush started at noon. Out this week. - {p}",
+    "Boss, the {job} gig has a double shift and the manager says \"or else.\" Out this week. - {p}",
+    "Coach, short staffed at work. I'm the staff. See you soon. - {p}",
+    "Boss, a wedding, a buffet, and no one else who can carve. Miss Saturday. - {p}",
+    "Coach, inventory night turned into inventory weekend. I will miss the game. - {p}",
+    "Boss, the health inspector is coming and I am the only one who pretends we are ready. Out. - {p}",
+    "Coach, a food-truck festival two counties over. The truck does not drive itself. - {p}"
+   ]
+  },
+  "care": {
+   "keys": [
+    "nurse",
+    "emt",
+    "paramedic",
+    "dentist",
+    "dental",
+    "therapist",
+    "medical",
+    "pharmacist",
+    "chiropractor",
+    "firefighter",
+    "police",
+    "corrections",
+    "trainer",
+    "health aide",
+    "veterinarian",
+    "childcare",
+    "social worker",
+    "security",
+    "laboratory",
+    "hygienist"
+   ],
+   "injury": [
+    "Boss, a patient got a bit rowdy. Out {g} game(s). He's fine too. - {p}",
+    "Coach, pulled something lifting a patient. Out {g} game(s). Irony. - {p}",
+    "Boss, I patched everyone but myself. Out {g} game(s). Ironic. - {p}",
+    "Coach, an unhappy patient. Out {g} game(s). He was very unhappy. - {p}",
+    "Boss, a gurney had a mind of its own. Out {g}. - {p}",
+    "Coach, I took an elbow meant for someone else. Occupational. {g} game(s). - {p}",
+    "Boss, a dog I was helping did not want help. Out {g} and a story I will tell forever. - {p}",
+    "Coach, the {job} job got physical. I got a sling. {g} game(s). - {p}"
+   ],
+   "trip": [
+    "Boss, a triple shift. They love me and need me. Miss the game. - {p}",
+    "Coach, an emergency at the {job} job. Miss Saturday. - {p}",
+    "Boss, called in for an emergency. Not mine. Out this week. - {p}",
+    "Coach, short on staff at the {job} job. I'm the staff. I'll miss the game. - {p}",
+    "Boss, a storm and a full waiting room. Football will have to wait. - {p}",
+    "Coach, they held me over. \"Just one more call.\" It was not one more call. - {p}",
+    "Boss, coverage fell through and I am coverage. Miss Saturday. - {p}",
+    "Coach, a training drill I cannot skip. The {job} job has attendance rules too. - {p}"
+   ]
+  },
+  "sales": {
+   "keys": [
+    "sales",
+    "realtor",
+    "barber",
+    "stylist",
+    "groomer",
+    "florist",
+    "janitor",
+    "hotel",
+    "retail",
+    "real estate",
+    "teller",
+    "photographer"
+   ],
+   "injury": [
+    "Boss, a display rack and I disagreed in the aisle. Out {g} game(s). - {p}",
+    "Coach, a client's dog, a handshake, and a twist. {g} game(s). - {p}",
+    "Boss, I pulled something demonstrating enthusiasm at the {job} job. Out {g}. - {p}",
+    "Coach, slipped on a freshly mopped \"wet floor\" I had just mopped. {g} game(s). - {p}",
+    "Boss, a folding table folded. I did too. Out {g}. - {p}",
+    "Coach, a long shift on a hard floor and a hamstring said enough. {g} game(s) of sitting it out. - {p}",
+    "Boss, I hurt myself making a sale look easy. It was not easy. Out {g}. - {p}",
+    "Coach, a stockroom shelf and I disagreed at the {job} job. Gravity again. {g} game(s). - {p}"
+   ],
+   "trip": [
+    "Boss, a client in another county who \"has to sign this weekend.\" Miss the game. - {p}",
+    "Coach, inventory, a reset, and a manager who does not know what Saturday is. Out. - {p}",
+    "Boss, they booked me for an event the same day as the game. The event pays. Sorry. - {p}",
+    "Coach, a house showing that became four house showings. I will miss Saturday. - {p}",
+    "Boss, the {job} job sent me on the road with samples. The samples have a hotel reservation. I do too. - {p}",
+    "Coach, a convention. Badges, carpets, and no football. Back next week. - {p}",
+    "Boss, I have to cover a shift two towns over. The {job} gig does not do rain checks. - {p}",
+    "Coach, they need a body in a booth until Saturday night. I am the body. - {p}",
+    "Boss, a store reset and nobody else knows where anything goes. Miss Saturday. - {p}",
+    "Coach, the owner is out of town and I am the owner for the weekend. Miss the game. - {p}",
+    "Boss, a sale that \"has to be done by Saturday.\" Everything at the {job} job has to be done by Saturday. - {p}"
+   ]
+  },
+  "air": {
+   "keys": [
+    "pilot",
+    "flight",
+    "geologist"
+   ],
+   "injury": [
+    "Boss, a suitcase with a mind of its own hit my shoulder. Out {g} game(s). - {p}",
+    "Coach, turbulence, a cart, and my knee. {g} game(s). - {p}",
+    "Boss, I slept in a seat that is not a seat. My back filed a grievance. Out {g}. - {p}",
+    "Coach, a hatch, a shin, and a word I cannot repeat. {g} game(s). - {p}",
+    "Boss, the {job} job has me walking on uneven ground with heavy gear. The ground won. Out {g}. - {p}",
+    "Coach, I tripped over a strap that was \"not supposed to be there.\" {g} game(s). - {p}"
+   ],
+   "trip": [
+    "Boss, they swapped my route. I will be in the air when you snap the ball. - {p}",
+    "Coach, a delay in Phoenix that is now my entire weekend. Miss the game. - {p}",
+    "Boss, crew rest rules. I cannot legally play and also do the {job} job. Out. - {p}",
+    "Coach, a charter that \"needed a body.\" I am the body. See you next week. - {p}",
+    "Boss, weather stacked the flights. I am stacked with them. Miss Saturday. - {p}",
+    "Coach, the {job} gig has me overnight in a town with one diner and no football. - {p}"
+   ]
+  },
+  "desk": {
+   "keys": [
+    "accountant",
+    "assistant",
+    "architect",
+    "analyst",
+    "lawyer",
+    "teacher",
+    "librarian",
+    "manager",
+    "clerk",
+    "writer",
+    "designer",
+    "insurance",
+    "banker",
+    "it support",
+    "agent",
+    "office",
+    "developer",
+    "engineer",
+    "coordinator",
+    "reporter",
+    "receptionist",
+    "software",
+    "customer service",
+    "coach"
+   ],
+   "injury": [
+    "Boss, a stapler, a drawer, and bad timing. Out {g} game(s). - {p}",
+    "Coach, rolled my chair too far. Out {g} game(s). It's embarrassing. - {p}",
+    "Boss, I hurt myself at a desk. I want that on the record that it was a chair. Out {g} game(s). - {p}",
+    "Coach, a filing cabinet got me. Out {g} game(s). I will not elaborate. - {p}",
+    "Boss, I lunged for a printer jam. The printer won. Out {g}. - {p}",
+    "Coach, ergonomic is a lie. My back filed a complaint. {g} game(s). - {p}",
+    "Boss, a team-building \"fun run\" at the {job} job. Fun lost. Out {g}. - {p}",
+    "Coach, I slept wrong after a 14-hour spreadsheet. {g} game(s) of regretting Excel. - {p}"
+   ],
+   "trip": [
+    "Boss, the quarterly report is due and so am I. Miss the game. - {p}",
+    "Coach, a 'quick meeting' that ended up taking my whole Saturday. - {p}",
+    "Boss, the company is flying me to a \"mandatory retreat.\" Miss the game. There are trust falls. - {p}",
+    "Coach, a conference in Fresno. I'm told it's \"very important.\" I'll miss Saturday. - {p}",
+    "Boss, year-end close. Nobody closes. I will miss the game and several meals. - {p}",
+    "Coach, they need a body in Sacramento and I am the body. Out this week. - {p}",
+    "Boss, a training session in a hotel conference room that smells like carpet. Miss Saturday. - {p}",
+    "Coach, a deadline moved up and so did my Saturday. Miss the game. - {p}",
+    "Boss, the system went down and I am the only one who remembers the manual process. Out. - {p}",
+    "Coach, an audit. Nobody wants to talk about it. I will be there all weekend. - {p}",
+    "Coach, the {job} office scheduled training on the one day I play football. Of course they did. - {p}"
+   ]
+  }
+ },
+ "genericInjury": [
+  "Boss, tripped over something at my {job} job. I'd rather not say what. Out {g} game(s). - {p}",
+  "Coach, a work thing happened to my body. Out {g} game(s). HR is involved. - {p}",
+  "Boss, got hurt at my {job} job. It was dumb. Out {g} game(s). - {p}",
+  "Coach, work accident. Out {g} game(s). The boss gave me a card and a coupon. - {p}",
+  "Boss, the {job} job bit back. Out {g} game(s). I still have a job, somehow. - {p}",
+  "Coach, I cannot explain this injury without a diagram. Out {g}. - {p}",
+  "Boss, occupational hazard, they called it. I called it ouch. {g} game(s). - {p}",
+  "Coach, missed a step at work that I have taken a thousand times. {g} game(s) off. - {p}",
+  "Boss, the {job} gig and gravity had a meeting. I was the agenda. Out {g}. - {p}",
+  "Coach, I will be fine. Later. After {g} game(s). Work did this, not football. For once. - {p}"
+ ],
+ "genericTrip": [
+  "Boss, the {job} gig scheduled me for Saturday. I begged. I lost. Sorry. - {p}",
+  "Coach, the {job} job is making me work. I'll be back. I'll bring donuts. - {p}",
+  "Boss, the {job} job needs me this weekend. I'll miss the game. Sorry. - {p}",
+  "Coach, work trip. I know. I KNOW. See you next week. - {p}",
+  "Boss, they dangled overtime and I have rent. Miss Saturday. - {p}",
+  "Coach, a last-minute {job} shift. The calendar at work does not include football. - {p}",
+  "Boss, I am on a bus, a plane, or a very sad van for work. Out this week. - {p}",
+  "Coach, the {job} boss said \"be there or be unemployed.\" I like unemployed less. - {p}",
+  "Boss, coverage fell through at the {job} job. I am coverage. Miss the game. - {p}",
+  "Coach, they moved my days off. They moved them to a universe without kickoff. - {p}"
+ ],
+ "sponsorClauseEvents": {
+  "hat": [
+   "{s}'s hat giveaway was so popular fans fought over them. Security wore the hats.",
+   "The mascot wore {s}'s logo hat all game. Also at the grocery store afterward, reportedly.",
+   "A gust took a stack of {s} hats into the end zone. The return team was not ready.",
+   "{s} sent a bigger hat. The mascot is now a weather event.",
+   "Kids lined up for {s} hats. Parents lined up behind the kids. The line reached the corn dog stand."
+  ],
+  "nephew": [
+   "The {s} owner's nephew was spotted taking credit for the team's success.",
+   "Fans are still calling it \"Dale Field.\" {s} is delighted. The fans are not.",
+   "A banner for the nephew went up crooked. {s} says that is \"his brand.\"",
+   "Someone asked who Dale is. The PA explained. The explanation did not help.",
+   "{s} sat the nephew on the sideline with a headset that was not plugged in. He nodded a lot."
+  ],
+  "tire": [
+   "{s} brought a second tire, just in case. It was needed.",
+   "The \"Spin the Tire\" contest at halftime ended with a lineman stuck in a tire. {s} loved it.",
+   "A fan won a set of {s} tires and asked if we could mount them during the third quarter.",
+   "The tire wobbled into the marching band. The tuba will recover. {s} sent flowers. Fake ones.",
+   "{s} painted the contest circle bigger. It is now a trip hazard and a landmark."
+  ],
+  "smile": [
+   "{s}'s rep was spotted counting smiles in the stands. The count was 'adequate'.",
+   "{s} reviewed the team photo and approved \"most of the smiles.\"",
+   "A player was told to smile harder. He smiled harder. A child cried. {s} called it \"authentic.\"",
+   "{s} sent a note: \"Teeth. We want to see teeth.\" The dentist in town is thrilled.",
+   "The team photo for {s} took fourteen takes. Take three was the only honest one. They used take twelve."
+  ],
+  "jersey": [
+   "{s}'s jersey patch is crooked. They are 'fine with it'. They are not.",
+   "{s}'s banner across the jerseys drew a few jokes from the visiting fans.",
+   "A fan asked if we were the {s} instead of the team. Marketing considers this a win.",
+   "The {s} lettering peeled in the rain. The rain has been named an MVP by the equipment guy.",
+   "{s} wants the patch bigger next year. Next year is going to be a conversation."
+  ],
+  "cam": [
+   "The {s} kiss cam found two brothers. Both were mortified. The crowd was not.",
+   "A man proposed on the {s} kiss cam. She said she needed to think. The cam kept rolling.",
+   "The {s} kiss cam landed on the owner and the mascot. Nobody speaks of it.",
+   "{s} asked us to retire the kiss cam for the visiting bench. We have retired nothing.",
+   "The {s} kiss cam caught a grandma kissing her popcorn. She was the star of the quarter."
+  ],
+  "coin": [
+   "The {s} owner did the coin toss in a cape. The cape caught the wind. The coin got away.",
+   "{s} insisted the cape be dry-cleaned between games. The cape has a budget now.",
+   "The ref asked the {s} owner to remove the cape. The owner declined with great dignity.",
+   "A kid asked the {s} owner if he was a real superhero. He said yes. We are not correcting him.",
+   "The {s} coin toss ran four minutes long due to a speech. Nobody asked for the speech."
+  ],
+  "scoreboard": [
+   "The PA announced \"Touchdown, brought to you by {s}\" and the crowd groaned in unison.",
+   "A {s} touchdown call was read over a fumble. We are filing a complaint with ourselves.",
+   "Fans now yell \"brought to you by {s}\" at every score. It is the only chant we have.",
+   "{s} wants the field goal call to be \"a little bit of {s}\". We said no. They said maybe.",
+   "The announcer mixed up the {s} tagline mid-game. It was worse and better at once."
+  ],
+  "blimp": [
+   "The {s} blimp drifted over the parking lot and ate a flag. It has not been seen since.",
+   "The {s} blimp lost altitude in the third quarter. A fan caught the tail. The fan is fine.",
+   "{s} sent a bigger blimp. We have not agreed to a bigger blimp.",
+   "The {s} blimp is now on every postcard in town. Nobody asked, and everybody bought one.",
+   "A seagull attacked the {s} blimp. The seagull won, and the crowd cheered the seagull."
+  ],
+  "seat": [
+   "Somebody added a mustache to the {s} seat logo. {s} loved it. We are baffled.",
+   "Every bleacher now says {s}. The kids call the whole stadium \"the {s}\".",
+   "A fan asked for his money back because his {s} seat was uncomfortable. We gave him a cushion. The cushion says {s}.",
+   "{s} sent an intern with a marker to touch up the seats. The intern had a good time.",
+   "The {s} seat logo wore through by week five. Fans love the smooth spot."
+  ],
+  "raffle": [
+   "The {s} raffle winner left with a year of free oil changes. He does not own a car.",
+   "The {s} raffle drew a roar when the number was called. The ticket belonged to the mascot.",
+   "{s} raffled a boat. The boat is a very small boat. The winner is thrilled.",
+   "A {s} raffle ticket was found in a hot dog. The hot dog was disqualified.",
+   "The {s} raffle line was longer than the beer line. We have seen this once before."
+  ],
+  "ambush": [
+   "A {s} rep handed a coupon to the visiting coach. He read it carefully and called a timeout.",
+   "{s} coupons rained down from the upper deck. Half were for the other team.",
+   "Our left tackle signed a {s} coupon. It is now worth more than the coupon.",
+   "The {s} rep followed a fan to the parking lot. Nothing happened, but it felt long.",
+   "A {s} coupon was used as a bookmark in a playbook. The playbook thanks you."
+  ],
+  "homewin": [
+   "{s} cut a check for the home win and wrote \"good job\" in the memo.",
+   "{s} brought a cake to celebrate the home win. The cake said {s}. Everyone ate it anyway.",
+   "A {s} rep cheered louder than the band after a home score. The band took note.",
+   "{s} would like every home game to be a win. We would too.",
+   "The {s} home bonus showed up in a plain envelope. It felt like a heist."
+  ],
+  "win50": [
+   "{s} calls every Sunday to ask if we are over .500. We are learning to screen.",
+   "{s} sent a calendar with the .500 line drawn in red. The owner has not hung it.",
+   "The {s} rep did the math at halftime. He did not like the math.",
+   "{s} left a voicemail that said only \"half.\" Then hung up.",
+   "A {s} staffer stood on a chair to see the scoreboard. The chair was not a good chair."
+  ],
+  "clinic": [
+   "The {s} youth clinic drew 80 kids and one confused uncle. The uncle did the drills.",
+   "A kid at the {s} clinic ran a perfect route into a goalpost. The goalpost is fine.",
+   "{s} sent twelve orange cones. We lost nine. The cones have a following.",
+   "The {s} clinic ended with a photo. Half the kids blinked. Half were fine, and we kept those.",
+   "A parent at the {s} clinic asked if the kids could keep the cones. They already had."
+  ],
+  "timeout": [
+   "The {s} timeout jingle is now stuck in the entire town's head.",
+   "The PA announced \"this timeout is brought to you by {s}\" six times. Somebody counted.",
+   "A ref waited for the {s} sting to finish before restarting. The sting did not finish.",
+   "{s} added a cowbell to the timeout package. The cowbell did not ask to be involved.",
+   "Kids can sing the {s} timeout song. They cannot sing the fight song. Priorities."
+  ],
+  "sample": [
+   "The {s} samples were gone in ten minutes. The sampling lady has been promoted.",
+   "The {s} sample table ran out of samples by the second quarter. Fans left happier, owner left poorer.",
+   "A guy came back for a fifth {s} sample. We did not have a policy for that. We do now.",
+   "{s} samples made it onto the field. A ref ate one. No flag.",
+   "The {s} table caused a backup at the gate. The backup bought tickets, so nobody complained long."
+  ],
+  "tailgate": [
+   "{s}'s tailgate was a hit. The smell was pure magic.",
+   "{s} fired up the giant grill in the tailgate lot. Smoke was visible from Fresno.",
+   "A line for {s} ribs wrapped around the ticket booth. The ticket booth joined the line.",
+   "{s} ran out of sauce. A crisis was declared and resolved with mustard. Historians will argue.",
+   "The {s} grill set off a smoke alarm that we did not know the lot had."
+  ],
+  "giveaway": [
+   "{s}'s giveaway left a thousand foam fingers on the field. Groundskeeping has questions.",
+   "{s} gave away a thousand tiny foam fingers. Fans were thrilled; the owner is still counting.",
+   "A {s} tote bag is now a stadium-wide fashion. They are not cute. They are everywhere.",
+   "Kids fought over the last {s} item. Parents fought over the kids. Security ate a pretzel and watched.",
+   "{s} giveaway debris has its own recycling bin now. The bin is already full."
+  ],
+  "perwin": [
+   "{s} sent a card: 'Every win counts. Literally. We count them.'",
+   "{s} keeps a running tally of your wins on a whiteboard.",
+   "A {s} intern clapped after the win and then wrote a number in a ledger. Both were sincere.",
+   "{s} texted a thumbs-up and a dollar sign. The thumbs-up felt cheaper.",
+   "The {s} rep nodded from the 20. The nod meant money. We have learned to read the nod."
+  ],
+  "bigwin": [
+   "{s} sent a note: 'Great job. Do it again.'",
+   "{s} says it is \"thinking about you\" every Saturday, mostly after wins.",
+   "A balloon from {s} arrived in the office. It said \"WIN.\" It is losing helium already.",
+   "{s} called the win \"content.\" Then they paid. Content is fine.",
+   "The {s} bonus check came with glitter. The accountant is still finding glitter."
+  ],
+  "win30": [
+   "{s} says: 'Keep it above 30%, champ.' You think it was meant to be encouraging.",
+   "{s} sent a note: \"Just keeping an eye on the win column. Friendly.\"",
+   "Thirty percent is not a high bar, {s} would like you to know, casually, in writing.",
+   "{s} left a magnet on the fridge: \"30%.\" It is not a diet ad.",
+   "A {s} voicemail: \"Love the hustle. Love 30% even more.\" Then a beep."
+  ],
+  "win40": [
+   "{s} sent a card: 'Forty percent. We believe.' It was a small card.",
+   "{s} sent a note: \"We love the team. We also love 40%.\"",
+   "{s} circled 40% on a printout of the standings. The circle was heavy.",
+   "A {s} rep asked, as if curious, what 40% of the remaining schedule looks like.",
+   "{s} believes in you at a 40% clip. Belief has a spreadsheet."
+  ],
+  "win55": [
+   "{s} mentions, as if in passing, that 55% unlocks the good stuff.",
+   "{s} reminded you that the big premium goes to teams that win. It is in bold.",
+   "Fifty-five is the number {s} wrote on a napkin and left on your desk.",
+   "{s} sent flowers after a win and a calculator after a loss. The calculator is still here.",
+   "A {s} email subject line: \"55% is the floor.\" There was no body text. There did not need to be."
+  ],
+  "win70": [
+   "{s} is already planning a victory party. They have not been told to.",
+   "{s} is \"very excited\" about the playoff chase. It said so twice.",
+   "Seventy percent. {s} has a Pinterest board for the parade. You have a practice schedule.",
+   "{s} asked if the trophy case has room. The trophy case has a bag of chips in it.",
+   "A {s} intern is tracking your pace on a wall chart. The wall chart has glitter stars. It is serious."
+  ],
+  "loud": [
+   "{s}'s air horn went off during the national anthem. Nobody knew why.",
+   "{s}'s air horn went off 11 times. A dog two blocks away filed a complaint.",
+   "The {s} horn startled a ref. The ref did not throw a flag. Growth.",
+   "Fans have started covering their ears when {s} is mentioned. Marketing calls this \"engagement.\"",
+   "The {s} air horn battery died in the fourth. It was the quietest, nicest quarter of the year."
+  ],
+  "kids": [
+   "The {s} kids club chanted all game. Their chant was 'Sponsor! Sponsor!'",
+   "The {s} kids club in the end zone got a little rowdy. Cereal was thrown.",
+   "A {s} cereal mascot high-fived 200 children and then sat down for a long time.",
+   "Parents asked if the {s} kids club included earplugs. It does not. It includes sugar.",
+   "{s} handed out stickers that will be on the bleachers until the next ice age."
+  ]
+ },
+ "sponsorClauseGeneric": [
+  "{s} wanted you to know they are still your sponsor. They sent a pen.",
+  "{s} dropped off a banner, a pen, and a feeling.",
+  "{s} stopped by the stadium to say hello. They brought a banner, in case you forgot.",
+  "{s} left a voicemail that was 90% logo description and 10% \"great game.\"",
+  "A {s} magnet is now on the office fridge. It is slightly crooked. So is the relationship, warmly.",
+  "{s} sent a fruit tray. The melon was ambitious. The note said \"partners.\"",
+  "{s} waved from the 50. The wave lasted three quarters.",
+  "{s} asked if the PA could mention them \"just once more.\" It was not once. It was not more. It was many."
+ ],
+ "sponsorBonus": [
+  "{s} sent a ${amt} win bonus. The note said 'More of this please.'",
+  "Win bonus from {s}: ${amt}. A man in a tie nodded approvingly from the parking lot.",
+  "{s} paid a ${amt} bonus for the win. A man in a tie danced.",
+  "Win bonus from {s}: ${amt}. The accountant did not dance, but he nodded.",
+  "{s} wired ${amt} and a smiley face in the memo line. The smiley face is how you know they mean it.",
+  "A check from {s} for ${amt}. They spelled \"congratulations\" with one n. We cashed it anyway.",
+  "{s} dropped off ${amt} in an envelope that still smelled like the tailgate.",
+  "Win pay from {s}: ${amt}. They asked if we could do it again next week. We said we would try.",
+  "{s} celebrated with ${amt} and a balloon. The balloon is in the rafters now.",
+  "Bonus: ${amt} from {s}. The accountant filed it under \"please continue.\""
+ ],
+ "sponsorWatch": [
+  "{s} is looking at the standings again. They want {need}%. You're at {pct}%. They mention it casually. Three times.",
+  "A gentle word from {s}: their deal wants a {need}% win rate and you're at {pct}%. The gentle part was the stationery.",
+  "{s} would like to remind you its deal needs a {need}% win rate. You are at {pct}%. \"No pressure,\" it adds, with pressure.",
+  "Heads up: {s} is watching your record. They want {need}%, you are at {pct}%.",
+  "{s} sent a chart. The chart has a line at {need}%. You are at {pct}%. The ink is red on purpose.",
+  "A \"checking in\" email from {s}. They need {need}%. You sit at {pct}%. Checking in is doing a lot of work there.",
+  "{s} left a voicemail about \"trajectory.\" Trajectory means {need}%, and you are at {pct}%.",
+  "The {s} rep smiled too long in the lobby. They want {need}%. You have {pct}%. The smile was a warning.",
+  "{s} circled your {pct}% in the paper and wrote {need}% in the margin. The paper was returned to you.",
+  "Friendly reminder from {s}: {need}% is the deal. {pct}% is the present. The future is your problem."
+ ],
+ "sponsorLeft": [
+  "{s} has walked away. Your record fell short of {need}%. The message was brief. The message was also in all caps.",
+  "{s} cancelled. They needed {need}% and you didn't get there. They said 'we wish you well', which means they don't.",
+  "{s} has left. You finished under their {need}% win rate. The letter ended with \"no hard feelings,\" which means hard feelings.",
+  "The {s} banner came down before the coffee finished brewing. They wanted {need}%. That was that.",
+  "{s} is out. {need}% was the line. You did not make the line. They took the pens with them.",
+  "A breakup note from {s}: {need}% or bust. Bust it was. They cc'd a lawyer, \"just in case.\"",
+  "{s} packed the folding table and the smiles. The contract needed {need}%. The folding table is gone.",
+  "You missed {s}'s {need}% clause. They missed you already, they wrote, from a better team's parking lot.",
+  "{s} invoked the fine print. The fine print was {need}%. The print was very fine and very final.",
+  "Gone: {s}. Reason: {need}% win rate. Tone: a holiday card signed by a committee."
+ ],
+ "sponsorExpired": [
+  "The {s} deal is finished. Their rep shook your hand like it owed him money.",
+  "Your {s} contract is up. They'll always have fond memories. Mostly of the free hot dogs.",
+  "{s} deal has ended. They said thanks, and \"we should do lunch.\" Nobody will do lunch.",
+  "Your deal with {s} ran its course. The banner is coming down.",
+  "{s} sent a calendar with the last date circled. The circle was polite. The deal is over.",
+  "Term ended on the {s} contract. They took the cooler. You may keep the magnet.",
+  "{s} is moving on, they say, \"with gratitude.\" Gratitude packed a box.",
+  "The {s} seasons ran out. A nice note, a nicer invoice for the leftover hats.",
+  "{s} expired like milk, except with a handshake and a photo for their newsletter.",
+  "End of the road with {s}. They wish you luck. They also wish they had signed a longer deal, maybe. They did not."
+ ],
+ "sponsorOfferLapsed": [
+  "The {s} offer is gone. They signed with the team across the river, and tweeted about it.",
+  "{s} waited. And waited. And then signed with someone else.",
+  "The {s} offer has expired. They found someone else, a team with better colors, probably.",
+  "You did not answer {s} in time. They have moved on, and posted about it.",
+  "{s} took their casserole and their clause elsewhere. The casserole was still warm.",
+  "Too slow for {s}. They are on another letterhead now.",
+  "The {s} window closed. Somebody else opened it. You can hear the cheering from here, maybe.",
+  "{s} left a note: \"We had to go with a club that answers the phone.\" The phone was on silent. Of course it was.",
+  "Offer expired: {s}. They are somebody else's problem and somebody else's check.",
+  "{s} found another jersey to stitch. Yours is still blank on that spot."
+ ],
+ "sponsorSigned": [
+  "{s} is in: ${amt} a game for {n} {seasons}. Their only ask: \"{clause}\" The lawyer said it's 'probably fine'.",
+  "It's official with {s}. ${amt} a game for {n} {seasons}. Condition: \"{clause}\" You signed with a pen that said 'Property of {s}'.",
+  "Signed with {s}: ${amt} a game for {n} {seasons}. Their one condition: \"{clause}\"",
+  "Done deal with {s}, ${amt} a game for {n} {seasons}. The handshake was firm and a little damp. Condition: \"{clause}\"",
+  "{s} is family now, or at least payroll. ${amt} a game, {n} {seasons}. They want: \"{clause}\"",
+  "You and {s} are in business. ${amt} per game, {n} {seasons}, and this sentence in bold: \"{clause}\"",
+  "Ink is dry on {s}: ${amt} a game for {n} {seasons}. The fine print is not that fine: \"{clause}\"",
+  "Welcome {s} to the family. ${amt} / game, {n} {seasons}. House rule: \"{clause}\"",
+  "{s} brought a check for ${amt} a game and a grin. {n} {seasons}. Grin translates to: \"{clause}\"",
+  "Deal closed with {s}. Money: ${amt} a game. Time: {n} {seasons}. Strings: \"{clause}\""
+ ],
+ "sponsorCancelled": [
+  "You parted ways with {s}. Cost: ${amt}. They asked if you wanted the banner back. You did not.",
+  "{s} is gone. ${amt} to get out. The rep sent a gift basket anyway, with a note: 'Somehow, no hard feelings.' There were hard feelings.",
+  "You walked away from {s}. It cost ${amt}, one game of their pay. They said the banner was \"non-refundable.\"",
+  "{s} is out. Cancelling cost ${amt}. Their rep sighed so hard the phone crackled.",
+  "You cut {s} loose for ${amt}. The logo is a slightly cleaner rectangle now.",
+  "Cancelled: {s}. Buyout ${amt}. They took the cooler and left the crumbs.",
+  "{s} has been shown the door. The door cost ${amt}. The door did not thank you.",
+  "You bought out {s} for ${amt}. They called it \"a shame.\" You called it \"Tuesday.\"",
+  "The {s} deal is over by your choice. ${amt} later, the PA is quieter.",
+  "Goodbye {s}. The fee was ${amt}. The silence is included at no extra charge."
+ ],
+ "awardMine": [
+  "{p} took {a}! The town painted a mural. It looks like {p} a little. Mostly the hair.",
+  "{p} is the winner of {a}. His day-job boss put his picture in the break room and then hid it from the other boss.",
+  "{p} won {a}. A local restaurant named a burger after him. The burger is the best thing on the menu.",
+  "{p} won {a}. The town council wants a statue. You said a plaque. They are fighting about it.",
+  "Your man {p} took home {a}. His day job gave him Monday off, and a card.",
+  "{p} is {a}. He carried the trophy into the diner and they comped his eggs. Once.",
+  "{a} goes to {p}. Somebody already put it on a T-shirt. The T-shirt is slightly wrong about the year.",
+  "{p} won {a}. His mom called the office. We put her through. She cried, then asked about parking.",
+  "{p} took {a} and immediately asked if it came with a parking spot. It does not.",
+  "League honors: {p}, {a}. The team group chat has 40 fire emojis and one typo.",
+  "{p} is the {a}. Carl wants a proclamation. The proclamation is in draft. It will stay in draft.",
+  "{p} won {a}. He still has to work on Monday. Glory is part-time in this league."
+ ],
+ "fanFavoriteBreakout": [
+  "{p} ({pos}, {town}) has become a fan favorite.",
+  "{town} has a new crush: {pos} {p}. Kids are copying his warm-up. Poorly.",
+  "{p} ({pos}) is suddenly the name on {town} lips, bumper stickers, and one barn.",
+  "The crowd in {town} started a {p} chant. It caught on. He is a fan favorite now.",
+  "{pos} {p} sold out of his shirt in {town}. There were twelve shirts. Still counts.",
+  "{p} ({pos}) has crossed over from \"pretty good\" to \"don't you dare trade him\" in {town}.",
+  "A homemade sign for {p} showed up in {town}. Grammar aside, he is a fan favorite.",
+  "{town} adopted {pos} {p}. The paperwork is emotional, not legal."
+ ],
+ "fanFavoriteLocal": [
+  "{p} ({pos}, {age}) is a hometown legend from {town} and just hit the market.",
+  "Local kid {p} ({pos}, {age}) out of {town} is available, and the town already loves him.",
+  "{town} raised {p} ({pos}, {age}). He is on the market and the bleachers know his name.",
+  "A {town} legend just turned pro-ish: {p}, {pos}, {age}. Free agents do not usually come with a parade route.",
+  "{p} ({pos}) is {age}, from {town}, and already a favorite. Somebody should sign him before the diner does.",
+  "Hometown hero alert: {p} ({pos}, {age}) out of {town} is unsigned and beloved.",
+  "{town} called. They have a {pos} named {p}, age {age}, and a lot of feelings. He is on the market.",
+  "{p} ({pos}, {age}) left {town} with a send-off and a casserole. He is a free agent and a fan favorite."
+ ],
+ "rumorLowCash": [
+  "Rumors are spreading that the {t} are running out of money. Their equipment manager was seen counting quarters.",
+  "Word around the league is the {t} are getting low on cash. Their bus driver asked to be paid in advance.",
+  "People in {town} say the {t} are counting pennies. Their halftime show is now one guy with a kazoo.",
+  "A little bird says the {t} are running short of funds. The little bird wanted cash up front, so it knows.",
+  "The {t} delayed a tape order. In {town} that is how you know the wallet is light.",
+  "Whispers: the {t} are stretching payroll. Their water is now \"bring your own.\"",
+  "A vendor in {town} put the {t} on cash-only. The vendor used to take a handshake.",
+  "The {t} skipped the good ice. {town} noticed. {town} always notices the ice.",
+  "Somebody saw the {t} owner at a coin-op laundry with a duffel of pennies. Could be nothing. It is not nothing.",
+  "Low tide in {town}: the {t} are pinching. The mascot costume has a patch on the patch."
+ ],
+ "rumorVeryLow": [
+  "It is getting serious: the {t} are almost out of money. Their owner was spotted at a pawn shop in {town}.",
+  "The {t} are down to their last few dollars, they say. Players were told to bring their own tape.",
+  "Whispers say the {t} cannot make next week's payroll. The team plane is now a van. The van is borrowed.",
+  "The {t} are nearly broke. Their water cooler now has a coin slot.",
+  "In {town} they have started a \"save the {t}\" bake sale. The bake sale is not figurative.",
+  "The {t} turned the lights off at practice. Daylight is free. Pride is not.",
+  "A lien rumor on the {t} scoreboard. {town} is pretending not to look up.",
+  "The {t} offered players \"exposure\" instead of a per diem. Exposure does not buy gas.",
+  "Nearly empty: the {t} account, the {t} snack table, and the patience in {town}.",
+  "The {t} are one bounced check from a very awkward Saturday. {town} is holding its breath."
+ ],
+ "rumorDoomed": [
+  "The {t} are in the red. Folks in {town} are saying the franchise is likely doomed.",
+  "Bad news: the {t} are broke and in debt. Sources say they will not survive the season.",
+  "The {t} have gone negative. The league office has stopped returning their calls, and started printing flowers.",
+  "Overdrawn and out of options, the {t} look doomed. Somebody in {town} is already measuring the scoreboard for removal.",
+  "A moving truck was parked behind the {t} offices in {town}. It might have been a coincidence. It was not.",
+  "The {t} bounced a check to the officials. The officials have long memories and short patience.",
+  "{town} is writing eulogies in the editorial page. The {t} are still on the schedule, for now.",
+  "Doomed is a strong word. It is also the word people in {town} are using about the {t}.",
+  "The {t} lights are on a payment plan. The payment plan is behind. So is everything else.",
+  "League lawyers have the {t} file open. {town} has the casserole circuit on standby."
+ ],
+ "pleas": [
+  "Hello from {town}. We are the {t}, and we are broke. ${amt} would keep the lights on and the players paid through the next few games. We would put your name on a bench, if we still had benches.",
+  "Dear fellow owner: the {t} are about to miss payroll. A gift of ${amt} would keep us alive. We will not forget it. We cannot afford to.",
+  "The {t} are one bad gate from folding, and the league is a lot less fun with {town} gone. Could you spare ${amt}? We will pay you back in friendly handshakes.",
+  "I am writing from a folding chair in the {t} front office. The other chair was repossessed. ${amt} would save the season, and the chair.",
+  "This is the owner of the {t}. Pride is expensive. ${amt} would let {town} keep a team through the stretch. I am asking.",
+  "We painted over the cracks in {town} long enough. The {t} need ${amt} or we go dark. I would rather not go dark.",
+  "A straight ask: ${amt} for the {t}. We have a Saturday left to save and a town that still shows up.",
+  "If you have ever liked having us on the schedule, now would be the time. The {t} need ${amt}. {town} is watching the mailbox.",
+  "Our account in {town} has a minus sign. The {t} can erase it with ${amt} and a little mercy.",
+  "I would not write this if I had another idea. The {t} need ${amt}. {town} still believes someone will answer."
+ ],
+ "pleaThanks": [
+  "You saved the {t}. The ${amt} is in the bank, and our players are eating real food again. Thank you.",
+  "We got your ${amt}. Half of {town} cried and the other half bought a ticket. Thank you.",
+  "The {t} are still standing, thanks to ${amt} from you. A healthy league needs owners like you.",
+  "{town} will not forget the ${amt}. The {t} have lights, tape, and a chance. That is everything.",
+  "Your ${amt} hit the account. I sat down on the remaining chair and stayed there a while. Thank you.",
+  "The {t} live. ${amt} from you, and {town} is loud again. We owe you a game and a better season.",
+  "We cashed the ${amt} and called the players. Nobody got cut today. Thank you from the {t}.",
+  "{town} put your name on a bench after all. We found a bench. The ${amt} found a future.",
+  "Gratitude from the {t}: ${amt} kept the bus, the field, and the fool who signed this letter.",
+  "You did not have to send ${amt}. You did. The {t} and {town} are still on the map because of it."
+ ],
+ "draftComing": [
+  "The Premium Player Draft is coming: {n} experienced college graduates, {rounds} rounds, worst finish picks first and the champion last. You pick #{pick} in round 1. First-round picks sign for 3 seasons, second-round picks for 2, everyone after for 1, all at a fixed rookie rate. A team that is broke has to pass on its pick.",
+  "Draft day approaches. {n} players are on the board, {rounds} rounds long, the worst finishers go first and the champion picks last. You are on the clock at #{pick}. Rookie deals are fixed: 3 years for round 1, 2 for round 2, 1 after that. If your club is broke, you pass.",
+  "Scouts report {n} prospects for the Premium Player Draft. {rounds} rounds, worst finish first, champion last, and you hold the #{pick} pick in round 1. Rookies sign at a fixed rate, longer deals for earlier picks. Teams that cannot pay have to forfeit.",
+  "The Premium Player Draft is set: {n} grown-up college players, {rounds} rounds, and you pick #{pick} first. Round 1 deals run 3 seasons, round 2 runs 2, and the rest run 1. The champion picks last, and a broke club has to pass."
+ ],
+ "draftOver": [
+  "The Premium Player Draft is over.",
+  "That is a wrap on the Premium Player Draft. The war room smells like cold pizza.",
+  "The draft board has been cleared. The Premium Player Draft is history.",
+  "The Premium Player Draft is done, and so is the coffee."
+ ],
+ "draftNone": [
+  "You did not make a selection.",
+  "You did not make a selection. The scouts are pretending that was the plan.",
+  "No picks for you this time. The intern is relieved.",
+  "You left the draft with nobody. The desk chairs are still warm."
+ ]
+}

@@ -1,0 +1,12 @@
+[package]
+name = "sp_tools"
+description = "CLI harnesses for balancing and calibrating the sim."
+edition.workspace = true
+version.workspace = true
+publish.workspace = true
+
+[dependencies]
+sp_core = { path = "../sp_core" }
+sp_sim = { path = "../sp_sim" }
+sp_economy = { path = "../sp_economy" }
+sp_league = { path = "../sp_league" }

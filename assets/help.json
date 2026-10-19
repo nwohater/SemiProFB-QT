@@ -1,0 +1,415 @@
+{
+ "categories": [
+  "Basics",
+  "Players",
+  "Contracts & pay",
+  "Money",
+  "Game day",
+  "Offseason & league"
+ ],
+ "topics": [
+  {
+   "category": "Basics",
+   "title": "How the game works",
+   "body": [
+    "You own a semi-pro football team in a 12-team league (California, Texas, Florida or Pennsylvania, your pick on New Game): three divisions of four teams each. Your players have day jobs and play for gas money.",
+    "A season is 14 games, one per week (7 home, 7 away). The three division winners plus one wild card make a 4-team playoff: two semifinals, then the final.",
+    "You never call plays. You run the business and set the plan: who is on the roster, who dresses, the depth chart, the game plan (strategy), ticket prices, promos, sponsors and the stadium. Then you play the week and read the box score."
+   ]
+  },
+  {
+   "category": "Basics",
+   "title": "Regions, towns and nicknames",
+   "body": [
+    "On New Game, the region menu at the top of the screen picks where your league is played: California, Texas, Florida or Pennsylvania. Each region has its own towns, three divisions, rivalries, nicknames and helmets. The divisions are named for the region (Texas: Plains, Gulf, Central; Florida: North, Gulf, Atlantic; Pennsylvania: West, Central, East).",
+    "Each division has nine possible towns, and four of them are dealt into your league. Shuffle towns deals a new set. Tap a town to see its size, how much it cares, its wealth and its rivals, then start as that town.",
+    "Every town starts with a random nickname, and no two towns share one. You can rename your team from the nicknames nobody else holds. The helmet follows the nickname.",
+    "Region matters on the field too: Pennsylvania is cold, so games are colder and snow is far more common, while coastal divisions have milder weather. Rivals are real neighbors in the same region, and rivalry games draw bigger crowds.",
+    "If an AI team goes bankrupt it is replaced by a new town from the same division in your region."
+   ]
+  },
+  {
+   "category": "Basics",
+   "title": "How you lose (and win)",
+   "body": [
+    "Cash is the real scoreboard. If your cash is below zero after a game, you are overdrawn. Three game days in a row overdrawn ends the franchise (the bank ladder: Overdrawn, then Final notice at two, then bankrupt at three). Getting back above zero resets the count.",
+    "Cash status on the Finances screen: Solvent, Cash is low (under two games of payroll), Overdrawn, Final notice, Bankrupt.",
+    "Winning matters because it fills the stadium: wins raise fan interest, which raises attendance, which pays the bills. Titles give a big fan bump in the offseason."
+   ]
+  },
+  {
+   "category": "Basics",
+   "title": "Screens and navigation",
+   "body": [
+    "- Home: next game, matchups, alerts, last result, money, division table, and the main button to play the week.",
+    "- Offseason: appears after the season ends. Progression, contracts, free agents and the draft.",
+    "- Roster: everyone you own, sortable. Click a player for his bio.",
+    "- Game plan: scheme and sliders for offense, defense and special teams.",
+    "- Depth chart: who starts at every position, kicker, punter and returners.",
+    "- Finances: Overview, Tickets, Sponsors, Facilities, Payroll, Loan and the town council.",
+    "- Free agents and Trades: sign players, open tryouts, swap players and picks with other clubs.",
+    "- League: standings, schedule, playoffs, leaders, team stats, awards, Hall of Fame and history. History lists every past champion with its helmet, record and title count.",
+    "- News: the weekly Gazette.",
+    "- Inbox: reports and letters from your staff, sponsors, the bank and your players.",
+    "- Settings: music, your franchise and its saves, difficulty, the tutorial and this help.",
+    "The side rail on the left is always there. On a narrow window it moves to a row of tabs along the top. The game saves automatically after every action."
+   ]
+  },
+  {
+   "category": "Players",
+   "title": "Roster, active list and reserves",
+   "body": [
+    "You can carry about 50 players, but only 46 are dressed (active) for a game. Active players get full game pay. Inactive (reserve) players cost a small retainer instead (see Contracts & pay).",
+    "Active list: toggle players on or off from the Roster row menu, the Player screen, or the Active list screen. Auto-set roster picks the best 46 before every game and skips injured players. Set best 46 now does it once.",
+    "Minimum coverage: the sim needs enough bodies at every position. If you are thin somewhere (a red warning on Roster and Home), other players play out of position until you sign someone. Free agents and open tryouts fix that."
+   ]
+  },
+  {
+   "category": "Players",
+   "title": "Ratings and OVR",
+   "body": [
+    "Every player has eight ratings from 1 to 99, shown as raw numbers: SP speed, AC acceleration, AG agility, ST strength, HA hands, EN endurance, IN intelligence, DI discipline. Endurance and discipline matter at every position (fatigue and injuries, penalties and mistakes).",
+    "OVR is the plain average of the four key ratings for the position, so you can see exactly why a player is rated what he is. On the Player screen the four key ratings are highlighted with a KEY tag.",
+    "- QB: AG, ST, IN, DI",
+    "- RB, WR, CB: SP, AC, AG, HA",
+    "- FB: ST, HA, EN, IN",
+    "- TE: AG, ST, HA, IN",
+    "- OT, OG, C: AG, ST, IN, DI",
+    "- DE, DT: AC, AG, ST, IN",
+    "- OLB: SP, AG, ST, IN",
+    "- MLB: SP, ST, EN, IN",
+    "- S: SP, AG, HA, IN",
+    "- K, P: ST, EN, IN, DI",
+    "Rating colors: green is 65 and up, amber is 45 to 64, red is below 45. Ratings you do not see in OVR still affect the game (for example a deep passer needs a strong arm)."
+   ]
+  },
+  {
+   "category": "Players",
+   "title": "Growth, decline and retirement",
+   "body": [
+    "Each rating has a hidden ceiling (potential). Nothing in the game shows potential. The only clue is how a player changes each offseason: the Offseason screen shows every player's before and after.",
+    "Young players grow toward their ceilings. Peak is the middle twenties. Speed, acceleration and agility fade first from about 30; intelligence and discipline hold on longest. Kickers and punters last longest.",
+    "Retirement odds climb with age (and after a season-ending injury). Retired players leave the roster. Because ratings are all you see, signing a young player with low ratings is a gamble on a ceiling you cannot see."
+   ]
+  },
+  {
+   "category": "Players",
+   "title": "Position changes",
+   "body": [
+    "On the Player screen, Change position lists the other spots he can play with the OVR he would have there (same eight ratings, different key four). Moving him takes him off the old depth chart and lets you place him at the new position."
+   ]
+  },
+  {
+   "category": "Players",
+   "title": "Depth chart",
+   "body": [
+    "The depth chart sets who plays at each position. If you never touch it, the game picks automatically by rating and fatigue. If you set an order, the game uses your order first, then the rest of that position by rating.",
+    "Tired starters rotate to a rested backup during games (not QB, K or P). Injured and inactive players are skipped. Packages (Base, 2-TE, Heavy, Spread, and 4-3, Nickel, 3-4, Goal line) dim the slots a formation does not use.",
+    "You can move a player up or down with the arrows, add a player from elsewhere, or Auto sort one position or all of them. A player placed out of position is flagged.",
+    "Kicker, punter and returners: the Depth chart also lists your kicker, punter, kick returner and punt returner. Anyone active can return kicks. Left on automatic, the best return scores among receivers, backs, corners and safeties get the job. Return yards and touchdowns show in the box score and on a player's bio, for any position."
+   ]
+  },
+  {
+   "category": "Players",
+   "title": "Hometown, locals and commute",
+   "body": [
+    "Every player has a hometown. Players from your town (within about a mile) are locals and get a LOCAL tag. Locals are cheaper to sign and never charge a commute fee.",
+    "How hometown changes his asking pay (on top of everything else):",
+    "- Local (within 1 mile): 20% less",
+    "- Up to 40 miles: 8% less",
+    "- 41 to 120 miles: no change",
+    "- 121 to 250 miles: 7% more",
+    "- Over 250 miles: 15% more",
+    "Commute fee: players who live more than 40 miles away add a flat per-game travel add-on of about 12 cents per mile, capped at $60 a game. It is fixed when the contract is signed, shows as \"+$X commute\" on the Player screen, and is paid only on games he is active. It is not part of the win bonus.",
+    "So a local hero is cheaper twice over: lower pay and no commute. An out-of-town star can cost real money on the bus."
+   ]
+  },
+  {
+   "category": "Players",
+   "title": "Day jobs, injuries and work trips",
+   "body": [
+    "Everyone has a day job (tap the job pill on a Player screen for its risk levels). Each week a risky job can cost you a player two ways: he gets hurt at work, or a work trip keeps him from the next game. Risk is shown as Low, Moderate, High or Very high; a roofer is riskier than an accountant.",
+    "Injuries during games and at work keep players out for a number of games (minor is one game; multi-week and serious run longer; season-ending carries into the next season, and most injuries heal over the offseason). Injured players are skipped automatically if you use auto-set, and show a red OUT tag.",
+    "Injuries also cost money: team medical bills run about $25 (shaken), $120 (minor), $500 (multi-week) or $1,400 (season-ending) per player."
+   ]
+  },
+  {
+   "category": "Players",
+   "title": "Fan favorites",
+   "body": [
+    "A small set of players league-wide (about 12 to 20) are fan favorites. The crowd turns out for them. Look for the gold star on the Roster, the Fan favorite pill on the Player screen, and the Fan favorites card on Finances > Tickets.",
+    "Each favorite adds roughly 1.5% to 3.5% to your home attendance, more for a better player, and more at glamour positions (quarterback biggest, then running back and receiver). Offensive linemen, kickers and punters are never fan favorites.",
+    "The boost only counts when he is dressed (on the active list) and healthy. It follows him: sign or trade for a favorite and the crowd comes with him. The total for a team is capped at +10%.",
+    "Every offseason, favorites who retire drop off. There is a good chance a new one emerges: either an existing player breaks out, or a brand-new local kid turns up in free agency. The league always keeps between 12 and 20."
+   ]
+  },
+  {
+   "category": "Contracts & pay",
+   "title": "Contracts and pay per game",
+   "body": [
+    "Players are paid per game (PPG) on contracts of 1 to 3 seasons. Active players are paid every game they are dressed; reserves get a retainer; players get nothing during the offseason.",
+    "Win bonus: on top of PPG, each active player earns 10% of his pay for a win. No bonus for a loss or a tie, and none for reserves.",
+    "Reserve retainer: a rostered player who is not on the active list is paid 15% of his PPG (at least $4) per game.",
+    "Releasing a player costs 12.5% of the pay left on his contract (remaining games times PPG). Players who are expiring cost nothing to let go."
+   ]
+  },
+  {
+   "category": "Contracts & pay",
+   "title": "What a player asks for",
+   "body": [
+    "His ask is built from: OVR (rises steeply, so a 70 costs far more than a 50), position (QB 22% more; RB, WR, CB 5% more; offensive line 5% less; FB 20% less; K and P 45% less), age (22 and under 3% less; 30 to 32 8% less; 33 and up 18% less), your town's size (smaller towns pay 0% to 28% less), contract length and hometown.",
+    "Contract length: 1 season costs 25% more per game, 2 seasons 10% more, 3 seasons the base price. Long deals are cheaper per game but lock you in.",
+    "Team mood: winning teams get up to a 5% discount and losing teams pay a premium, based on your win percentage. Before your first game everyone treats you as .500.",
+    "Asks use only current ratings and age. They never reveal hidden potential."
+   ]
+  },
+  {
+   "category": "Contracts & pay",
+   "title": "Negotiating",
+   "body": [
+    "Choose pay per game, number of seasons, and an optional signing bonus (paid in cash immediately; it counts toward his offer spread over the whole contract). He will accept, counter, or reject.",
+    "You get two rounds. In round one he accepts at his ask. In round two he accepts at 95% of it. Offers below about 85% of his ask are rejected outright; between 85% and his ask you get a counter.",
+    "A new signing dresses right away if the active list has room. Expiring players must be re-signed in the Offseason screen or they walk when the season starts."
+   ]
+  },
+  {
+   "category": "Money",
+   "title": "Where the money comes from",
+   "body": [
+    "- Gate: tickets sold times your ticket price. Visiting teams take 8% of the gate.",
+    "- Concessions: each fan spends a town-dependent amount (about $1.20 plus 35 cents per wealth point), boosted by concession stands, hurt by rain.",
+    "- Merch: about 35 cents per fan, more when fan interest is high.",
+    "- Sponsors: the per-game pay of each active sponsor deal, plus any win bonus the deal has.",
+    "- League share: $350 every game, home or away.",
+    "- Playoff bonus: $600 for each playoff game.",
+    "Away games only pay league share, sponsors and the visitor slice of the gate. Home games are where the money is."
+   ]
+  },
+  {
+   "category": "Money",
+   "title": "Where the money goes",
+   "body": [
+    "- Player pay: active players (PPG plus commute, plus win bonuses).",
+    "- Reserve pay: retainers for inactive players.",
+    "- Rent (home games): about $150 plus 8.5 cents per seat.",
+    "- Travel (away games): about $150 plus 35 cents per mile plus $104 for the bus crew.",
+    "- Insurance: $160 plus $3 per rostered player, every game.",
+    "- Medical: injury bills (see Day jobs, injuries).",
+    "- Other: $180 per game, $300 on home games.",
+    "- Upkeep: a per-game cost for each stadium upgrade level.",
+    "- Loan interest and payments, promo costs, and sponsor costs (for deals with a cost clause).",
+    "- Surprise bills: once a season, starting in week 5, a club sitting on $100k or more may get a letter from Accounts Payable (about 15% of the time, 25% at $200k+) that takes 20–50% of cash on hand. One roll per season, hit or miss. Playoffs and the offseason do not roll.",
+    "Carrying a bigger roster costs insurance and reserve pay even if they never play."
+   ]
+  },
+  {
+   "category": "Money",
+   "title": "Attendance and fan interest",
+   "body": [
+    "Attendance depends on: your town (population and how much it cares), fan interest, your ticket price, the weather (clear 100%, wind 95%, rain 85%, snow 70%), the opponent (better opponents and rivals draw more), and your stadium. Stadium lights, promos, sponsor clauses and fan favorites all multiply it. It can never exceed capacity.",
+    "The Tickets tab shows a typical crowd, not a lock. Game day rolls around that mean: a promo night stays fairly close (roughly 78–118% of typical), a quiet night with no promo swings hard (about 55–140%, then capped at the seats). Cheap tickets still help, they just do not fill the park every time.",
+    "Fan interest runs from 0 to 100 and starts around 50. Wins raise it (more for big margins, rivalries and playoffs); losses lower it (less in loyal towns). It drifts back toward 50 over time and cools some every new season. Making the playoffs adds a little in the offseason and winning the title adds a lot. Some sponsor clauses and ticket prices nudge it too.",
+    "Loyalty sets a floor: a loyal town still shows up when you stink."
+   ]
+  },
+  {
+   "category": "Money",
+   "title": "Ticket price",
+   "body": [
+    "Every town has a reference price (about $3 plus 90 cents times its wealth). Raising the price earns more per fan but lowers the typical crowd; lowering it does the reverse, until the park is usually full. The Tickets tab shows a typical crowd and a range; the real gate is rolled on game day.",
+    "Goodwill: after a home game played at a price at least 25% below the reference, with the park at least 80% full, fans love you: +0.5 to +1.5 fan interest (more for a bigger discount, more in loyal towns), up to +6 a season. Price at least 25% above reference costs a little fan interest (-0.3 to -1.0, never below -4 a season). It only counts after a home game actually played at that price, so changing the slider alone does nothing. The result shows on the week results screen."
+   ]
+  },
+  {
+   "category": "Money",
+   "title": "Promo nights",
+   "body": [
+    "Schedule one promo per home game on Finances > Tickets. It costs money up front, lifts the typical crowd, and makes turnout more predictable (people come for the event). It might still go wrong. Promos can only be planned for games not yet played, you cannot cancel one for a week already played, and all plans reset in the offseason, so choose again each season.",
+    "After a home game the Accountant's recap mentions a quiet night (fans complaining there was no promo) or, if a promo's risk fired, what went wrong. Promotions Office still sends its own success or trouble letter.",
+    "- Dollar Dog Night: bigger crowd, cheaper hot dogs.",
+    "- Kids Eat Free: small lift, small risk.",
+    "- Mascot Bobblehead Night: big merch bump.",
+    "- Fireworks Night: big crowd, moderate risk.",
+    "- Chili Cook-Off: modest crowd and spending.",
+    "- $2 Beer Night: the big gamble. A huge crowd and big concession sales, but about a 30% chance it goes wrong, and then you lose some of the crowd boost and pay a fine and cleanup bill (about three times the promo cost).",
+    "Costs scale with stadium size."
+   ]
+  },
+  {
+   "category": "Money",
+   "title": "Sponsors",
+   "body": [
+    "How many sponsors you can hold depends on fan interest: 1 slot to start, 2 at interest 30, 3 at 45 and 4 at 65. Winning raises it. If interest falls, deals you already signed stay, but you cannot add more until you are back under the slot count. Each pays a flat amount every game for 1 to 3 seasons. Offers come at the start of the game, every offseason, and sometimes in-season (about a 30% chance after a week, 50% after a win). In-season offers stay open for two weeks, then disappear.",
+    "Every offer shows its strings in a colored box, in plain words: \"Pays 15% more than a standard deal\" (or less) compares the per-game pay with what a typical offer of that size pays; \"Bonus of $160 for every win\" is extra on top; \"Walks away at season end if you win under 40% of games\" means the deal ends if you fall short; \"Fan interest rises or drops\" and \"Home crowds bigger or smaller\" are applied every game; \"Costs you $60 every home game\" comes out of your gate. Amber means a downside, green means none.",
+    "Examples: a jersey banner pays 22% more than a standard deal but fans dislike it; Spin the Tire pays 15% more but costs $50 per home game; giveaways pay 15% less but add fans and crowd for $100 per home game; win clauses pay big only if you win 30%, 40%, 55% or 70% of games, or the sponsor walks at season end.",
+    "Cancelling a deal costs one game of its pay. Weigh the extra pay against the fan, crowd and cost effects: more money is not always better."
+   ]
+  },
+  {
+   "category": "Money",
+   "title": "Stadium upgrades",
+   "body": [
+    "Each upgrade has a purchase price (the next level costs more) and a per-game upkeep.",
+    "- Bleachers: +400 seats per level (up to 4 levels), upkeep $30 per level per game.",
+    "- Concession stand: +8% concessions per fan per level (up to 3), $15 upkeep.",
+    "- Scoreboard: +6% sponsor pay per level (up to 3), $10 upkeep.",
+    "- Stadium lights: +6% attendance per level (up to 2), $40 upkeep.",
+    "- Training facility: your players grow 10% faster each offseason per level (up to 3), $75 upkeep. Very expensive. It does not slow aging.",
+    "Tear down: take off the top level of any upgrade to stop paying its upkeep. No refund, and rebuilding costs full price.",
+    "Seats only help if you would otherwise sell out. Check upkeep against the extra revenue before buying."
+   ]
+  },
+  {
+   "category": "Money",
+   "title": "Loans",
+   "body": [
+    "You can borrow up to a credit limit of $40,000 plus 40% of last season's revenue. Interest is 1% of the balance every game and a minimum payment of 2% of the balance comes out automatically. Repay any time from Finances > Loan.",
+    "A loan is a bridge, not a fix: if the team loses money every game, the interest makes it worse."
+   ]
+  },
+  {
+   "category": "Money",
+   "title": "The Finances screens",
+   "body": [
+    "- Overview: cash, last game, average crowd, fan interest, and where revenue and expenses come from.",
+    "- Sheet: the books on green-bar paper. A profit and loss statement for the season to date, then every game as a row: crowd and percent full, each revenue column, each expense column, NET for the game, YTD NET (running total) and CASH. The bottom row totals the season. Revenue is green, expenses red, (parentheses) are negative. Only the current season is kept.",
+    "- Tickets: price slider, expected crowd, fan favorites, promos.",
+    "- Sponsors: your deals and open offers.",
+    "- Facilities: stadium upgrades.",
+    "- Payroll: every contract, pay, commute and years left.",
+    "- Loan: borrow and repay.",
+    "The Offseason screen also keeps a live money panel with cash, salary per game, last season's average revenue and other costs, projected net and what unsigned expiring players would add, so you can see what a signing does."
+   ]
+  },
+  {
+   "category": "Game day",
+   "title": "Game plan (strategy)",
+   "body": [
+    "Strategy is how you coach without calling plays: an offensive scheme (Pro-Style, Spread, Air Raid, Ground and Pound, Option, Balanced), sliders (run/pass bias, pass depth, tempo, 4th-down aggression, play-action, pocket style), a defensive front, blitz and coverage plans, and special teams choices.",
+    "Fit chips (Good, Okay, Risky) tell you how well your players suit a choice, with the reason (\"QB reads 63\", \"RB speed 53 is weak\"). A deep passing plan needs a strong arm and fast receivers; a run plan needs linemen and backs.",
+    "The opponent report on Home and Game Plan shows tendencies and weak units. Weather also shifts the game: rain means more fumbles and drops, wind affects kicking and deep passes.",
+    "Pass rush and blitzes: the defensive line rushes every pass play. On a blitz, extra rushers come mostly from your linebackers, with pass-rushing outside linebackers sent most often. A safety or corner blitzes only now and then. More rushers means more pressure and sacks but thinner pass coverage, so keep the blitz slider honest."
+   ]
+  },
+  {
+   "category": "Game day",
+   "title": "Playing a week and reading results",
+   "body": [
+    "Press the main button on Home to play the next week. Every game in the league is played together. You then see Week results: score, money, fan interest, sponsor news, injuries and work-trip news.",
+    "The box score has Summary (why we won or lost), Teams, Players and Drives. Your own box scores are saved with your franchise; other teams' are not."
+   ]
+  },
+  {
+   "category": "Offseason & league",
+   "title": "The offseason",
+   "body": [
+    "After the final, press Begin offseason. It runs in order:",
+    "- Retirements: who hung up the cleats, your players first, then the rest of the league.",
+    "- Progression: how everyone changed (before and after) and fan favorite news.",
+    "- Contracts: players whose deals ended. Re-sign them (asks reflect their new ratings) or they leave when the season starts.",
+    "- Free agents: sign anyone available.",
+    "- The draft: the Premium Player Draft (see its topic). Starting the season happens from there.",
+    "When you press Start next season, unsigned expiring players walk, AI teams refill their rosters, bankrupt AI teams are replaced by new towns, a new schedule is made, promo plans are cleared and sponsors age (win-clause sponsors that you missed leave)."
+   ]
+  },
+  {
+   "category": "Offseason & league",
+   "title": "The Premium Player Draft",
+   "body": [
+    "Every offseason, after contracts and free agents, the league holds a 5-round draft with one pick per team per round. The worst finish picks first and the champion picks last, and every round uses the same order. The class is made of college grads and local players, better than the walk-ons in free agency, with the odd blue-chip prospect.",
+    "Prospects show OVR, age, hometown, pay and commute. Rookie pay is fixed by the slot: pick 1 earns the most per game, the last pick of round 5 the least. Round 1 picks sign for 3 seasons, round 2 for 2 seasons, rounds 3 to 5 for 1 season. A prospect who lives far away adds commute on top, so check it before you pick.",
+    "On your turn, draft a player, pass (the pick is gone for good), or use Sim to my pick to let the AI teams pick until you are back on the clock. Finish the draft auto-drafts your remaining picks from your suggested board. A club that cannot afford its pick has to pass.",
+    "The Picks tab shows every pick and who owns it. AI teams pick by talent first, then roster need, age and commute cost. After the last pick the best undrafted players go to free agency and the rest return to their day jobs."
+   ]
+  },
+  {
+   "category": "Offseason & league",
+   "title": "Trades",
+   "body": [
+    "Open the trade desk from the side rail. Pick a team, tick the players and draft picks you want from them and the ones you send, and see the money and their answer. You can include cash.",
+    "The AI wants to win every deal: it counts what it receives against what it gives up, adjusted for roster holes, age, contracts, injuries and money. Contenders prize veterans, rebuilding teams prize picks and young players, and the stars a team is built around cost extra. The bar shows how close your offer is, and the AI can tell you what to add.",
+    "Rules: regular-season trades close after week 10 and reopen in the offseason; they are closed during the playoffs. A free agent you just signed cannot be traded for 6 weeks. Picks from the next two drafts can be traded. A team never drops below 38 players or grows past its position mix by more than a few, and a club that cannot cover the cash cannot make the deal."
+   ]
+  },
+  {
+   "category": "Offseason & league",
+   "title": "The Gazette",
+   "body": [
+    "The Gazette is the weekly league paper, one issue per week played, found in the side rail. It leads with the story of the week, with a picture, then briefs, the scoreboard, a player spotlight, who is out, the business page, gossip and around the league. Tap a story to open what it is about. Use the issue picker to read back through earlier weeks."
+   ]
+  },
+  {
+   "category": "Offseason & league",
+   "title": "Legacy",
+   "body": [
+    "Legacy is your career as an owner: season by season record and finish, titles, honors, awards your players won, Hall of Famers and the clubs they helped. You can share it as a picture.",
+    "Winning the title gets a champion screen: your helmet, the team photo and a Season stamp on the frame."
+   ]
+  },
+  {
+   "category": "Offseason & league",
+   "title": "Free agents and open tryouts",
+   "body": [
+    "You can sign free agents at any time of year, not only the offseason. Released players, unsigned expiring players, players from folded teams and fresh walk-ons all land in the pool, including players cut by AI teams. The pool keeps the best 220 players each offseason, and an unsigned fan favorite stays even if he is not in that 220.",
+    "Open tryouts cost $400 and can be held once per week. With no position selected, a mixed tryout brings at least one player at every position (16 or more walk-ons); with a position chip selected, you get eight players at that spot. Tryout players are cheap and rough, with the occasional gem."
+   ]
+  },
+  {
+   "category": "Offseason & league",
+   "title": "League history and past champions",
+   "body": [
+    "League > History lists every completed season, newest first. Each card shows the champion's helmet, the season, the team name, its regular-season record, and a gold trophy. Repeat winners get a \"2nd title\", \"3rd title\" tag; the header names the team with the most titles. Your own championships are highlighted in green with a \"Your team\" tag.",
+    "Helmets: every team has its own helmet, shown on the hero cards, rosters, results and the champion screen. Names and helmets follow the region you picked."
+   ]
+  },
+  {
+   "category": "Offseason & league",
+   "title": "Awards",
+   "body": [
+    "League > Awards shows five races: Most Valuable Player, Offensive Player of the Year, Defensive Player of the Year, Trench Monster (the best offensive lineman, on pancake blocks minus sacks and pressures allowed) and Rookie of the Year. Each shows the top three finalists, updated after every week.",
+    "Scores come from the box score numbers: yards, touchdowns, sacks, tackles, takeaways, minus giveaways. Positions are weighted so no one position sweeps: quarterbacks and running backs win most MVPs, while a huge sack season can win it for a defensive lineman, and receivers and tight ends rarely do. The MVP gets a boost from a winning team.",
+    "A rookie is a player in his first pro season (his Yrs column shows R): this year's draft class and young players new to the league. Linemen on offense and kickers are not eligible.",
+    "Winners are locked in when the offseason begins, announced in your inbox, and kept under Past winners. If one of your players wins, you get a letter."
+   ]
+  },
+  {
+   "category": "Offseason & league",
+   "title": "Hall of Fame",
+   "body": [
+    "League > Hall of Fame honors retired players. When a player retires his whole career is scored: production above replacement level (weighted so every position competes fairly), seasons as a regular, championships (playoff stats count extra), and awards (MVP is worth the most).",
+    "Reach the bar and he is inducted that offseason, with his career line, titles and awards. Anyone who falls short stays on the Just missed list, ranked by score. You also get a letter about each class.",
+    "Players who never played 5 seasons cannot get in. Awards a player has won also appear on his own player page."
+   ]
+  },
+  {
+   "category": "Players",
+   "title": "Off-field trouble",
+   "body": [
+    "Players with low discipline (and, less so, low intelligence) sometimes do something dumb: a speeding ticket, a bar fight, an angry girlfriend, worse. The team lawyer writes to you in the inbox.",
+    "You pay to make it go away, or you let him face it and he sits out some games (never fewer than one). If you ignore the letter, he sits when the next game is played. Paying keeps it quiet; letting him sit costs fan interest (about three quarters of a point per game he misses).",
+    "Minor trouble is a few hundred dollars and one game. The serious stuff costs thousands and three games. A player's page lists suspensions in his absence history as CONDUCT.",
+    "Check discipline and intelligence on the player page before you sign someone. A great player with low discipline can cost you money and games."
+   ]
+  },
+  {
+   "category": "Basics",
+   "title": "The inbox",
+   "body": [
+    "The Inbox collects reports and letters in one list. Filter by Game & money, Injuries & travel, or Unread.",
+    "Game & money: a report after every game, promo night results, sponsor offers and events, bank notices, town council letters, fan favorite news, award results.",
+    "Injuries & travel: injuries from games, players hurt at their day jobs or stuck on work trips, written by the players themselves, and notes when they are back.",
+    "Open a message and use its button to jump to what it is about: the money sheet, sponsors, loans, a player page or the awards."
+   ]
+  },
+  {
+   "category": "Offseason & league",
+   "title": "League, standings and playoffs",
+   "body": [
+    "Standings rank by winning percentage, then head-to-head, division record, point difference, points scored, and finally a seeded coin flip. Division winners get seeds 1 to 3, the best remaining record is the wild card.",
+    "Playoffs: seed 1 hosts seed 4 and seed 2 hosts seed 3; the winners meet in the final. Playoff games have no ties.",
+    "AI teams manage themselves: they pick lineups, re-sign or release players, and fill their rosters within a budget. AI owners with spare cash fix up their stadium and run promo nights, and they pull profits out each offseason, so no team hoards cash forever. AI owners who are short on cash tighten the budget instead. Their sponsors renew automatically. If an AI team goes bankrupt it is replaced by a new town from the same division.",
+    "Town difficulty (Easy, Medium, Hard) on New Game reflects population, loyalty, wealth and business climate: bigger, richer, more loyal towns are easier."
+   ]
+  }
+ ]
+}

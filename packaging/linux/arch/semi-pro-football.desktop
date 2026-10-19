@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Semi-Pro Football
+GenericName=Football management sim
+Comment=Run a small-town semi-pro football team
+Exec=semi-pro-football
+Icon=semi-pro-football
+Terminal=false
+Categories=Game;Simulation;
+StartupWMClass=semi-pro-football
