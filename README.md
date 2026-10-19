@@ -4,6 +4,14 @@ A small-town football management sim for Linux. You own a semi-pro club: the pay
 
 This is the native Linux version, written in **Rust** with a **Qt 6 / QML** interface (via [cxx-qt](https://github.com/KDAB/cxx-qt)). It is a port of the Flutter/Dart mobile game.
 
+![Choosing a club on the New Game screen, with a map of the state](docs/new-game.png)
+
+*Pick a state and a town; the map shows where the league's clubs are.*
+
+![The California Gazette front page](docs/gazette.png)
+
+*The weekly Gazette covers the league, and the sidebar gets you to everything else.*
+
 ## Features
 
 - Pick a state (California, Texas, Florida or Pennsylvania) and a town from a dealt league of 12 clubs in 3 divisions, with a map of where everyone is
